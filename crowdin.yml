@@ -1,5 +1,5 @@
 files:
-  - source: /**/*.xlf
+  - source: /**/*
     ignore:
       - /**/*.txt
       - /**/*.sh
