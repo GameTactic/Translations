@@ -1,0 +1,3 @@
+files:
+  - source: /auth/src/*
+    translation: /auth/dist/%file_name%.%two_letters_code%.%file_extension%
