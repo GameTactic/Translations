@@ -11,15 +11,15 @@
       </trans-unit>
       <trans-unit id="47ienTP" resname="Username">
         <source>Username</source>
-        <target state="needs-translation">Username</target>
+        <target state="translated">Benutzername</target>
       </trans-unit>
       <trans-unit id="06AI7xM" resname="Region">
         <source>Region</source>
-        <target state="needs-translation">Region</target>
+        <target state="translated">Niederlassung</target>
       </trans-unit>
       <trans-unit id="XafKX.2" resname="Connected services">
         <source>Connected services</source>
-        <target state="needs-translation">Connected services</target>
+        <target state="translated">Verbundene Dientste</target>
       </trans-unit>
       <trans-unit id="Ayl_Qze" resname="Last login: %time% from %ip%.">
         <source>Last login: %time% from %ip%.</source>
@@ -35,7 +35,7 @@
       </trans-unit>
       <trans-unit id="MfvvFiW" resname="Continue">
         <source>Continue</source>
-        <target state="needs-translation">Continue</target>
+        <target state="translated">Weiter</target>
       </trans-unit>
       <trans-unit id="0Y3hVjp" resname="Username is required">
         <source>Username is required</source>
