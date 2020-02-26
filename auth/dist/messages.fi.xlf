@@ -5,137 +5,137 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="Ozafeq9" resname="Profile of user %username%">
+      <trans-unit id="Ozafeq9" resname="Profile of user %username%" approved="yes">
         <source>Profile of user %username%</source>
-        <target state="translated">Käyttäjän %username% profiili</target>
+        <target state="final">Käyttäjän %username% profiili</target>
       </trans-unit>
-      <trans-unit id="47ienTP" resname="Username">
+      <trans-unit id="47ienTP" resname="Username" approved="yes">
         <source>Username</source>
-        <target state="translated">Käyttäjänimi</target>
+        <target state="final">Käyttäjänimi</target>
       </trans-unit>
-      <trans-unit id="06AI7xM" resname="Region">
+      <trans-unit id="06AI7xM" resname="Region" approved="yes">
         <source>Region</source>
-        <target state="translated">Alue</target>
+        <target state="final">Alue</target>
       </trans-unit>
-      <trans-unit id="XafKX.2" resname="Connected services">
+      <trans-unit id="XafKX.2" resname="Connected services" approved="yes">
         <source>Connected services</source>
-        <target state="translated">Yhdistety palvelut</target>
+        <target state="final">Yhdistety palvelut</target>
       </trans-unit>
-      <trans-unit id="Ayl_Qze" resname="Last login: %time% from %ip%.">
+      <trans-unit id="Ayl_Qze" resname="Last login: %time% from %ip%." approved="yes">
         <source>Last login: %time% from %ip%.</source>
-        <target state="translated">Viimeinen kirjautuminen %time% osoitteesta %ip%.</target>
+        <target state="final">Viimeinen kirjautuminen %time% osoitteesta %ip%.</target>
       </trans-unit>
-      <trans-unit id="6mPfJme" resname="Details can be changed only via support with good reason.">
+      <trans-unit id="6mPfJme" resname="Details can be changed only via support with good reason." approved="yes">
         <source>Details can be changed only via support with good reason.</source>
-        <target state="translated">Tietoja voi vaihtaa vain tuen kautta hyvällä syyllä.</target>
+        <target state="final">Tietoja voi vaihtaa vain tuen kautta hyvällä syyllä.</target>
       </trans-unit>
-      <trans-unit id="DAFkr23" resname="Data shown here are only related to your authentication.">
+      <trans-unit id="DAFkr23" resname="Data shown here are only related to your authentication." approved="yes">
         <source>Data shown here are only related to your authentication.</source>
-        <target state="translated">Näyttyjä tietoja käytetään vain todentamiseen.</target>
+        <target state="final">Näyttyjä tietoja käytetään vain todentamiseen.</target>
       </trans-unit>
-      <trans-unit id="MfvvFiW" resname="Continue">
+      <trans-unit id="MfvvFiW" resname="Continue" approved="yes">
         <source>Continue</source>
-        <target state="needs-translation">Continue</target>
+        <target state="final">Jatka</target>
       </trans-unit>
-      <trans-unit id="0Y3hVjp" resname="Username is required">
+      <trans-unit id="0Y3hVjp" resname="Username is required" approved="yes">
         <source>Username is required</source>
-        <target state="needs-translation">Username is required</target>
+        <target state="final">Käyttäjänimi vaaditaan</target>
       </trans-unit>
-      <trans-unit id="HClzuhI" resname="Username must be less than 32 characters">
+      <trans-unit id="HClzuhI" resname="Username must be less than 32 characters" approved="yes">
         <source>Username must be less than 32 characters</source>
-        <target state="needs-translation">Username must be less than 32 characters</target>
+        <target state="final">Käyttäjänimen tulee olla lyhyempi kuin 32 merkkiä</target>
       </trans-unit>
-      <trans-unit id="Qpwkeq6" resname="Welcome back %username%">
+      <trans-unit id="Qpwkeq6" resname="Welcome back %username%" approved="yes">
         <source>Welcome back %username%</source>
-        <target state="needs-translation">Welcome back %username%</target>
+        <target state="final">Tervetuloa takaisin %username%</target>
       </trans-unit>
-      <trans-unit id="GtUHn.R" resname="Please press &quot;continue&quot; to return">
+      <trans-unit id="GtUHn.R" resname="Please press &quot;continue&quot; to return" approved="yes">
         <source>Please press "continue" to return</source>
-        <target state="needs-translation">Please press "continue" to return</target>
+        <target state="final">Paina ”Jatka” palataksesi</target>
       </trans-unit>
-      <trans-unit id="1pajW90" resname="Profile">
+      <trans-unit id="1pajW90" resname="Profile" approved="yes">
         <source>Profile</source>
-        <target state="needs-translation">Profile</target>
+        <target state="final">Profiili</target>
       </trans-unit>
-      <trans-unit id="SvpVv3r" resname="Terms of Service">
+      <trans-unit id="SvpVv3r" resname="Terms of Service" approved="yes">
         <source>Terms of Service</source>
-        <target state="needs-translation">Terms of Service</target>
+        <target state="final">Käyttöehdot</target>
       </trans-unit>
-      <trans-unit id="DiImtSN" resname="Welcome">
+      <trans-unit id="DiImtSN" resname="Welcome" approved="yes">
         <source>Welcome</source>
-        <target state="needs-translation">Welcome</target>
+        <target state="final">Tervetuloa</target>
       </trans-unit>
-      <trans-unit id="6Vw5YTi" resname="Go!">
+      <trans-unit id="6Vw5YTi" resname="Go!" approved="yes">
         <source>Go!</source>
-        <target state="needs-translation">Go!</target>
+        <target state="final">Aloita!</target>
       </trans-unit>
-      <trans-unit id="RYVyTjg" resname="Welcome, %username%!">
+      <trans-unit id="RYVyTjg" resname="Welcome, %username%!" approved="yes">
         <source>Welcome, %username%!</source>
-        <target state="needs-translation">Welcome, %username%!</target>
+        <target state="final">Tervetuloa %username%!</target>
       </trans-unit>
-      <trans-unit id="UJZnNsY" resname="We need to check few things before we can continue.">
+      <trans-unit id="UJZnNsY" resname="We need to check few things before we can continue." approved="yes">
         <source>We need to check few things before we can continue.</source>
-        <target state="needs-translation">We need to check few things before we can continue.</target>
+        <target state="final">Käydään läpi muutama asia ennen käytön aloittamista.</target>
       </trans-unit>
-      <trans-unit id="XiqG_XB" resname="Some are standard things, some are customizations for your account.">
+      <trans-unit id="XiqG_XB" resname="Some are standard things, some are customizations for your account." approved="yes">
         <source>Some are standard things, some are customizations for your account.</source>
-        <target state="needs-translation">Some are standard things, some are customizations for your account.</target>
+        <target state="final">Jotkin asiat ovat standardi juttuja, osa ovat tilisi tietoja.</target>
       </trans-unit>
-      <trans-unit id="HWGh45I" resname="Thank you for using GameTactic services!">
+      <trans-unit id="HWGh45I" resname="Thank you for using GameTactic services!" approved="yes">
         <source>Thank you for using GameTactic services!</source>
-        <target state="needs-translation">Thank you for using GameTactic services!</target>
+        <target state="final">Kiitos, että käytät GameTactic!</target>
       </trans-unit>
-      <trans-unit id="ShTXQVF" resname="Please click and read %href% terms of service %tag% fully.">
+      <trans-unit id="ShTXQVF" resname="Please click and read %href% terms of service %tag% fully." approved="yes">
         <source>Please click and read %href% terms of service %tag% fully.</source>
-        <target state="needs-translation">Please click and read %href% terms of service %tag% fully.</target>
+        <target state="final">Ole hyvä ja lue %href% käyttöehdot %tag% kokonaan.</target>
       </trans-unit>
-      <trans-unit id="hcsKFwF" resname="When you're done, please agree them below.">
+      <trans-unit id="hcsKFwF" resname="When you're done, please agree them below." approved="yes">
         <source>When you're done, please agree them below.</source>
-        <target state="needs-translation">When you're done, please agree them below.</target>
+        <target state="final">Kun olet valmis, hyväksy ne alta.</target>
       </trans-unit>
-      <trans-unit id="4hq3cuY" resname="I Accept Terms of Service">
+      <trans-unit id="4hq3cuY" resname="I Accept Terms of Service" approved="yes">
         <source>I Accept Terms of Service</source>
-        <target state="needs-translation">I Accept Terms of Service</target>
+        <target state="final">Hyväksyn käyttöehdot</target>
       </trans-unit>
-      <trans-unit id="_zjtryT" resname="Please select username. It will be the same even if you login via a different provider.">
+      <trans-unit id="_zjtryT" resname="Please select username. It will be the same even if you login via a different provider." approved="yes">
         <source>Please select username. It will be the same even if you login via a different provider.</source>
-        <target state="needs-translation">Please select username. It will be the same even if you login via a different provider.</target>
+        <target state="final">Valitse käyttäjänimi. Se on aina sama, vaikka käyttäisit toista kirjautumistapaa.</target>
       </trans-unit>
-      <trans-unit id="_NSt9uS" resname="Thank you %username%">
+      <trans-unit id="_NSt9uS" resname="Thank you %username%" approved="yes">
         <source>Thank you %username%</source>
-        <target state="needs-translation">Thank you %username%</target>
+        <target state="final">Kiitos %username%</target>
       </trans-unit>
-      <trans-unit id="4s2Md.n" resname="You are now ready to go. Just press &quot;continue&quot; and you will be redirected back to where you came from.">
+      <trans-unit id="4s2Md.n" resname="You are now ready to go. Just press &quot;continue&quot; and you will be redirected back to where you came from." approved="yes">
         <source>You are now ready to go. Just press "continue" and you will be redirected back to where you came from.</source>
-        <target state="needs-translation">You are now ready to go. Just press "continue" and you will be redirected back to where you came from.</target>
+        <target state="final">Olet nyt valmis jatkamaan. Valitse "jatka" ja sinut ohjataan takaisin.</target>
       </trans-unit>
-      <trans-unit id="VhjqTxm" resname="You have already registered">
+      <trans-unit id="VhjqTxm" resname="You have already registered" approved="yes">
         <source>You have already registered</source>
-        <target state="needs-translation">You have already registered</target>
+        <target state="final">Olet jo rekisteröitynyt</target>
       </trans-unit>
-      <trans-unit id="uNmd8QZ" resname="Go Back">
+      <trans-unit id="uNmd8QZ" resname="Go Back" approved="yes">
         <source>Go Back</source>
-        <target state="needs-translation">Go Back</target>
+        <target state="final">Siirry takaisin</target>
       </trans-unit>
-      <trans-unit id="5ZX0Xcb" resname="Europe">
+      <trans-unit id="5ZX0Xcb" resname="Europe" approved="yes">
         <source>Europe</source>
-        <target state="needs-translation">Europe</target>
+        <target state="final">Eurooppa</target>
       </trans-unit>
-      <trans-unit id="esAuwch" resname="Asia">
+      <trans-unit id="esAuwch" resname="Asia" approved="yes">
         <source>Asia</source>
-        <target state="needs-translation">Asia</target>
+        <target state="final">Aasia</target>
       </trans-unit>
-      <trans-unit id="M6PY7ZK" resname="Russia">
+      <trans-unit id="M6PY7ZK" resname="Russia" approved="yes">
         <source>Russia</source>
-        <target state="needs-translation">Russia</target>
+        <target state="final">Venäjä</target>
       </trans-unit>
-      <trans-unit id="ZL4Ihbw" resname="North America">
+      <trans-unit id="ZL4Ihbw" resname="North America" approved="yes">
         <source>North America</source>
-        <target state="needs-translation">North America</target>
+        <target state="final">Pohjois-Amerikka</target>
       </trans-unit>
-      <trans-unit id="YhmmPog" resname="Username must be less than 32 characters and greater than 3">
+      <trans-unit id="YhmmPog" resname="Username must be less than 32 characters and greater than 3" approved="yes">
         <source>Username must be less than 32 characters and greater than 3</source>
-        <target state="needs-translation">Username must be less than 32 characters and greater than 3</target>
+        <target state="final">Käyttäjänimen tulee olla lyhyempi kuin 32 merkkiä ja suurempi kuin 3 merkkiä</target>
       </trans-unit>
     </body>
   </file>
