@@ -12,7 +12,7 @@ fi
 
 while read p; do
 	echo "Generating locales for $p..."
-    ../bin/console translation:update --force $p --domain messages -q -n
+    ../bin/console translation:update --force $p --domain messages --prefix="" --clean -q -n
 done < locales.txt
 
 printf "Done!\n";
