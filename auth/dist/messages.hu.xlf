@@ -19,7 +19,7 @@
       </trans-unit>
       <trans-unit id="XafKX.2" resname="Connected services">
         <source>Connected services</source>
-        <target state="needs-translation">Connected services</target>
+        <target state="translated">Kapcsolódó szolgáltatások</target>
       </trans-unit>
       <trans-unit id="Ayl_Qze" resname="Last login: %time% from %ip%.">
         <source>Last login: %time% from %ip%.</source>
@@ -71,7 +71,7 @@
       </trans-unit>
       <trans-unit id="RYVyTjg" resname="Welcome, %username%!">
         <source>Welcome, %username%!</source>
-        <target state="needs-translation">Welcome, %username%!</target>
+        <target state="translated">Üdv, %username%!</target>
       </trans-unit>
       <trans-unit id="UJZnNsY" resname="We need to check few things before we can continue.">
         <source>We need to check few things before we can continue.</source>
@@ -123,15 +123,15 @@
       </trans-unit>
       <trans-unit id="esAuwch" resname="Asia">
         <source>Asia</source>
-        <target state="needs-translation">Asia</target>
+        <target state="translated">Ázsia</target>
       </trans-unit>
       <trans-unit id="M6PY7ZK" resname="Russia">
         <source>Russia</source>
-        <target state="needs-translation">Russia</target>
+        <target state="translated">Oroszország</target>
       </trans-unit>
       <trans-unit id="ZL4Ihbw" resname="North America">
         <source>North America</source>
-        <target state="needs-translation">North America</target>
+        <target state="translated">Észak-Amerika</target>
       </trans-unit>
       <trans-unit id="YhmmPog" resname="Username must be less than 32 characters and greater than 3">
         <source>Username must be less than 32 characters and greater than 3</source>
