@@ -1,7 +1,3 @@
 files:
-  - source: /**/*
-    ignore:
-      - /**/*.txt
-      - /**/*.sh
-      - /**/*.md
-    translation: '%original_path%/%original_file_name%'
+  - source: /auth/src/*
+    translation: /auth/dist/%file_name%.%two_letters_code%.%file_extension%
