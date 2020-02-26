@@ -1,61 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="en" target-language="es" datatype="plaintext" original="file.ext">
+  <file source-language="en" target-language="en" datatype="plaintext" original="file.ext">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
       <trans-unit id="Ozafeq9" resname="Profile of user %username%">
         <source>Profile of user %username%</source>
-        <target>Profile of user %username%</target>
+        <target>__Profile of user %username%</target>
       </trans-unit>
       <trans-unit id="47ienTP" resname="Username">
         <source>Username</source>
-        <target>Username</target>
+        <target>__Username</target>
       </trans-unit>
       <trans-unit id="06AI7xM" resname="Region">
         <source>Region</source>
-        <target>Region</target>
+        <target>__Region</target>
       </trans-unit>
       <trans-unit id="XafKX.2" resname="Connected services">
         <source>Connected services</source>
-        <target>Connected services</target>
+        <target>__Connected services</target>
       </trans-unit>
       <trans-unit id="Ayl_Qze" resname="Last login: %time% from %ip%.">
         <source>Last login: %time% from %ip%.</source>
-        <target>Last login: %time% from %ip%.</target>
+        <target>__Last login: %time% from %ip%.</target>
       </trans-unit>
       <trans-unit id="6mPfJme" resname="Details can be changed only via support with good reason.">
         <source>Details can be changed only via support with good reason.</source>
-        <target>Details can be changed only via support with good reason.</target>
+        <target>__Details can be changed only via support with good reason.</target>
       </trans-unit>
       <trans-unit id="DAFkr23" resname="Data shown here are only related to your authentication.">
         <source>Data shown here are only related to your authentication.</source>
-        <target>Data shown here are only related to your authentication.</target>
+        <target>__Data shown here are only related to your authentication.</target>
+      </trans-unit>
+      <trans-unit id="MfvvFiW" resname="Continue">
+        <source>Continue</source>
+        <target>__Continue</target>
+      </trans-unit>
+      <trans-unit id="0Y3hVjp" resname="Username is required">
+        <source>Username is required</source>
+        <target>__Username is required</target>
+      </trans-unit>
+      <trans-unit id="HClzuhI" resname="Username must be less than 32 characters">
+        <source>Username must be less than 32 characters</source>
+        <target>__Username must be less than 32 characters</target>
+      </trans-unit>
+      <trans-unit id="Qpwkeq6" resname="Welcome back %username%">
+        <source>Welcome back %username%</source>
+        <target>__Welcome back %username%</target>
+      </trans-unit>
+      <trans-unit id="GtUHn.R" resname="Please press &quot;continue&quot; to return">
+        <source>Please press "continue" to return</source>
+        <target>__Please press "continue" to return</target>
+      </trans-unit>
+      <trans-unit id="1pajW90" resname="Profile">
+        <source>Profile</source>
+        <target>__Profile</target>
       </trans-unit>
       <trans-unit id="SvpVv3r" resname="Terms of Service">
         <source>Terms of Service</source>
         <target>Terms of Service</target>
       </trans-unit>
-      <trans-unit id="MfvvFiW" resname="Continue">
-        <source>Continue</source>
-        <target>Continue</target>
-      </trans-unit>
-      <trans-unit id="0Y3hVjp" resname="Username is required">
-        <source>Username is required</source>
-        <target>Username is required</target>
-      </trans-unit>
-      <trans-unit id="HClzuhI" resname="Username must be less than 32 characters">
-        <source>Username must be less than 32 characters</source>
-        <target>Username must be less than 32 characters</target>
-      </trans-unit>
       <trans-unit id="DiImtSN" resname="Welcome">
         <source>Welcome</source>
         <target>Welcome</target>
-      </trans-unit>
-      <trans-unit id="1pajW90" resname="Profile">
-        <source>Profile</source>
-        <target>Profile</target>
       </trans-unit>
       <trans-unit id="6Vw5YTi" resname="Go!">
         <source>Go!</source>
@@ -128,14 +136,6 @@
       <trans-unit id="YhmmPog" resname="Username must be less than 32 characters and greater than 3">
         <source>Username must be less than 32 characters and greater than 3</source>
         <target>Username must be less than 32 characters and greater than 3</target>
-      </trans-unit>
-      <trans-unit id="Qpwkeq6" resname="Welcome back %username%">
-        <source>Welcome back %username%</source>
-        <target>Welcome back %username%</target>
-      </trans-unit>
-      <trans-unit id="GtUHn.R" resname="Please press &quot;continue&quot; to return">
-        <source>Please press "continue" to return</source>
-        <target>Please press "continue" to return</target>
       </trans-unit>
     </body>
   </file>

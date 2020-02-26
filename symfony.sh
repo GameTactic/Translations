@@ -5,14 +5,12 @@ if [ ! -f ../bin/console ]; then
     exit 1;
 fi
 
-if [ ! -f ./locales.txt ]; then
-	echo 'Locales.txt is missing from current directory.'
-    exit 1;
-fi
+echo "Generating locales..."
+../bin/console translation:update --force en --domain messages --prefix="" --clean -q -n
 
-while read p; do
-	echo "Generating locales for $p..."
-    ../bin/console translation:update --force $p --domain messages --prefix="" --clean -q -n
-done < locales.txt
+for f in ./*/src/*; do
+	n="${f//'en.'/''}"
+	mv "$f" "$n" 2>/dev/null
+done
 
 printf "Done!\n";
