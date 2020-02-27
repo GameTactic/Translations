@@ -11,11 +11,11 @@
       </trans-unit>
       <trans-unit id="47ienTP" resname="Username">
         <source>Username</source>
-        <target state="needs-translation">Username</target>
+        <target state="translated">Uživatel</target>
       </trans-unit>
       <trans-unit id="06AI7xM" resname="Region">
         <source>Region</source>
-        <target state="needs-translation">Region</target>
+        <target state="translated">Oblast</target>
       </trans-unit>
       <trans-unit id="XafKX.2" resname="Connected services">
         <source>Connected services</source>
@@ -35,11 +35,11 @@
       </trans-unit>
       <trans-unit id="MfvvFiW" resname="Continue">
         <source>Continue</source>
-        <target state="needs-translation">Continue</target>
+        <target state="translated">Pokračovat</target>
       </trans-unit>
       <trans-unit id="0Y3hVjp" resname="Username is required">
         <source>Username is required</source>
-        <target state="needs-translation">Username is required</target>
+        <target state="translated">Jméno uživatele je vyžadováno</target>
       </trans-unit>
       <trans-unit id="HClzuhI" resname="Username must be less than 32 characters">
         <source>Username must be less than 32 characters</source>
@@ -55,23 +55,23 @@
       </trans-unit>
       <trans-unit id="1pajW90" resname="Profile">
         <source>Profile</source>
-        <target state="needs-translation">Profile</target>
+        <target state="translated">Profil</target>
       </trans-unit>
       <trans-unit id="SvpVv3r" resname="Terms of Service">
         <source>Terms of Service</source>
-        <target state="needs-translation">Terms of Service</target>
+        <target state="translated">Podmínky služby</target>
       </trans-unit>
       <trans-unit id="DiImtSN" resname="Welcome">
         <source>Welcome</source>
-        <target state="needs-translation">Welcome</target>
+        <target state="translated">Vítejte</target>
       </trans-unit>
       <trans-unit id="6Vw5YTi" resname="Go!">
         <source>Go!</source>
-        <target state="needs-translation">Go!</target>
+        <target state="translated">Běž!</target>
       </trans-unit>
       <trans-unit id="RYVyTjg" resname="Welcome, %username%!">
         <source>Welcome, %username%!</source>
-        <target state="needs-translation">Welcome, %username%!</target>
+        <target state="translated">Vítejte, %username%!</target>
       </trans-unit>
       <trans-unit id="UJZnNsY" resname="We need to check few things before we can continue.">
         <source>We need to check few things before we can continue.</source>
@@ -115,23 +115,23 @@
       </trans-unit>
       <trans-unit id="uNmd8QZ" resname="Go Back">
         <source>Go Back</source>
-        <target state="needs-translation">Go Back</target>
+        <target state="translated">Nahoru</target>
       </trans-unit>
       <trans-unit id="5ZX0Xcb" resname="Europe">
         <source>Europe</source>
-        <target state="needs-translation">Europe</target>
+        <target state="translated">Evropa</target>
       </trans-unit>
       <trans-unit id="esAuwch" resname="Asia">
         <source>Asia</source>
-        <target state="needs-translation">Asia</target>
+        <target state="translated">Ásie</target>
       </trans-unit>
       <trans-unit id="M6PY7ZK" resname="Russia">
         <source>Russia</source>
-        <target state="needs-translation">Russia</target>
+        <target state="translated">Ruština</target>
       </trans-unit>
       <trans-unit id="ZL4Ihbw" resname="North America">
         <source>North America</source>
-        <target state="needs-translation">North America</target>
+        <target state="translated">Severní Amerika</target>
       </trans-unit>
       <trans-unit id="YhmmPog" resname="Username must be less than 32 characters and greater than 3">
         <source>Username must be less than 32 characters and greater than 3</source>
