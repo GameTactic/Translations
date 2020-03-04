@@ -35,7 +35,7 @@
       </trans-unit>
       <trans-unit id="MfvvFiW" resname="Continue">
         <source>Continue</source>
-        <target state="needs-translation">Continue</target>
+        <target state="translated">Continuer</target>
       </trans-unit>
       <trans-unit id="0Y3hVjp" resname="Username is required">
         <source>Username is required</source>
