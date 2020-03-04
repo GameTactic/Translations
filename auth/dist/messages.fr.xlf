@@ -83,7 +83,7 @@
       </trans-unit>
       <trans-unit id="HWGh45I" resname="Thank you for using GameTactic services!">
         <source>Thank you for using GameTactic services!</source>
-        <target state="needs-translation">Thank you for using GameTactic services!</target>
+        <target state="translated">Merci d'utiliser les services GameTactic !</target>
       </trans-unit>
       <trans-unit id="ShTXQVF" resname="Please click and read %href% terms of service %tag% fully.">
         <source>Please click and read %href% terms of service %tag% fully.</source>
@@ -95,15 +95,15 @@
       </trans-unit>
       <trans-unit id="4hq3cuY" resname="I Accept Terms of Service">
         <source>I Accept Terms of Service</source>
-        <target state="needs-translation">I Accept Terms of Service</target>
+        <target state="translated">J'accepte les conditions d'utilisation</target>
       </trans-unit>
       <trans-unit id="_zjtryT" resname="Please select username. It will be the same even if you login via a different provider.">
         <source>Please select username. It will be the same even if you login via a different provider.</source>
-        <target state="needs-translation">Please select username. It will be the same even if you login via a different provider.</target>
+        <target state="translated">Veuillez sélectionner le nom d'utilisateur. Il sera le même même si vous vous connectez via un fournisseur différent.</target>
       </trans-unit>
       <trans-unit id="_NSt9uS" resname="Thank you %username%">
         <source>Thank you %username%</source>
-        <target state="needs-translation">Thank you %username%</target>
+        <target state="translated">Merci %username%</target>
       </trans-unit>
       <trans-unit id="4s2Md.n" resname="You are now ready to go. Just press &quot;continue&quot; and you will be redirected back to where you came from.">
         <source>You are now ready to go. Just press "continue" and you will be redirected back to where you came from.</source>
@@ -111,11 +111,11 @@
       </trans-unit>
       <trans-unit id="VhjqTxm" resname="You have already registered">
         <source>You have already registered</source>
-        <target state="needs-translation">You have already registered</target>
+        <target state="translated">Vous êtes déjà inscrit</target>
       </trans-unit>
       <trans-unit id="uNmd8QZ" resname="Go Back">
         <source>Go Back</source>
-        <target state="needs-translation">Go Back</target>
+        <target state="translated">Retour</target>
       </trans-unit>
       <trans-unit id="5ZX0Xcb" resname="Europe">
         <source>Europe</source>
@@ -135,7 +135,7 @@
       </trans-unit>
       <trans-unit id="YhmmPog" resname="Username must be less than 32 characters and greater than 3">
         <source>Username must be less than 32 characters and greater than 3</source>
-        <target state="needs-translation">Username must be less than 32 characters and greater than 3</target>
+        <target state="translated">Le nom d'utilisateur doit contenir entre 3 et 32 caractères</target>
       </trans-unit>
     </body>
   </file>
