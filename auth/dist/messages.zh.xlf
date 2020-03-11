@@ -92,9 +92,6 @@
       <trans-unit id="hcsKFwF" resname="When you're done, please agree them below.">
         <source>When you're done, please agree them below.</source>
         <target state="translated">在完成阅读后，如果您接受《服务条款》，请您勾选下面的“我接受《服务条款》”。</target>
-        <alt-trans>
-          <target>当您完成后，请同意下面内容。</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="4hq3cuY" resname="I Accept Terms of Service">
         <source>I Accept Terms of Service</source>
@@ -111,9 +108,6 @@
       <trans-unit id="4s2Md.n" resname="You are now ready to go. Just press &quot;continue&quot; and you will be redirected back to where you came from.">
         <source>You are now ready to go. Just press "continue" and you will be redirected back to where you came from.</source>
         <target state="translated">您已经完成了注册并可以继续使用GameTactic服务。请点击“继续”并返回到之前的页面。</target>
-        <alt-trans>
-          <target>您现在已经准备好了。只需点击“继续”，您就会重新定向到之前的页面。</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="VhjqTxm" resname="You have already registered">
         <source>You have already registered</source>
