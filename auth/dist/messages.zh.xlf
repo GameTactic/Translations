@@ -7,7 +7,7 @@
     <body>
       <trans-unit id="Ozafeq9" resname="Profile of user %username%">
         <source>Profile of user %username%</source>
-        <target state="needs-translation">Profile of user %username%</target>
+        <target state="translated">%username%的用户资料</target>
       </trans-unit>
       <trans-unit id="47ienTP" resname="Username">
         <source>Username</source>
@@ -19,7 +19,7 @@
       </trans-unit>
       <trans-unit id="XafKX.2" resname="Connected services">
         <source>Connected services</source>
-        <target state="needs-translation">Connected services</target>
+        <target state="translated">已连接的服务</target>
       </trans-unit>
       <trans-unit id="Ayl_Qze" resname="Last login: %time% from %ip%.">
         <source>Last login: %time% from %ip%.</source>
@@ -27,7 +27,7 @@
       </trans-unit>
       <trans-unit id="6mPfJme" resname="Details can be changed only via support with good reason.">
         <source>Details can be changed only via support with good reason.</source>
-        <target state="needs-translation">Details can be changed only via support with good reason.</target>
+        <target state="translated">仅限在有充足的理由时，用户资料才可以通过技术支持进行修改。</target>
       </trans-unit>
       <trans-unit id="DAFkr23" resname="Data shown here are only related to your authentication.">
         <source>Data shown here are only related to your authentication.</source>
@@ -55,7 +55,7 @@
       </trans-unit>
       <trans-unit id="1pajW90" resname="Profile">
         <source>Profile</source>
-        <target state="needs-translation">Profile</target>
+        <target state="translated">用户资料</target>
       </trans-unit>
       <trans-unit id="SvpVv3r" resname="Terms of Service">
         <source>Terms of Service</source>
@@ -67,7 +67,7 @@
       </trans-unit>
       <trans-unit id="6Vw5YTi" resname="Go!">
         <source>Go!</source>
-        <target state="needs-translation">Go!</target>
+        <target state="translated">完成！</target>
       </trans-unit>
       <trans-unit id="RYVyTjg" resname="Welcome, %username%!">
         <source>Welcome, %username%!</source>
@@ -102,7 +102,7 @@
       </trans-unit>
       <trans-unit id="_zjtryT" resname="Please select username. It will be the same even if you login via a different provider.">
         <source>Please select username. It will be the same even if you login via a different provider.</source>
-        <target state="needs-translation">Please select username. It will be the same even if you login via a different provider.</target>
+        <target state="translated">请输入用户名。即使您通过不同服务进行登录，用户名将会保持一致。</target>
       </trans-unit>
       <trans-unit id="_NSt9uS" resname="Thank you %username%">
         <source>Thank you %username%</source>
@@ -110,7 +110,10 @@
       </trans-unit>
       <trans-unit id="4s2Md.n" resname="You are now ready to go. Just press &quot;continue&quot; and you will be redirected back to where you came from.">
         <source>You are now ready to go. Just press "continue" and you will be redirected back to where you came from.</source>
-        <target state="translated">您现在已经准备好了。只需点击“继续”，您就会重新定向到之前的页面。</target>
+        <target state="translated">您已经完成了注册并可以继续使用GameTactic服务。请点击“继续”并返回到之前的页面。</target>
+        <alt-trans>
+          <target>您现在已经准备好了。只需点击“继续”，您就会重新定向到之前的页面。</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="VhjqTxm" resname="You have already registered">
         <source>You have already registered</source>
