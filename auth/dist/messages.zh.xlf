@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="zh-CN" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="Ozafeq9" resname="Profile of user %username%">
+        <source>Profile of user %username%</source>
+        <target state="needs-translation">Profile of user %username%</target>
+      </trans-unit>
+      <trans-unit id="47ienTP" resname="Username">
+        <source>Username</source>
+        <target state="translated">用户名</target>
+      </trans-unit>
+      <trans-unit id="06AI7xM" resname="Region">
+        <source>Region</source>
+        <target state="translated">地区</target>
+      </trans-unit>
+      <trans-unit id="XafKX.2" resname="Connected services">
+        <source>Connected services</source>
+        <target state="needs-translation">Connected services</target>
+      </trans-unit>
+      <trans-unit id="Ayl_Qze" resname="Last login: %time% from %ip%.">
+        <source>Last login: %time% from %ip%.</source>
+        <target state="translated">最后登录时间 %time%，来自IP %ip%</target>
+      </trans-unit>
+      <trans-unit id="6mPfJme" resname="Details can be changed only via support with good reason.">
+        <source>Details can be changed only via support with good reason.</source>
+        <target state="needs-translation">Details can be changed only via support with good reason.</target>
+      </trans-unit>
+      <trans-unit id="DAFkr23" resname="Data shown here are only related to your authentication.">
+        <source>Data shown here are only related to your authentication.</source>
+        <target state="translated">这里显示的数据仅与您的WG授权有关</target>
+      </trans-unit>
+      <trans-unit id="MfvvFiW" resname="Continue">
+        <source>Continue</source>
+        <target state="translated">继续</target>
+      </trans-unit>
+      <trans-unit id="0Y3hVjp" resname="Username is required">
+        <source>Username is required</source>
+        <target state="translated">请先输入用户名</target>
+      </trans-unit>
+      <trans-unit id="HClzuhI" resname="Username must be less than 32 characters">
+        <source>Username must be less than 32 characters</source>
+        <target state="translated">用户名必须少于32个字符</target>
+      </trans-unit>
+      <trans-unit id="Qpwkeq6" resname="Welcome back %username%">
+        <source>Welcome back %username%</source>
+        <target state="translated">欢迎回来， %username%</target>
+      </trans-unit>
+      <trans-unit id="GtUHn.R" resname="Please press &quot;continue&quot; to return">
+        <source>Please press "continue" to return</source>
+        <target state="translated">请点击“继续”，返回之前的页面。</target>
+      </trans-unit>
+      <trans-unit id="1pajW90" resname="Profile">
+        <source>Profile</source>
+        <target state="needs-translation">Profile</target>
+      </trans-unit>
+      <trans-unit id="SvpVv3r" resname="Terms of Service">
+        <source>Terms of Service</source>
+        <target state="translated">服务条款</target>
+      </trans-unit>
+      <trans-unit id="DiImtSN" resname="Welcome">
+        <source>Welcome</source>
+        <target state="translated">欢迎</target>
+      </trans-unit>
+      <trans-unit id="6Vw5YTi" resname="Go!">
+        <source>Go!</source>
+        <target state="needs-translation">Go!</target>
+      </trans-unit>
+      <trans-unit id="RYVyTjg" resname="Welcome, %username%!">
+        <source>Welcome, %username%!</source>
+        <target state="translated">%username% 欢迎您！</target>
+      </trans-unit>
+      <trans-unit id="UJZnNsY" resname="We need to check few things before we can continue.">
+        <source>We need to check few things before we can continue.</source>
+        <target state="translated">在正式使用GameTactic服务之前，我们还需要进行一些配置。</target>
+      </trans-unit>
+      <trans-unit id="XiqG_XB" resname="Some are standard things, some are customizations for your account.">
+        <source>Some are standard things, some are customizations for your account.</source>
+        <target state="translated">有些是标准设置，有些是基于您账户的自定义设置。</target>
+      </trans-unit>
+      <trans-unit id="HWGh45I" resname="Thank you for using GameTactic services!">
+        <source>Thank you for using GameTactic services!</source>
+        <target state="translated">感谢您使用 GameTactic 服务！</target>
+      </trans-unit>
+      <trans-unit id="ShTXQVF" resname="Please click and read %href% terms of service %tag% fully.">
+        <source>Please click and read %href% terms of service %tag% fully.</source>
+        <target state="translated">请点击并完整阅读%href% 服务条款 %tag%。</target>
+      </trans-unit>
+      <trans-unit id="hcsKFwF" resname="When you're done, please agree them below.">
+        <source>When you're done, please agree them below.</source>
+        <target state="translated">在完成阅读后，如果您接受《服务条款》，请您勾选下面的“我接受《服务条款》”。</target>
+        <alt-trans>
+          <target>当您完成后，请同意下面内容。</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="4hq3cuY" resname="I Accept Terms of Service">
+        <source>I Accept Terms of Service</source>
+        <target state="translated">我接受《服务条款》</target>
+      </trans-unit>
+      <trans-unit id="_zjtryT" resname="Please select username. It will be the same even if you login via a different provider.">
+        <source>Please select username. It will be the same even if you login via a different provider.</source>
+        <target state="needs-translation">Please select username. It will be the same even if you login via a different provider.</target>
+      </trans-unit>
+      <trans-unit id="_NSt9uS" resname="Thank you %username%">
+        <source>Thank you %username%</source>
+        <target state="translated">感谢您 %username%！</target>
+      </trans-unit>
+      <trans-unit id="4s2Md.n" resname="You are now ready to go. Just press &quot;continue&quot; and you will be redirected back to where you came from.">
+        <source>You are now ready to go. Just press "continue" and you will be redirected back to where you came from.</source>
+        <target state="translated">您现在已经准备好了。只需点击“继续”，您就会重新定向到之前的页面。</target>
+      </trans-unit>
+      <trans-unit id="VhjqTxm" resname="You have already registered">
+        <source>You have already registered</source>
+        <target state="translated">您已经注册了</target>
+      </trans-unit>
+      <trans-unit id="uNmd8QZ" resname="Go Back">
+        <source>Go Back</source>
+        <target state="translated">返回</target>
+      </trans-unit>
+      <trans-unit id="5ZX0Xcb" resname="Europe">
+        <source>Europe</source>
+        <target state="translated">欧洲</target>
+      </trans-unit>
+      <trans-unit id="esAuwch" resname="Asia">
+        <source>Asia</source>
+        <target state="translated">亚洲</target>
+      </trans-unit>
+      <trans-unit id="M6PY7ZK" resname="Russia">
+        <source>Russia</source>
+        <target state="translated">俄罗斯</target>
+      </trans-unit>
+      <trans-unit id="ZL4Ihbw" resname="North America">
+        <source>North America</source>
+        <target state="translated">北美</target>
+      </trans-unit>
+      <trans-unit id="YhmmPog" resname="Username must be less than 32 characters and greater than 3">
+        <source>Username must be less than 32 characters and greater than 3</source>
+        <target state="translated">用户名必须大于3个且小于32个字符</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
