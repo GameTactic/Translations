@@ -87,7 +87,7 @@
       </trans-unit>
       <trans-unit id="ShTXQVF" resname="Please click and read %href% terms of service %tag% fully.">
         <source>Please click and read %href% terms of service %tag% fully.</source>
-        <target state="translated">请点击并完整阅读%href% 服务条款 %tag%。</target>
+        <target state="translated">请点击并完整阅读%href%《服务条款》%tag%。</target>
       </trans-unit>
       <trans-unit id="hcsKFwF" resname="When you're done, please agree them below.">
         <source>When you're done, please agree them below.</source>
