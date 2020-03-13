@@ -7,135 +7,135 @@
     <body>
       <trans-unit id="Ozafeq9" resname="Profile of user %username%">
         <source>Profile of user %username%</source>
-        <target state="needs-translation">Profile of user %username%</target>
+        <target state="translated">Профиль пользователя %username%</target>
       </trans-unit>
       <trans-unit id="47ienTP" resname="Username">
         <source>Username</source>
-        <target state="needs-translation">Username</target>
+        <target state="translated">Имя пользователя</target>
       </trans-unit>
       <trans-unit id="06AI7xM" resname="Region">
         <source>Region</source>
-        <target state="needs-translation">Region</target>
+        <target state="translated">Регион</target>
       </trans-unit>
       <trans-unit id="XafKX.2" resname="Connected services">
         <source>Connected services</source>
-        <target state="needs-translation">Connected services</target>
+        <target state="translated">Подключенные сервисы</target>
       </trans-unit>
       <trans-unit id="Ayl_Qze" resname="Last login: %time% from %ip%.">
         <source>Last login: %time% from %ip%.</source>
-        <target state="needs-translation">Last login: %time% from %ip%.</target>
+        <target state="translated">Последний вход: %time% из %ip%.</target>
       </trans-unit>
       <trans-unit id="6mPfJme" resname="Details can be changed only via support with good reason.">
         <source>Details can be changed only via support with good reason.</source>
-        <target state="needs-translation">Details can be changed only via support with good reason.</target>
+        <target state="translated">Детали могут быть изменены только по поддержке с хорошей причиной.</target>
       </trans-unit>
       <trans-unit id="DAFkr23" resname="Data shown here are only related to your authentication.">
         <source>Data shown here are only related to your authentication.</source>
-        <target state="needs-translation">Data shown here are only related to your authentication.</target>
+        <target state="translated">Данные, показанные здесь, относятся только к вашей аутентификации.</target>
       </trans-unit>
       <trans-unit id="MfvvFiW" resname="Continue">
         <source>Continue</source>
-        <target state="needs-translation">Continue</target>
+        <target state="translated">Продолжить</target>
       </trans-unit>
       <trans-unit id="0Y3hVjp" resname="Username is required">
         <source>Username is required</source>
-        <target state="needs-translation">Username is required</target>
+        <target state="translated">Требуется имя пользователя</target>
       </trans-unit>
       <trans-unit id="HClzuhI" resname="Username must be less than 32 characters">
         <source>Username must be less than 32 characters</source>
-        <target state="needs-translation">Username must be less than 32 characters</target>
+        <target state="translated">Имя пользователя должно быть не менее 32 символов</target>
       </trans-unit>
       <trans-unit id="Qpwkeq6" resname="Welcome back %username%">
         <source>Welcome back %username%</source>
-        <target state="needs-translation">Welcome back %username%</target>
+        <target state="translated">С возвращением, %username%</target>
       </trans-unit>
       <trans-unit id="GtUHn.R" resname="Please press &quot;continue&quot; to return">
         <source>Please press "continue" to return</source>
-        <target state="needs-translation">Please press "continue" to return</target>
+        <target state="translated">Нажмите "Продолжить", чтобы вернуться</target>
       </trans-unit>
       <trans-unit id="1pajW90" resname="Profile">
         <source>Profile</source>
-        <target state="needs-translation">Profile</target>
+        <target state="translated">Профиль</target>
       </trans-unit>
       <trans-unit id="SvpVv3r" resname="Terms of Service">
         <source>Terms of Service</source>
-        <target state="needs-translation">Terms of Service</target>
+        <target state="translated">Условия пользования</target>
       </trans-unit>
       <trans-unit id="DiImtSN" resname="Welcome">
         <source>Welcome</source>
-        <target state="needs-translation">Welcome</target>
+        <target state="translated">Добро пожаловать</target>
       </trans-unit>
       <trans-unit id="6Vw5YTi" resname="Go!">
         <source>Go!</source>
-        <target state="needs-translation">Go!</target>
+        <target state="translated">Вперед!</target>
       </trans-unit>
       <trans-unit id="RYVyTjg" resname="Welcome, %username%!">
         <source>Welcome, %username%!</source>
-        <target state="needs-translation">Welcome, %username%!</target>
+        <target state="translated">Добро пожаловать, %username%!</target>
       </trans-unit>
       <trans-unit id="UJZnNsY" resname="We need to check few things before we can continue.">
         <source>We need to check few things before we can continue.</source>
-        <target state="needs-translation">We need to check few things before we can continue.</target>
+        <target state="translated">Нам нужно проверить несколько вещей, прежде чем мы сможем продолжить.</target>
       </trans-unit>
       <trans-unit id="XiqG_XB" resname="Some are standard things, some are customizations for your account.">
         <source>Some are standard things, some are customizations for your account.</source>
-        <target state="needs-translation">Some are standard things, some are customizations for your account.</target>
+        <target state="translated">Некоторые стандартные вещи, некоторые из них являются настройками для вашей учетной записи.</target>
       </trans-unit>
       <trans-unit id="HWGh45I" resname="Thank you for using GameTactic services!">
         <source>Thank you for using GameTactic services!</source>
-        <target state="needs-translation">Thank you for using GameTactic services!</target>
+        <target state="translated">Спасибо за использование сервиса GameTactic!</target>
       </trans-unit>
       <trans-unit id="ShTXQVF" resname="Please click and read %href% terms of service %tag% fully.">
         <source>Please click and read %href% terms of service %tag% fully.</source>
-        <target state="needs-translation">Please click and read %href% terms of service %tag% fully.</target>
+        <target state="translated">Пожалуйста, нажмите и прочтите %href% условия пользования %tag% полностью.</target>
       </trans-unit>
       <trans-unit id="hcsKFwF" resname="When you're done, please agree them below.">
         <source>When you're done, please agree them below.</source>
-        <target state="needs-translation">When you're done, please agree them below.</target>
+        <target state="translated">Когда закончите, пожалуйста, согласитесь с этим ниже.</target>
       </trans-unit>
       <trans-unit id="4hq3cuY" resname="I Accept Terms of Service">
         <source>I Accept Terms of Service</source>
-        <target state="needs-translation">I Accept Terms of Service</target>
+        <target state="translated">Я принимаю пользовательское соглашение</target>
       </trans-unit>
       <trans-unit id="_zjtryT" resname="Please select username. It will be the same even if you login via a different provider.">
         <source>Please select username. It will be the same even if you login via a different provider.</source>
-        <target state="needs-translation">Please select username. It will be the same even if you login via a different provider.</target>
+        <target state="translated">Пожалуйста, выберите имя пользователя. Оно будет то же самое, если вы войдете через другого провайдера.</target>
       </trans-unit>
       <trans-unit id="_NSt9uS" resname="Thank you %username%">
         <source>Thank you %username%</source>
-        <target state="needs-translation">Thank you %username%</target>
+        <target state="translated">Спасибо, %username%</target>
       </trans-unit>
       <trans-unit id="4s2Md.n" resname="You are now ready to go. Just press &quot;continue&quot; and you will be redirected back to where you came from.">
         <source>You are now ready to go. Just press "continue" and you will be redirected back to where you came from.</source>
-        <target state="needs-translation">You are now ready to go. Just press "continue" and you will be redirected back to where you came from.</target>
+        <target state="translated">Теперь вы готовы. Просто нажмите "Продолжить", и вы будете перенаправлены обратно в откуда вы прибыли.</target>
       </trans-unit>
       <trans-unit id="VhjqTxm" resname="You have already registered">
         <source>You have already registered</source>
-        <target state="needs-translation">You have already registered</target>
+        <target state="translated">Вы уже зарегистрированы</target>
       </trans-unit>
       <trans-unit id="uNmd8QZ" resname="Go Back">
         <source>Go Back</source>
-        <target state="needs-translation">Go Back</target>
+        <target state="translated">Вернуться</target>
       </trans-unit>
       <trans-unit id="5ZX0Xcb" resname="Europe">
         <source>Europe</source>
-        <target state="needs-translation">Europe</target>
+        <target state="translated">Европа</target>
       </trans-unit>
       <trans-unit id="esAuwch" resname="Asia">
         <source>Asia</source>
-        <target state="needs-translation">Asia</target>
+        <target state="translated">Азия</target>
       </trans-unit>
       <trans-unit id="M6PY7ZK" resname="Russia">
         <source>Russia</source>
-        <target state="needs-translation">Russia</target>
+        <target state="translated">Россия</target>
       </trans-unit>
       <trans-unit id="ZL4Ihbw" resname="North America">
         <source>North America</source>
-        <target state="needs-translation">North America</target>
+        <target state="translated">Северная Америка</target>
       </trans-unit>
       <trans-unit id="YhmmPog" resname="Username must be less than 32 characters and greater than 3">
         <source>Username must be less than 32 characters and greater than 3</source>
-        <target state="needs-translation">Username must be less than 32 characters and greater than 3</target>
+        <target state="translated">Имя пользователя должно быть меньше 32 символов и больше 3</target>
       </trans-unit>
     </body>
   </file>
