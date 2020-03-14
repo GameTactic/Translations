@@ -7,7 +7,7 @@
     <body>
       <trans-unit id="Ozafeq9" resname="Profile of user %username%">
         <source>Profile of user %username%</source>
-        <target state="needs-translation">Profile of user %username%</target>
+        <target state="translated">Profilen til %username%</target>
       </trans-unit>
       <trans-unit id="47ienTP" resname="Username">
         <source>Username</source>
@@ -15,23 +15,26 @@
       </trans-unit>
       <trans-unit id="06AI7xM" resname="Region">
         <source>Region</source>
-        <target state="translated">Regioner</target>
+        <target state="translated">Region</target>
+        <alt-trans>
+          <target>Regioner</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="XafKX.2" resname="Connected services">
         <source>Connected services</source>
-        <target state="needs-translation">Connected services</target>
+        <target state="translated">Tilkoblede tjenester</target>
       </trans-unit>
       <trans-unit id="Ayl_Qze" resname="Last login: %time% from %ip%.">
         <source>Last login: %time% from %ip%.</source>
-        <target state="needs-translation">Last login: %time% from %ip%.</target>
+        <target state="translated">Siste pålogging: %time% fra %ip%.</target>
       </trans-unit>
       <trans-unit id="6mPfJme" resname="Details can be changed only via support with good reason.">
         <source>Details can be changed only via support with good reason.</source>
-        <target state="needs-translation">Details can be changed only via support with good reason.</target>
+        <target state="translated">Detaljer kan bare bli endret via support med god grunn.</target>
       </trans-unit>
       <trans-unit id="DAFkr23" resname="Data shown here are only related to your authentication.">
         <source>Data shown here are only related to your authentication.</source>
-        <target state="needs-translation">Data shown here are only related to your authentication.</target>
+        <target state="translated">Data vist her er bare relatert til din tilkobling.</target>
       </trans-unit>
       <trans-unit id="MfvvFiW" resname="Continue">
         <source>Continue</source>
@@ -43,7 +46,7 @@
       </trans-unit>
       <trans-unit id="HClzuhI" resname="Username must be less than 32 characters">
         <source>Username must be less than 32 characters</source>
-        <target state="needs-translation">Username must be less than 32 characters</target>
+        <target state="translated">Brukernavnet må være mindre enn 32 tegn</target>
       </trans-unit>
       <trans-unit id="Qpwkeq6" resname="Welcome back %username%">
         <source>Welcome back %username%</source>
@@ -51,7 +54,7 @@
       </trans-unit>
       <trans-unit id="GtUHn.R" resname="Please press &quot;continue&quot; to return">
         <source>Please press "continue" to return</source>
-        <target state="needs-translation">Please press "continue" to return</target>
+        <target state="translated">Trykk "fortsett" for å gå tilbake</target>
       </trans-unit>
       <trans-unit id="1pajW90" resname="Profile">
         <source>Profile</source>
@@ -71,43 +74,46 @@
       </trans-unit>
       <trans-unit id="RYVyTjg" resname="Welcome, %username%!">
         <source>Welcome, %username%!</source>
-        <target state="needs-translation">Welcome, %username%!</target>
+        <target state="translated">Velkommen, %username%!</target>
       </trans-unit>
       <trans-unit id="UJZnNsY" resname="We need to check few things before we can continue.">
         <source>We need to check few things before we can continue.</source>
-        <target state="needs-translation">We need to check few things before we can continue.</target>
+        <target state="translated">Vi må se over et par ting før vi kan gå videre.</target>
       </trans-unit>
       <trans-unit id="XiqG_XB" resname="Some are standard things, some are customizations for your account.">
         <source>Some are standard things, some are customizations for your account.</source>
-        <target state="needs-translation">Some are standard things, some are customizations for your account.</target>
+        <target state="translated">Noen er standard ting, andre er tilpasninger for kontoen din.</target>
       </trans-unit>
       <trans-unit id="HWGh45I" resname="Thank you for using GameTactic services!">
         <source>Thank you for using GameTactic services!</source>
-        <target state="needs-translation">Thank you for using GameTactic services!</target>
+        <target state="translated">Takk for at du bruker GameTactic-tjenester!</target>
       </trans-unit>
       <trans-unit id="ShTXQVF" resname="Please click and read %href% terms of service %tag% fully.">
         <source>Please click and read %href% terms of service %tag% fully.</source>
-        <target state="needs-translation">Please click and read %href% terms of service %tag% fully.</target>
+        <target state="translated">Vennligst klikk og les %href% vilkårene %tag% fullstendig.</target>
+        <alt-trans>
+          <target>Vennligst klikk og les %href% betingelser og vilkår %tag% fullstendig.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="hcsKFwF" resname="When you're done, please agree them below.">
         <source>When you're done, please agree them below.</source>
-        <target state="needs-translation">When you're done, please agree them below.</target>
+        <target state="translated">Når du er ferdig, vennligst godta dem nedenfor.</target>
       </trans-unit>
       <trans-unit id="4hq3cuY" resname="I Accept Terms of Service">
         <source>I Accept Terms of Service</source>
-        <target state="needs-translation">I Accept Terms of Service</target>
+        <target state="translated">Jeg aksepterer vilkårene</target>
       </trans-unit>
       <trans-unit id="_zjtryT" resname="Please select username. It will be the same even if you login via a different provider.">
         <source>Please select username. It will be the same even if you login via a different provider.</source>
-        <target state="needs-translation">Please select username. It will be the same even if you login via a different provider.</target>
+        <target state="translated">Vennligst velg brukernavn. Det vil være det samme selv om du logger inn via en annen leverandør.</target>
       </trans-unit>
       <trans-unit id="_NSt9uS" resname="Thank you %username%">
         <source>Thank you %username%</source>
-        <target state="needs-translation">Thank you %username%</target>
+        <target state="translated">Takk %username%</target>
       </trans-unit>
       <trans-unit id="4s2Md.n" resname="You are now ready to go. Just press &quot;continue&quot; and you will be redirected back to where you came from.">
         <source>You are now ready to go. Just press "continue" and you will be redirected back to where you came from.</source>
-        <target state="needs-translation">You are now ready to go. Just press "continue" and you will be redirected back to where you came from.</target>
+        <target state="translated">Du er nå klar til å gå videre. Bare trykk på "fortsett" så blir du omdirigert tilbake dit du kom fra.</target>
       </trans-unit>
       <trans-unit id="VhjqTxm" resname="You have already registered">
         <source>You have already registered</source>
@@ -135,7 +141,7 @@
       </trans-unit>
       <trans-unit id="YhmmPog" resname="Username must be less than 32 characters and greater than 3">
         <source>Username must be less than 32 characters and greater than 3</source>
-        <target state="needs-translation">Username must be less than 32 characters and greater than 3</target>
+        <target state="translated">Brukernavnet må være mindre enn 32 tegn og mer enn 3</target>
       </trans-unit>
     </body>
   </file>
