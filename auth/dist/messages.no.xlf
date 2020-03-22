@@ -7,7 +7,7 @@
     <body>
       <trans-unit id="Ozafeq9" resname="Profile of user %username%">
         <source>Profile of user %username%</source>
-        <target state="needs-translation">Profile of user %username%</target>
+        <target state="translated">Profilen til %username%</target>
       </trans-unit>
       <trans-unit id="47ienTP" resname="Username">
         <source>Username</source>
@@ -19,19 +19,19 @@
       </trans-unit>
       <trans-unit id="XafKX.2" resname="Connected services">
         <source>Connected services</source>
-        <target state="needs-translation">Connected services</target>
+        <target state="translated">Tilkoblede tjenester</target>
       </trans-unit>
       <trans-unit id="Ayl_Qze" resname="Last login: %time% from %ip%.">
         <source>Last login: %time% from %ip%.</source>
-        <target state="needs-translation">Last login: %time% from %ip%.</target>
+        <target state="translated">Siste pålogging: %time% fra %ip%.</target>
       </trans-unit>
       <trans-unit id="6mPfJme" resname="Details can be changed only via support with good reason.">
         <source>Details can be changed only via support with good reason.</source>
-        <target state="needs-translation">Details can be changed only via support with good reason.</target>
+        <target state="translated">Detaljer kan bare bli endret via support med god grunn.</target>
       </trans-unit>
       <trans-unit id="DAFkr23" resname="Data shown here are only related to your authentication.">
         <source>Data shown here are only related to your authentication.</source>
-        <target state="needs-translation">Data shown here are only related to your authentication.</target>
+        <target state="translated">Data vist her er bare relatert til din tilkobling.</target>
       </trans-unit>
       <trans-unit id="MfvvFiW" resname="Continue">
         <source>Continue</source>
@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="HClzuhI" resname="Username must be less than 32 characters">
         <source>Username must be less than 32 characters</source>
-        <target state="needs-translation">Username must be less than 32 characters</target>
+        <target state="translated">Brukernavnet må være mindre enn 32 tegn</target>
       </trans-unit>
       <trans-unit id="Qpwkeq6" resname="Welcome back %username%">
         <source>Welcome back %username%</source>
