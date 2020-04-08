@@ -5,13 +5,13 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="Ozafeq9" resname="Profile of user %username%">
+      <trans-unit id="Ozafeq9" resname="Profile of user %username%" approved="yes">
         <source>Profile of user %username%</source>
-        <target state="translated">Profil des Benutzers %username%</target>
+        <target state="final">Profil des Benutzers %username%</target>
       </trans-unit>
-      <trans-unit id="47ienTP" resname="Username">
+      <trans-unit id="47ienTP" resname="Username" approved="yes">
         <source>Username</source>
-        <target state="translated">Benutzername</target>
+        <target state="final">Benutzername</target>
       </trans-unit>
       <trans-unit id="06AI7xM" resname="Region">
         <source>Region</source>
@@ -24,9 +24,9 @@
         <source>Connected services</source>
         <target state="translated">Verbundene Dientste</target>
       </trans-unit>
-      <trans-unit id="Ayl_Qze" resname="Last login: %time% from %ip%.">
+      <trans-unit id="Ayl_Qze" resname="Last login: %time% from %ip%." approved="yes">
         <source>Last login: %time% from %ip%.</source>
-        <target state="translated">Letzter Login: %time% von %ip%.</target>
+        <target state="final">Letzter Login: %time% von %ip%.</target>
       </trans-unit>
       <trans-unit id="6mPfJme" resname="Details can be changed only via support with good reason.">
         <source>Details can be changed only via support with good reason.</source>
@@ -63,9 +63,9 @@
         <source>Profile</source>
         <target state="translated">Profil</target>
       </trans-unit>
-      <trans-unit id="SvpVv3r" resname="Terms of Service">
+      <trans-unit id="SvpVv3r" resname="Terms of Service" approved="yes">
         <source>Terms of Service</source>
-        <target state="translated">Nutzungsbedingungen</target>
+        <target state="final">Nutzungsbedingungen</target>
         <alt-trans>
           <target>Allgemeinen Geschäftsbedingungen</target>
         </alt-trans>
@@ -78,9 +78,9 @@
         <source>Go!</source>
         <target state="needs-translation">Go!</target>
       </trans-unit>
-      <trans-unit id="RYVyTjg" resname="Welcome, %username%!">
+      <trans-unit id="RYVyTjg" resname="Welcome, %username%!" approved="yes">
         <source>Welcome, %username%!</source>
-        <target state="translated">Willkommen %username%!</target>
+        <target state="final">Willkommen %username%!</target>
       </trans-unit>
       <trans-unit id="UJZnNsY" resname="We need to check few things before we can continue.">
         <source>We need to check few things before we can continue.</source>
@@ -90,9 +90,9 @@
         <source>Some are standard things, some are customizations for your account.</source>
         <target state="needs-translation">Some are standard things, some are customizations for your account.</target>
       </trans-unit>
-      <trans-unit id="HWGh45I" resname="Thank you for using GameTactic services!">
+      <trans-unit id="HWGh45I" resname="Thank you for using GameTactic services!" approved="yes">
         <source>Thank you for using GameTactic services!</source>
-        <target state="translated">Vielen Dank, dass du GameTactic Services verwendest!</target>
+        <target state="final">Vielen Dank, dass du GameTactic Services verwendest!</target>
       </trans-unit>
       <trans-unit id="ShTXQVF" resname="Please click and read %href% terms of service %tag% fully.">
         <source>Please click and read %href% terms of service %tag% fully.</source>
@@ -102,17 +102,17 @@
         <source>When you're done, please agree them below.</source>
         <target state="needs-translation">When you're done, please agree them below.</target>
       </trans-unit>
-      <trans-unit id="4hq3cuY" resname="I Accept Terms of Service">
+      <trans-unit id="4hq3cuY" resname="I Accept Terms of Service" approved="yes">
         <source>I Accept Terms of Service</source>
-        <target state="translated">Ich akzeptiere die Nutzungsbedingungen</target>
+        <target state="final">Ich akzeptiere die Nutzungsbedingungen</target>
       </trans-unit>
       <trans-unit id="_zjtryT" resname="Please select username. It will be the same even if you login via a different provider.">
         <source>Please select username. It will be the same even if you login via a different provider.</source>
         <target state="needs-translation">Please select username. It will be the same even if you login via a different provider.</target>
       </trans-unit>
-      <trans-unit id="_NSt9uS" resname="Thank you %username%">
+      <trans-unit id="_NSt9uS" resname="Thank you %username%" approved="yes">
         <source>Thank you %username%</source>
-        <target state="translated">Vielen Dank %username%</target>
+        <target state="final">Vielen Dank %username%</target>
       </trans-unit>
       <trans-unit id="4s2Md.n" resname="You are now ready to go. Just press &quot;continue&quot; and you will be redirected back to where you came from.">
         <source>You are now ready to go. Just press "continue" and you will be redirected back to where you came from.</source>
@@ -122,25 +122,25 @@
         <source>You have already registered</source>
         <target state="needs-translation">You have already registered</target>
       </trans-unit>
-      <trans-unit id="uNmd8QZ" resname="Go Back">
+      <trans-unit id="uNmd8QZ" resname="Go Back" approved="yes">
         <source>Go Back</source>
-        <target state="translated">Zurück</target>
+        <target state="final">Zurück</target>
       </trans-unit>
-      <trans-unit id="5ZX0Xcb" resname="Europe">
+      <trans-unit id="5ZX0Xcb" resname="Europe" approved="yes">
         <source>Europe</source>
-        <target state="translated">Europa</target>
+        <target state="final">Europa</target>
       </trans-unit>
-      <trans-unit id="esAuwch" resname="Asia">
+      <trans-unit id="esAuwch" resname="Asia" approved="yes">
         <source>Asia</source>
-        <target state="translated">Asien</target>
+        <target state="final">Asien</target>
       </trans-unit>
-      <trans-unit id="M6PY7ZK" resname="Russia">
+      <trans-unit id="M6PY7ZK" resname="Russia" approved="yes">
         <source>Russia</source>
-        <target state="translated">Russland</target>
+        <target state="final">Russland</target>
       </trans-unit>
-      <trans-unit id="ZL4Ihbw" resname="North America">
+      <trans-unit id="ZL4Ihbw" resname="North America" approved="yes">
         <source>North America</source>
-        <target state="translated">Nordamerika</target>
+        <target state="final">Nordamerika</target>
       </trans-unit>
       <trans-unit id="YhmmPog" resname="Username must be less than 32 characters and greater than 3">
         <source>Username must be less than 32 characters and greater than 3</source>
