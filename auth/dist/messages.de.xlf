@@ -15,7 +15,10 @@
       </trans-unit>
       <trans-unit id="06AI7xM" resname="Region">
         <source>Region</source>
-        <target state="translated">Niederlassung</target>
+        <target state="translated">Region</target>
+        <alt-trans>
+          <target>Niederlassung</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="XafKX.2" resname="Connected services">
         <source>Connected services</source>
@@ -27,7 +30,10 @@
       </trans-unit>
       <trans-unit id="6mPfJme" resname="Details can be changed only via support with good reason.">
         <source>Details can be changed only via support with good reason.</source>
-        <target state="translated">Details können nur mit gutem Grund durch Unterstützung geändert warten.</target>
+        <target state="translated">Details können nur mit einem trifitgen Grund vom Support geändert werden.</target>
+        <alt-trans>
+          <target>Details können nur mit gutem Grund durch Unterstützung geändert warten.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="DAFkr23" resname="Data shown here are only related to your authentication.">
         <source>Data shown here are only related to your authentication.</source>
@@ -59,7 +65,10 @@
       </trans-unit>
       <trans-unit id="SvpVv3r" resname="Terms of Service">
         <source>Terms of Service</source>
-        <target state="translated">Allgemeinen Geschäftsbedingungen</target>
+        <target state="translated">Nutzungsbedingungen</target>
+        <alt-trans>
+          <target>Allgemeinen Geschäftsbedingungen</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="DiImtSN" resname="Welcome">
         <source>Welcome</source>
@@ -71,7 +80,7 @@
       </trans-unit>
       <trans-unit id="RYVyTjg" resname="Welcome, %username%!">
         <source>Welcome, %username%!</source>
-        <target state="needs-translation">Welcome, %username%!</target>
+        <target state="translated">Willkommen %username%!</target>
       </trans-unit>
       <trans-unit id="UJZnNsY" resname="We need to check few things before we can continue.">
         <source>We need to check few things before we can continue.</source>
@@ -83,7 +92,7 @@
       </trans-unit>
       <trans-unit id="HWGh45I" resname="Thank you for using GameTactic services!">
         <source>Thank you for using GameTactic services!</source>
-        <target state="needs-translation">Thank you for using GameTactic services!</target>
+        <target state="translated">Vielen Dank, dass du GameTactic Services verwendest!</target>
       </trans-unit>
       <trans-unit id="ShTXQVF" resname="Please click and read %href% terms of service %tag% fully.">
         <source>Please click and read %href% terms of service %tag% fully.</source>
@@ -95,7 +104,7 @@
       </trans-unit>
       <trans-unit id="4hq3cuY" resname="I Accept Terms of Service">
         <source>I Accept Terms of Service</source>
-        <target state="needs-translation">I Accept Terms of Service</target>
+        <target state="translated">Ich akzeptiere die Nutzungsbedingungen</target>
       </trans-unit>
       <trans-unit id="_zjtryT" resname="Please select username. It will be the same even if you login via a different provider.">
         <source>Please select username. It will be the same even if you login via a different provider.</source>
@@ -103,7 +112,7 @@
       </trans-unit>
       <trans-unit id="_NSt9uS" resname="Thank you %username%">
         <source>Thank you %username%</source>
-        <target state="needs-translation">Thank you %username%</target>
+        <target state="translated">Vielen Dank %username%</target>
       </trans-unit>
       <trans-unit id="4s2Md.n" resname="You are now ready to go. Just press &quot;continue&quot; and you will be redirected back to where you came from.">
         <source>You are now ready to go. Just press "continue" and you will be redirected back to where you came from.</source>
@@ -115,7 +124,7 @@
       </trans-unit>
       <trans-unit id="uNmd8QZ" resname="Go Back">
         <source>Go Back</source>
-        <target state="needs-translation">Go Back</target>
+        <target state="translated">Zurück</target>
       </trans-unit>
       <trans-unit id="5ZX0Xcb" resname="Europe">
         <source>Europe</source>
