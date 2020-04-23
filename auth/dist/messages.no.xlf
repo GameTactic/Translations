@@ -16,9 +16,6 @@
       <trans-unit id="06AI7xM" resname="Region">
         <source>Region</source>
         <target state="translated">Region</target>
-        <alt-trans>
-          <target>Regioner</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="XafKX.2" resname="Connected services">
         <source>Connected services</source>
@@ -91,9 +88,6 @@
       <trans-unit id="ShTXQVF" resname="Please click and read %href% terms of service %tag% fully.">
         <source>Please click and read %href% terms of service %tag% fully.</source>
         <target state="translated">Vennligst klikk og les %href% vilkårene %tag% fullstendig.</target>
-        <alt-trans>
-          <target>Vennligst klikk og les %href% betingelser og vilkår %tag% fullstendig.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="hcsKFwF" resname="When you're done, please agree them below.">
         <source>When you're done, please agree them below.</source>
