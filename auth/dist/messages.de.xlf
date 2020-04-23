@@ -16,9 +16,6 @@
       <trans-unit id="06AI7xM" resname="Region">
         <source>Region</source>
         <target state="translated">Region</target>
-        <alt-trans>
-          <target>Niederlassung</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="XafKX.2" resname="Connected services">
         <source>Connected services</source>
@@ -31,9 +28,6 @@
       <trans-unit id="6mPfJme" resname="Details can be changed only via support with good reason.">
         <source>Details can be changed only via support with good reason.</source>
         <target state="translated">Details können nur mit einem trifitgen Grund vom Support geändert werden.</target>
-        <alt-trans>
-          <target>Details können nur mit gutem Grund durch Unterstützung geändert warten.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="DAFkr23" resname="Data shown here are only related to your authentication.">
         <source>Data shown here are only related to your authentication.</source>
@@ -66,9 +60,6 @@
       <trans-unit id="SvpVv3r" resname="Terms of Service" approved="yes">
         <source>Terms of Service</source>
         <target state="final">Nutzungsbedingungen</target>
-        <alt-trans>
-          <target>Allgemeinen Geschäftsbedingungen</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="DiImtSN" resname="Welcome">
         <source>Welcome</source>
