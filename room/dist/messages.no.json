@@ -1,28 +1,24 @@
 {
-  "locale": {
-    "name": "Norsk",
-    "flag": "cif-uk"
-  },
   "entity": {
     "panel": {
-      "add": "Add",
+      "add": "Legg til",
       "team": {
-        "one": "Team One",
-        "two": "Team Two"
+        "one": "Lag 1",
+        "two": "Lag 2"
       }
     },
     "create": {
       "wows": {
         "autocomplete": {
-          "label": "Search for your ship",
-          "placeholder": "Start typing to Search"
+          "label": "Søk etter skipet ditt",
+          "placeholder": "Skriv for å søke"
         }
       }
     },
     "wows": {
       "artillery": {
-        "label": "Main Battery Range",
-        "placeholder": "e.g. 10",
+        "label": "Hoved Batteri Rekkevidde",
+        "placeholder": "e.g 10",
         "suffix": "km"
       },
       "surfaceConcealment": {
@@ -36,17 +32,17 @@
         "suffix": "km"
       },
       "torpedoRange": {
-        "label": "Torpedoes Range",
+        "label": "Torpedo Rekkevidde",
         "placeholder": "e.g. 10",
         "suffix": "km"
       },
       "radarRange": {
-        "label": "Radar Range",
+        "label": "Radar Rekkevidde",
         "placeholder": "e.g. 9",
         "suffix": "km"
       },
       "hydroRange": {
-        "label": "Hydro Range",
+        "label": "Hydro Rekkevidde",
         "placeholder": "e.g. 5",
         "suffix": "km"
       }
@@ -54,7 +50,7 @@
   },
   "undo": {
     "container": {
-      "undo": "Undo"
+      "undo": "Angre"
     }
   },
   "redo": {
