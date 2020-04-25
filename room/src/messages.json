@@ -1,8 +1,5 @@
 {
-  "locale": {
-    "name": "English (UK)",
-    "flag": "cif-uk"
-  },
+
   "entity": {
     "panel": {
       "add": "Add",
