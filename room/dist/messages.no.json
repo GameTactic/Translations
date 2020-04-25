@@ -1,6 +1,117 @@
 {
-  "locale": {
-    "name": "English (UK)",
-    "flag": "cif-uk"
+  "entity": {
+    "panel": {
+      "add": "Legg til",
+      "team": {
+        "one": "Lag 1",
+        "two": "Lag 2"
+      }
+    },
+    "create": {
+      "wows": {
+        "autocomplete": {
+          "label": "Søk etter skipet ditt",
+          "placeholder": "Skriv for å søke"
+        }
+      }
+    },
+    "wows": {
+      "artillery": {
+        "label": "Hoved Batteri Rekkevidde",
+        "placeholder": "e.g 10",
+        "suffix": "km"
+      },
+      "surfaceConcealment": {
+        "label": "Surface Concealment",
+        "placeholder": "e.g. 5",
+        "suffix": "km"
+      },
+      "planeConcealment": {
+        "label": "Plane Concealment",
+        "placeholder": "e.g. 3",
+        "suffix": "km"
+      },
+      "torpedoRange": {
+        "label": "Torpedo Rekkevidde",
+        "placeholder": "e.g. 10",
+        "suffix": "km"
+      },
+      "radarRange": {
+        "label": "Radar Rekkevidde",
+        "placeholder": "e.g. 9",
+        "suffix": "km"
+      },
+      "hydroRange": {
+        "label": "Hydro Rekkevidde",
+        "placeholder": "e.g. 5",
+        "suffix": "km"
+      }
+    }
+  },
+  "undo": {
+    "container": {
+      "undo": "Angre"
+    }
+  },
+  "redo": {
+    "container": {
+      "redo": "Redo"
+    }
+  },
+  "tool": {
+    "container": {
+      "move": "Move",
+      "ping": "Ping",
+      "freedraw": "Free Draw",
+      "line": "Straight Line",
+      "circle": "Circle",
+      "ruler": "Ruler",
+      "erase": "Erase",
+      "text": "Text",
+      "undo": "Undo",
+      "redo": "Redo"
+    },
+    "template": {
+      "colour": "Colour",
+      "fill": "Fill",
+      "size": "Size",
+      "outline": "Outline",
+      "permanent": "Permanent",
+      "temporary": "Temporary",
+      "endStyle": "End Style",
+      "arrow": "Arrow",
+      "tBar": "T Bar",
+      "strokeStyle": "Stroke Style",
+      "solidLine": "Solid Line",
+      "dashedLine": "Dashed Line",
+      "showRadius": "Show Radius",
+      "hideRadius": "Hide Radius"
+    }
+  },
+  "navigation": {
+    "canvasTools": {
+      "zoomIn": "Zoom In",
+      "zoomOut": "Zoom Out",
+      "moveCanvas": "Move Canvas",
+      "centerCanvas": "Center Canvas"
+    },
+    "navigation": {
+      "saveRoom": "Save Room"
+    },
+    "roomMenu": {
+      "settings": "Settings",
+      "newTactic": {
+        "text": "New Tactic",
+        "title": "Create a new tactic within your room"
+      },
+      "manageTactics": {
+        "text": "Manage Tactics",
+        "title": "Manage your existing tactics within your room"
+      },
+      "manageRoom": {
+        "text": "Manage Room",
+        "title": "Manage the rooms settings"
+      }
+    }
   }
 }
