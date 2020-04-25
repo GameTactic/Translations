@@ -1,8 +1,4 @@
 {
-  "locale": {
-    "name": "Türkçe",
-    "flag": "cif-tr"
-  },
   "entity": {
     "panel": {
       "add": "Add",
