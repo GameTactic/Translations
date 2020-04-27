@@ -55,62 +55,62 @@
   },
   "redo": {
     "container": {
-      "redo": "Redo"
+      "redo": "Gjøre om"
     }
   },
   "tool": {
     "container": {
-      "move": "Move",
+      "move": "Flytt",
       "ping": "Ping",
-      "freedraw": "Free Draw",
-      "line": "Straight Line",
-      "circle": "Circle",
-      "ruler": "Ruler",
-      "erase": "Erase",
-      "text": "Text",
-      "undo": "Undo",
-      "redo": "Redo"
+      "freedraw": "Fri tegning",
+      "line": "Rett linje",
+      "circle": "Sirkel",
+      "ruler": "Linjal",
+      "erase": "Viskelær",
+      "text": "Tekst",
+      "undo": "Angre",
+      "redo": "Gjøre Om"
     },
     "template": {
-      "colour": "Colour",
-      "fill": "Fill",
-      "size": "Size",
-      "outline": "Outline",
+      "colour": "Farge",
+      "fill": "Fyll",
+      "size": "Størrelse",
+      "outline": "Omriss",
       "permanent": "Permanent",
-      "temporary": "Temporary",
-      "endStyle": "End Style",
-      "arrow": "Arrow",
+      "temporary": "Midlertidig",
+      "endStyle": "Sluttstil",
+      "arrow": "Pil",
       "tBar": "T Bar",
-      "strokeStyle": "Stroke Style",
-      "solidLine": "Solid Line",
-      "dashedLine": "Dashed Line",
-      "showRadius": "Show Radius",
-      "hideRadius": "Hide Radius"
+      "strokeStyle": "Strøk stil",
+      "solidLine": "Solid Linje",
+      "dashedLine": "Stiplet Linje",
+      "showRadius": "Vis Radius",
+      "hideRadius": "Sjul Radius"
     }
   },
   "navigation": {
     "canvasTools": {
-      "zoomIn": "Zoom In",
-      "zoomOut": "Zoom Out",
-      "moveCanvas": "Move Canvas",
-      "centerCanvas": "Center Canvas"
+      "zoomIn": "Zoom Inn",
+      "zoomOut": "Zoom Ut",
+      "moveCanvas": "Flytt lerret",
+      "centerCanvas": "Midtstill Lerret"
     },
     "navigation": {
-      "saveRoom": "Save Room"
+      "saveRoom": "Lagre Rom"
     },
     "roomMenu": {
-      "settings": "Settings",
+      "settings": "Innstillinger",
       "newTactic": {
-        "text": "New Tactic",
-        "title": "Create a new tactic within your room"
+        "text": "Ny Taktikk",
+        "title": "Lag en ny taktikk i rommet"
       },
       "manageTactics": {
-        "text": "Manage Tactics",
-        "title": "Manage your existing tactics within your room"
+        "text": "Administrer Taktikker",
+        "title": "Administrer dine eksisterende taktikker i rommet"
       },
       "manageRoom": {
-        "text": "Manage Room",
-        "title": "Manage the rooms settings"
+        "text": "Administrer Rom",
+        "title": "Administrer rominnstillingene"
       }
     }
   }
