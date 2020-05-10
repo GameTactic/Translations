@@ -1,4 +1,8 @@
 {
+  "locale": {
+    "name": "English (UK)",
+    "flag": "cif-uk"
+  },
   "entity": {
     "panel": {
       "add": "Legg til",
@@ -6,6 +10,9 @@
         "one": "Lag 1",
         "two": "Lag 2"
       }
+    },
+    "cards": {
+      "note": "<b>Note:</b> Drag and drop cards onto the Canvas to create them"
     },
     "create": {
       "wows": {
@@ -62,7 +69,7 @@
     "container": {
       "move": "Flytt",
       "ping": "Ping",
-      "freedraw": "Fri tegning",
+      "freeDraw": "Free Draw",
       "line": "Rett linje",
       "circle": "Sirkel",
       "ruler": "Linjal",
@@ -112,6 +119,15 @@
         "text": "Administrer Rom",
         "title": "Administrer rominnstillingene"
       }
+    }
+  },
+  "tactic": {
+    "createTacticOverlay": {
+      "title": "New Tactic",
+      "name": "Tactic name",
+      "maps": "Search for maps",
+      "search": "Start typing to search",
+      "create": "Create Tactic"
     }
   }
 }
