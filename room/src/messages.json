@@ -1,5 +1,8 @@
 {
-
+  "locale": {
+    "name": "English (UK)",
+    "flag": "cif-uk"
+  },
   "entity": {
     "panel": {
       "add": "Add",
@@ -7,6 +10,9 @@
         "one": "Team One",
         "two": "Team Two"
       }
+    },
+    "cards": {
+      "note": "<b>Note:</b> Drag and drop cards onto the canvas to create them"
     },
     "create": {
       "wows": {
@@ -63,7 +69,7 @@
     "container": {
       "move": "Move",
       "ping": "Ping",
-      "freedraw": "Free Draw",
+      "freeDraw": "Free Draw",
       "line": "Straight Line",
       "circle": "Circle",
       "ruler": "Ruler",
@@ -113,6 +119,15 @@
         "text": "Manage Room",
         "title": "Manage the rooms settings"
       }
+    }
+  },
+  "tactic": {
+    "createTacticOverlay": {
+      "title": "New tactic",
+      "name": "Tactic name",
+      "maps": "Search for maps",
+      "search": "Start typing to search",
+      "create": "Create Tactic"
     }
   }
 }
