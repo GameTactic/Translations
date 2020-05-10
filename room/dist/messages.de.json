@@ -1,117 +1,133 @@
 {
+  "locale": {
+    "name": "English (UK)",
+    "flag": "cif-uk"
+  },
   "entity": {
     "panel": {
-      "add": "Add",
+      "add": "Hinzufügen",
       "team": {
-        "one": "Team One",
-        "two": "Team Two"
+        "one": "Team Eins",
+        "two": "Team Zwei"
       }
+    },
+    "cards": {
+      "note": "<b>Note:</b> Drag and drop cards onto the Canvas to create them"
     },
     "create": {
       "wows": {
         "autocomplete": {
           "label": "Search for your ship",
-          "placeholder": "Start typing to Search"
+          "placeholder": "Suchbegriff eingeben"
         }
       }
     },
     "wows": {
       "artillery": {
         "label": "Main Battery Range",
-        "placeholder": "e.g. 10",
+        "placeholder": "z.B. 10",
         "suffix": "km"
       },
       "surfaceConcealment": {
         "label": "Surface Concealment",
-        "placeholder": "e.g. 5",
+        "placeholder": "z.B. 5",
         "suffix": "km"
       },
       "planeConcealment": {
         "label": "Plane Concealment",
-        "placeholder": "e.g. 3",
+        "placeholder": "z.B. 3",
         "suffix": "km"
       },
       "torpedoRange": {
-        "label": "Torpedoes Range",
-        "placeholder": "e.g. 10",
+        "label": "Torpedoreichweite",
+        "placeholder": "z.B. 10",
         "suffix": "km"
       },
       "radarRange": {
-        "label": "Radar Range",
-        "placeholder": "e.g. 9",
+        "label": "Radarreichweite",
+        "placeholder": "z.B. 9",
         "suffix": "km"
       },
       "hydroRange": {
         "label": "Hydro Range",
-        "placeholder": "e.g. 5",
+        "placeholder": "z.B. 5",
         "suffix": "km"
       }
     }
   },
   "undo": {
     "container": {
-      "undo": "Undo"
+      "undo": "Rückgängig machen"
     }
   },
   "redo": {
     "container": {
-      "redo": "Redo"
+      "redo": "Wiederholen"
     }
   },
   "tool": {
     "container": {
-      "move": "Move",
-      "ping": "Ping",
-      "freedraw": "Free Draw",
-      "line": "Straight Line",
-      "circle": "Circle",
-      "ruler": "Ruler",
-      "erase": "Erase",
+      "move": "Verschieben",
+      "ping": "Pingen",
+      "freeDraw": "Free Draw",
+      "line": "Gerade Linie",
+      "circle": "Kreis",
+      "ruler": "Lineal",
+      "erase": "Löschen",
       "text": "Text",
-      "undo": "Undo",
-      "redo": "Redo"
+      "undo": "Rückgängig machen",
+      "redo": "Wiederholen"
     },
     "template": {
-      "colour": "Colour",
-      "fill": "Fill",
-      "size": "Size",
-      "outline": "Outline",
+      "colour": "Farbe",
+      "fill": "Füllen",
+      "size": "Größe",
+      "outline": "Umrandung",
       "permanent": "Permanent",
-      "temporary": "Temporary",
+      "temporary": "Temporär",
       "endStyle": "End Style",
-      "arrow": "Arrow",
+      "arrow": "Pfeil",
       "tBar": "T Bar",
       "strokeStyle": "Stroke Style",
-      "solidLine": "Solid Line",
-      "dashedLine": "Dashed Line",
-      "showRadius": "Show Radius",
-      "hideRadius": "Hide Radius"
+      "solidLine": "Durchgezogene Linie",
+      "dashedLine": "Gestrichelte Linie",
+      "showRadius": "Radius anzeigen",
+      "hideRadius": "Radius verstecken"
     }
   },
   "navigation": {
     "canvasTools": {
-      "zoomIn": "Zoom In",
-      "zoomOut": "Zoom Out",
-      "moveCanvas": "Move Canvas",
-      "centerCanvas": "Center Canvas"
+      "zoomIn": "Ansicht vergrößern",
+      "zoomOut": "Ansicht verkleinern",
+      "moveCanvas": "Canvas verschieben",
+      "centerCanvas": "Canvas zentrieren"
     },
     "navigation": {
-      "saveRoom": "Save Room"
+      "saveRoom": "Raum speichern"
     },
     "roomMenu": {
-      "settings": "Settings",
+      "settings": "Einstellungen",
       "newTactic": {
-        "text": "New Tactic",
+        "text": "Neue Taktik",
         "title": "Create a new tactic within your room"
       },
       "manageTactics": {
-        "text": "Manage Tactics",
+        "text": "Taktiken verwalten",
         "title": "Manage your existing tactics within your room"
       },
       "manageRoom": {
-        "text": "Manage Room",
-        "title": "Manage the rooms settings"
+        "text": "Raum verwalten",
+        "title": "Raumeinstellungen verwalten"
       }
+    }
+  },
+  "tactic": {
+    "createTacticOverlay": {
+      "title": "New Tactic",
+      "name": "Tactic name",
+      "maps": "Search for maps",
+      "search": "Start typing to search",
+      "create": "Create Tactic"
     }
   }
 }
