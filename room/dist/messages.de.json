@@ -1,4 +1,8 @@
 {
+  "locale": {
+    "name": "English (UK)",
+    "flag": "cif-uk"
+  },
   "entity": {
     "panel": {
       "add": "Hinzufügen",
@@ -6,6 +10,9 @@
         "one": "Team Eins",
         "two": "Team Zwei"
       }
+    },
+    "cards": {
+      "note": "<b>Note:</b> Drag and drop cards onto the Canvas to create them"
     },
     "create": {
       "wows": {
@@ -62,7 +69,7 @@
     "container": {
       "move": "Verschieben",
       "ping": "Pingen",
-      "freedraw": "Freies Zeichnen",
+      "freeDraw": "Free Draw",
       "line": "Gerade Linie",
       "circle": "Kreis",
       "ruler": "Lineal",
@@ -112,6 +119,15 @@
         "text": "Raum verwalten",
         "title": "Raumeinstellungen verwalten"
       }
+    }
+  },
+  "tactic": {
+    "createTacticOverlay": {
+      "title": "New Tactic",
+      "name": "Tactic name",
+      "maps": "Search for maps",
+      "search": "Start typing to search",
+      "create": "Create Tactic"
     }
   }
 }
