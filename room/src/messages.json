@@ -12,7 +12,7 @@
       }
     },
     "cards": {
-      "note": "<b>Note:</b> Drag and drop cards onto the canvas to create them"
+      "note": "<b>Note:</b> Drag and drop cards onto the Canvas to create them"
     },
     "create": {
       "wows": {
@@ -123,7 +123,7 @@
   },
   "tactic": {
     "createTacticOverlay": {
-      "title": "New tactic",
+      "title": "New Tactic",
       "name": "Tactic name",
       "maps": "Search for maps",
       "search": "Start typing to search",
