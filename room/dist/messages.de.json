@@ -1,6 +1,6 @@
 {
   "locale": {
-    "name": "English (UK)",
+    "name": "Englisch (GB)",
     "flag": "cif-uk"
   },
   "entity": {
@@ -69,7 +69,7 @@
     "container": {
       "move": "Verschieben",
       "ping": "Pingen",
-      "freeDraw": "Free Draw",
+      "freeDraw": "Freies Zeichnen",
       "line": "Gerade Linie",
       "circle": "Kreis",
       "ruler": "Lineal",
@@ -109,11 +109,11 @@
       "settings": "Einstellungen",
       "newTactic": {
         "text": "Neue Taktik",
-        "title": "Create a new tactic within your room"
+        "title": "Erstelle eine neue Taktik in deinem Raum"
       },
       "manageTactics": {
         "text": "Taktiken verwalten",
-        "title": "Manage your existing tactics within your room"
+        "title": "Verwalte deine bestehenden Taktiken in deinem Raum"
       },
       "manageRoom": {
         "text": "Raum verwalten",
@@ -123,11 +123,11 @@
   },
   "tactic": {
     "createTacticOverlay": {
-      "title": "New Tactic",
-      "name": "Tactic name",
-      "maps": "Search for maps",
-      "search": "Start typing to search",
-      "create": "Create Tactic"
+      "title": "Neue Taktik",
+      "name": "Name der Taktik",
+      "maps": "Nach Karten suchen",
+      "search": "Suchbegriff eingeben",
+      "create": "Taktik erstellen"
     }
   }
 }
