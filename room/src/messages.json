@@ -131,10 +131,16 @@
     },
     "createTacticOverlay": {
       "title": "New Tactic",
+      "create": "Create Tactic"
+    },
+    "updateTacticOverlay": {
+      "title": "Update Tactic",
+      "update": "Save Tactic"
+    },
+    "overlay": {
       "name": "Tactic name",
       "maps": "Search for maps",
-      "search": "Start typing to search",
-      "create": "Create Tactic"
+      "search": "Start typing to search"
     }
   }
 }
