@@ -19,7 +19,7 @@
       </trans-unit>
       <trans-unit id="XafKX.2" resname="Connected services">
         <source>Connected services</source>
-        <target state="translated">Verbundene Dientste</target>
+        <target state="translated">Verbundene Dienste</target>
       </trans-unit>
       <trans-unit id="Ayl_Qze" resname="Last login: %time% from %ip%." approved="yes">
         <source>Last login: %time% from %ip%.</source>
@@ -27,11 +27,11 @@
       </trans-unit>
       <trans-unit id="6mPfJme" resname="Details can be changed only via support with good reason.">
         <source>Details can be changed only via support with good reason.</source>
-        <target state="translated">Details können nur mit einem trifitgen Grund vom Support geändert werden.</target>
+        <target state="translated">Details können nur mit einem triftigen Grund vom Support geändert werden.</target>
       </trans-unit>
       <trans-unit id="DAFkr23" resname="Data shown here are only related to your authentication.">
         <source>Data shown here are only related to your authentication.</source>
-        <target state="needs-translation">Data shown here are only related to your authentication.</target>
+        <target state="translated">Hier angezeigte Daten beziehen sich nur auf Ihre Authentifizierung.</target>
       </trans-unit>
       <trans-unit id="MfvvFiW" resname="Continue">
         <source>Continue</source>
@@ -43,15 +43,15 @@
       </trans-unit>
       <trans-unit id="HClzuhI" resname="Username must be less than 32 characters">
         <source>Username must be less than 32 characters</source>
-        <target state="needs-translation">Username must be less than 32 characters</target>
+        <target state="translated">Benutzername darf maximal 31 Zeichen enthalten</target>
       </trans-unit>
       <trans-unit id="Qpwkeq6" resname="Welcome back %username%">
         <source>Welcome back %username%</source>
-        <target state="needs-translation">Welcome back %username%</target>
+        <target state="translated">Willkommen zurück %username%</target>
       </trans-unit>
       <trans-unit id="GtUHn.R" resname="Please press &quot;continue&quot; to return">
         <source>Please press "continue" to return</source>
-        <target state="needs-translation">Please press "continue" to return</target>
+        <target state="translated">Um zurückzukehren bitte auf "weiter" drücken</target>
       </trans-unit>
       <trans-unit id="1pajW90" resname="Profile">
         <source>Profile</source>
@@ -67,7 +67,7 @@
       </trans-unit>
       <trans-unit id="6Vw5YTi" resname="Go!">
         <source>Go!</source>
-        <target state="needs-translation">Go!</target>
+        <target state="translated">Los gehts!</target>
       </trans-unit>
       <trans-unit id="RYVyTjg" resname="Welcome, %username%!" approved="yes">
         <source>Welcome, %username%!</source>
@@ -75,7 +75,7 @@
       </trans-unit>
       <trans-unit id="UJZnNsY" resname="We need to check few things before we can continue.">
         <source>We need to check few things before we can continue.</source>
-        <target state="needs-translation">We need to check few things before we can continue.</target>
+        <target state="translated">Wir überprüfen noch einige Dinge, bevor wir fortfahren.</target>
       </trans-unit>
       <trans-unit id="XiqG_XB" resname="Some are standard things, some are customizations for your account.">
         <source>Some are standard things, some are customizations for your account.</source>
@@ -99,7 +99,7 @@
       </trans-unit>
       <trans-unit id="_zjtryT" resname="Please select username. It will be the same even if you login via a different provider.">
         <source>Please select username. It will be the same even if you login via a different provider.</source>
-        <target state="needs-translation">Please select username. It will be the same even if you login via a different provider.</target>
+        <target state="translated">Bitte wählen Sie einen Benutzernamen. Dieser wird selbst beim Login über einen anderen Anbieter gleich bleiben.</target>
       </trans-unit>
       <trans-unit id="_NSt9uS" resname="Thank you %username%" approved="yes">
         <source>Thank you %username%</source>
@@ -107,11 +107,11 @@
       </trans-unit>
       <trans-unit id="4s2Md.n" resname="You are now ready to go. Just press &quot;continue&quot; and you will be redirected back to where you came from.">
         <source>You are now ready to go. Just press "continue" and you will be redirected back to where you came from.</source>
-        <target state="needs-translation">You are now ready to go. Just press "continue" and you will be redirected back to where you came from.</target>
+        <target state="translated">Sie sind bereit loszulegen. Drücken Sie einfach auf "weiter" und Sie werden zu Ihrem Ausgangspunkt zurückgeleitet.</target>
       </trans-unit>
       <trans-unit id="VhjqTxm" resname="You have already registered">
         <source>You have already registered</source>
-        <target state="needs-translation">You have already registered</target>
+        <target state="translated">Sie sind bereits registriert</target>
       </trans-unit>
       <trans-unit id="uNmd8QZ" resname="Go Back" approved="yes">
         <source>Go Back</source>
@@ -135,7 +135,7 @@
       </trans-unit>
       <trans-unit id="YhmmPog" resname="Username must be less than 32 characters and greater than 3">
         <source>Username must be less than 32 characters and greater than 3</source>
-        <target state="needs-translation">Username must be less than 32 characters and greater than 3</target>
+        <target state="translated">Benutzername darf maximal 31 und minimal 4 Zeichen enthalten</target>
       </trans-unit>
     </body>
   </file>
