@@ -114,5 +114,14 @@
         "title": "Manage the rooms settings"
       }
     }
+  },
+  "tactic": {
+    "button": {
+      "tooltip": "Create, Manage and View Tactics"
+    },
+    "noTacticsFound": "You have created no Tactics",
+    "textField": {
+      "label": "Search your Tactics"
+    }
   }
 }
