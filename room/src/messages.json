@@ -1,4 +1,7 @@
 {
+  "index": {
+    "redirected": "You're being redirected..."
+  },
   "locale": {
     "name": "English (UK)",
     "flag": "cif-uk"
@@ -103,29 +106,19 @@
       "centerCanvas": "Center Canvas"
     },
     "navigation": {
-      "saveRoom": "Save Room"
-    },
-    "roomMenu": {
-      "settings": "Settings",
-      "newTactic": {
-        "text": "New Tactic",
-        "title": "Create a new tactic within your room"
+      "saveRoom": "Save Room",
+      "presentationMode": {
+        "enable": "Enable Presentation Mode",
+        "disable": "Disable Presentation Mode"
       },
-      "manageTactics": {
-        "text": "Manage Tactics",
-        "title": "Manage your existing tactics within your room"
-      },
-      "manageRoom": {
-        "text": "Manage Room",
-        "title": "Manage the rooms settings"
-      }
+      "manageRoom": "Manage Room"
     }
   },
   "tactic": {
     "button": {
       "tooltip": "Create, Manage and View Tactics"
     },
-    "noTacticsFound": "You have created no Tactics",
+    "noTacticsFound": "No Tactics have been created",
     "textField": {
       "label": "Search your Tactics"
     },
