@@ -127,11 +127,11 @@
     },
     "updateTacticOverlay": {
       "title": "Update Tactic",
-      "update": "Save Tactic"
+      "update": "Zapisz taktykę"
     },
     "overlay": {
-      "name": "Tactic name",
-      "maps": "Search for maps",
+      "name": "Nazwa taktyki",
+      "maps": "Wyszukaj mapy",
       "search": "Start typing to search"
     }
   },
