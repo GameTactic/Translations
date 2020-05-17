@@ -13,7 +13,7 @@
     "cards": {
       "note": {
         "inBold": "Uwaga",
-        "afterBold": "Drag and drop cards onto the Canvas to create them"
+        "afterBold": "Przeciągnij i upuść karty na płótno, aby je utworzyć"
       }
     },
     "create": {
@@ -52,7 +52,7 @@
       },
       "hydroRange": {
         "label": "Hydro Range",
-        "placeholder": "e.g. 5",
+        "placeholder": "np.: 5",
         "suffix": "km"
       }
     }
@@ -75,10 +75,10 @@
       "line": "Linia prosta",
       "circle": "Okrąg",
       "ruler": "Linijka",
-      "erase": "Erase",
-      "text": "Text",
-      "undo": "Undo",
-      "redo": "Redo"
+      "erase": "Wymaż",
+      "text": "Tekst",
+      "undo": "Cofnij",
+      "redo": "Powtórz"
     },
     "template": {
       "colour": "Kolor",
@@ -90,34 +90,34 @@
       "endStyle": "Styl zakończenia",
       "arrow": "Strzałka",
       "tBar": "T Bar",
-      "strokeStyle": "Stroke Style",
+      "strokeStyle": "Styl obrysu",
       "solidLine": "Linia ciągła",
       "dashedLine": "Linia przerywana",
-      "showRadius": "Show Radius",
-      "hideRadius": "Hide Radius"
+      "showRadius": "Pokaż promień",
+      "hideRadius": "Ukryj promień"
     }
   },
   "navigation": {
     "canvasTools": {
-      "zoomIn": "Zoom In",
-      "zoomOut": "Zoom Out",
-      "moveCanvas": "Move Canvas",
-      "centerCanvas": "Center Canvas"
+      "zoomIn": "Przybliż",
+      "zoomOut": "Oddal",
+      "moveCanvas": "Przesuń płótno",
+      "centerCanvas": "Wyśrodkuj płótno"
     },
     "navigation": {
-      "saveRoom": "Save Room",
+      "saveRoom": "Zapisz pokój",
       "presentationMode": {
-        "enable": "Enable Presentation Mode",
-        "disable": "Disable Presentation Mode"
+        "enable": "Włącz tryb prezentacji",
+        "disable": "Wyłącz tryb prezentacji"
       },
-      "manageRoom": "Manage Room"
+      "manageRoom": "Zarządzaj pokojem"
     }
   },
   "tactic": {
     "button": {
-      "tooltip": "Create, Manage and View Tactics"
+      "tooltip": "Twórz, Zarządzaj i przeglądaj taktyki"
     },
-    "noTacticsFound": "No Tactics have been created",
+    "noTacticsFound": "Nie stworzono żadnej taktyki",
     "textField": {
       "label": "Search your Tactics"
     },
