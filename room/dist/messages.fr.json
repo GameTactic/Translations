@@ -53,55 +53,55 @@
       },
       "hydroRange": {
         "label": "Portée de l'Hydro",
-        "placeholder": "e.g. 5",
+        "placeholder": "Par exemple: 5",
         "suffix": "km"
       }
     }
   },
   "undo": {
     "container": {
-      "undo": "Undo"
+      "undo": "Annuler"
     }
   },
   "redo": {
     "container": {
-      "redo": "Redo"
+      "redo": "Rétablir"
     }
   },
   "tool": {
     "container": {
-      "move": "Move",
-      "ping": "Ping",
-      "freeDraw": "Free Draw",
-      "line": "Straight Line",
-      "circle": "Circle",
-      "ruler": "Ruler",
-      "erase": "Erase",
-      "text": "Text",
-      "undo": "Undo",
-      "redo": "Redo"
+      "move": "Déplacer",
+      "ping": "Faire un signe",
+      "freeDraw": "Dessin libre",
+      "line": "Ligne doite",
+      "circle": "Cercle",
+      "ruler": "Règle",
+      "erase": "Gommer",
+      "text": "Texte",
+      "undo": "Annuler",
+      "redo": "Rétablir"
     },
     "template": {
-      "colour": "Colour",
-      "fill": "Fill",
-      "size": "Size",
+      "colour": "Couleur",
+      "fill": "Remplir",
+      "size": "Taille",
       "outline": "Outline",
       "permanent": "Permanent",
-      "temporary": "Temporary",
+      "temporary": "Temporaire",
       "endStyle": "End Style",
-      "arrow": "Arrow",
+      "arrow": "Flèche",
       "tBar": "T Bar",
       "strokeStyle": "Stroke Style",
-      "solidLine": "Solid Line",
-      "dashedLine": "Dashed Line",
-      "showRadius": "Show Radius",
-      "hideRadius": "Hide Radius"
+      "solidLine": "Lignes pleines",
+      "dashedLine": "Trait tillé",
+      "showRadius": "Montrer le rayon",
+      "hideRadius": "Cacher le rayon"
     }
   },
   "navigation": {
     "canvasTools": {
-      "zoomIn": "Zoom In",
-      "zoomOut": "Zoom Out",
+      "zoomIn": "Agrandir",
+      "zoomOut": "Dé zoomer",
       "moveCanvas": "Move Canvas",
       "centerCanvas": "Center Canvas"
     },
