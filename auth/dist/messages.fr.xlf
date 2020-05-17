@@ -87,7 +87,7 @@
       </trans-unit>
       <trans-unit id="ShTXQVF" resname="Please click and read %href% terms of service %tag% fully.">
         <source>Please click and read %href% terms of service %tag% fully.</source>
-        <target state="needs-translation">Please click and read %href% terms of service %tag% fully.</target>
+        <target state="translated">Veuillez lire %href% les conditions de service %tag% complètement.</target>
       </trans-unit>
       <trans-unit id="hcsKFwF" resname="When you're done, please agree them below.">
         <source>When you're done, please agree them below.</source>
