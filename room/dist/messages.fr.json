@@ -12,15 +12,15 @@
     },
     "cards": {
       "note": {
-        "inBold": "Note",
-        "afterBold": "Drag and drop cards onto the Canvas to create them"
+        "inBold": "Remarque",
+        "afterBold": "Glisser et déposer les cartes sur le Canva pour les créer"
       }
     },
     "create": {
       "wows": {
         "autocomplete": {
           "label": "Rechercher votre navire",
-          "placeholder": "Start typing to search"
+          "placeholder": "Tapez pour commencer à chercher"
         }
       }
     },
@@ -136,17 +136,17 @@
     }
   },
   "user": {
-    "noUsersOnline": "No Users are online",
-    "noUsersOffline": "No Users are offline",
+    "noUsersOnline": "Aucun utilisateur n'est en ligne",
+    "noUsersOffline": "Aucun utilisateur n'est déconnecté",
     "textField": {
-      "label": "Search your Users"
+      "label": "Cherche un utilisateur"
     },
     "button": {
-      "tooltip": "View other Users in this Room"
+      "tooltip": "Voir les autres utilisateurs de cette salle"
     },
     "userTab": {
-      "online": "Online",
-      "offline": "Offline"
+      "online": "En ligne",
+      "offline": "Hors-ligne"
     }
   }
 }
