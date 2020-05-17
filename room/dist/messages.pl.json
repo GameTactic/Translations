@@ -27,27 +27,27 @@
     "wows": {
       "artillery": {
         "label": "Zasięg głównej baterii",
-        "placeholder": "e.g. 10",
+        "placeholder": "np.: 10",
         "suffix": "km"
       },
       "surfaceConcealment": {
         "label": "Surface Concealment",
-        "placeholder": "e.g. 5",
+        "placeholder": "np.: 5",
         "suffix": "km"
       },
       "planeConcealment": {
         "label": "Plane Concealment",
-        "placeholder": "e.g. 3",
+        "placeholder": "np.: 3",
         "suffix": "km"
       },
       "torpedoRange": {
-        "label": "Torpedoes Range",
-        "placeholder": "e.g. 10",
+        "label": "Zasięg torped",
+        "placeholder": "np.: 10",
         "suffix": "km"
       },
       "radarRange": {
-        "label": "Radar Range",
-        "placeholder": "e.g. 9",
+        "label": "Zasięg radaru",
+        "placeholder": "np.: 9",
         "suffix": "km"
       },
       "hydroRange": {
@@ -59,22 +59,22 @@
   },
   "undo": {
     "container": {
-      "undo": "Undo"
+      "undo": "Cofnij"
     }
   },
   "redo": {
     "container": {
-      "redo": "Redo"
+      "redo": "Powtórz"
     }
   },
   "tool": {
     "container": {
-      "move": "Move",
+      "move": "Przenieś",
       "ping": "Ping",
-      "freeDraw": "Free Draw",
-      "line": "Straight Line",
-      "circle": "Circle",
-      "ruler": "Ruler",
+      "freeDraw": "Swobodne rysowanie",
+      "line": "Linia prosta",
+      "circle": "Okrąg",
+      "ruler": "Linijka",
       "erase": "Erase",
       "text": "Text",
       "undo": "Undo",
@@ -122,27 +122,27 @@
       "label": "Search your Tactics"
     },
     "createTacticOverlay": {
-      "title": "New Tactic",
-      "create": "Create Tactic"
+      "title": "Nowa taktyka",
+      "create": "Utwórz taktykę"
     },
     "updateTacticOverlay": {
-      "title": "Update Tactic",
+      "title": "Aktualizuj taktykę",
       "update": "Zapisz taktykę"
     },
     "overlay": {
       "name": "Nazwa taktyki",
-      "maps": "Wyszukaj mapy",
-      "search": "Start typing to search"
+      "maps": "Wyszukiwanie mapy",
+      "search": "Zacznij pisać, aby wyszukać"
     }
   },
   "user": {
-    "noUsersOnline": "No Users are online",
-    "noUsersOffline": "No Users are offline",
+    "noUsersOnline": "Brak dostępnych użytkowników",
+    "noUsersOffline": "Brak niedostępnych użytkowników",
     "textField": {
-      "label": "Search your Users"
+      "label": "Wyszukiwanie użytkowników"
     },
     "button": {
-      "tooltip": "View other Users in this Room"
+      "tooltip": "Zobacz innych użytkowników w tym pokoju"
     },
     "userTab": {
       "online": "Dostępny",
