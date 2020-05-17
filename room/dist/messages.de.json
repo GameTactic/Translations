@@ -51,7 +51,7 @@
         "suffix": "km"
       },
       "hydroRange": {
-        "label": "Hydro Range",
+        "label": "Reichweite der Hydroakustischen Suche",
         "placeholder": "z.B. 5",
         "suffix": "km"
       }
@@ -136,13 +136,13 @@
     }
   },
   "user": {
-    "noUsersOnline": "No Users are online",
+    "noUsersOnline": "Keine Benutzer sind online",
     "noUsersOffline": "No Users are offline",
     "textField": {
-      "label": "Search your Users"
+      "label": "Nach Benutzern suchen"
     },
     "button": {
-      "tooltip": "View other Users in this Room"
+      "tooltip": "Andere Benutzer in diesem Raum anzeigen"
     },
     "userTab": {
       "online": "Online",
