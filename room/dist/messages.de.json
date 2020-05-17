@@ -1,6 +1,6 @@
 {
   "index": {
-    "redirected": "You're being redirected..."
+    "redirected": "Du wirst weitergeleitet..."
   },
   "locale": {
     "name": "Deutsch",
@@ -20,7 +20,7 @@
     "create": {
       "wows": {
         "autocomplete": {
-          "label": "Search for your ship",
+          "label": "Suche nach deinem Schiff",
           "placeholder": "Suchbegriff eingeben"
         }
       }
@@ -108,32 +108,32 @@
     "navigation": {
       "saveRoom": "Raum speichern",
       "presentationMode": {
-        "enable": "Enable Presentation Mode",
-        "disable": "Disable Presentation Mode"
+        "enable": "Präsentationsmodus aktivieren",
+        "disable": "Präsentationsmodus deaktivieren"
       },
-      "manageRoom": "Manage Room"
+      "manageRoom": "Raum verwalten"
     }
   },
   "tactic": {
     "button": {
-      "tooltip": "Create, Manage and View Tactics"
+      "tooltip": "Taktik erstellen, verwalten und anzeigen"
     },
-    "noTacticsFound": "No Tactics have been created",
+    "noTacticsFound": "Es wurden keine Taktiken erstellt",
     "textField": {
-      "label": "Search your Tactics"
+      "label": "Durchsuche deine Taktiken"
     },
     "createTacticOverlay": {
       "title": "Neue Taktik",
       "create": "Taktik erstellen"
     },
     "updateTacticOverlay": {
-      "title": "Update Tactic",
-      "update": "Save Tactic"
+      "title": "Taktik aktualisieren",
+      "update": "Taktik speichern"
     },
     "overlay": {
-      "name": "Tactic name",
-      "maps": "Search for maps",
-      "search": "Start typing to search"
+      "name": "Name der Taktik",
+      "maps": "Nach Karten suchen",
+      "search": "Tippen um Suche zu starten"
     }
   }
 }
