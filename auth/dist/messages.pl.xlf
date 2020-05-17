@@ -7,7 +7,7 @@
     <body>
       <trans-unit id="Ozafeq9" resname="Profile of user %username%">
         <source>Profile of user %username%</source>
-        <target state="needs-translation">Profile of user %username%</target>
+        <target state="translated">Profil użytkownika %username%</target>
       </trans-unit>
       <trans-unit id="47ienTP" resname="Username">
         <source>Username</source>
@@ -23,7 +23,7 @@
       </trans-unit>
       <trans-unit id="Ayl_Qze" resname="Last login: %time% from %ip%.">
         <source>Last login: %time% from %ip%.</source>
-        <target state="needs-translation">Last login: %time% from %ip%.</target>
+        <target state="translated">Ostatnie logowanie: %time% z %ip%.</target>
       </trans-unit>
       <trans-unit id="6mPfJme" resname="Details can be changed only via support with good reason.">
         <source>Details can be changed only via support with good reason.</source>
