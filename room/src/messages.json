@@ -135,5 +135,19 @@
       "maps": "Search for maps",
       "search": "Start typing to search"
     }
+  },
+  "user": {
+    "noUsersOnline": "No Users are online",
+    "noUsersOffline": "No Users are offline",
+    "textField": {
+      "label": "Search your Users"
+    },
+    "button": {
+      "tooltip": "View other Users in this Room"
+    },
+    "userTab": {
+      "online": "Online",
+      "offline": "Offline"
+    }
   }
 }
