@@ -75,7 +75,7 @@
       </trans-unit>
       <trans-unit id="UJZnNsY" resname="We need to check few things before we can continue.">
         <source>We need to check few things before we can continue.</source>
-        <target state="needs-translation">We need to check few things before we can continue.</target>
+        <target state="translated">Nous devons vérifier plusieurs choses avant de pouvoir continuer.</target>
       </trans-unit>
       <trans-unit id="XiqG_XB" resname="Some are standard things, some are customizations for your account.">
         <source>Some are standard things, some are customizations for your account.</source>
