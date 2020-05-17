@@ -79,7 +79,7 @@
       </trans-unit>
       <trans-unit id="XiqG_XB" resname="Some are standard things, some are customizations for your account.">
         <source>Some are standard things, some are customizations for your account.</source>
-        <target state="needs-translation">Some are standard things, some are customizations for your account.</target>
+        <target state="translated">Einige sind Standards, andere sind Anpassungen für Ihr Konto.</target>
       </trans-unit>
       <trans-unit id="HWGh45I" resname="Thank you for using GameTactic services!" approved="yes">
         <source>Thank you for using GameTactic services!</source>
@@ -87,11 +87,11 @@
       </trans-unit>
       <trans-unit id="ShTXQVF" resname="Please click and read %href% terms of service %tag% fully.">
         <source>Please click and read %href% terms of service %tag% fully.</source>
-        <target state="needs-translation">Please click and read %href% terms of service %tag% fully.</target>
+        <target state="translated">Bitte klicken und lesen Sie die %href% Nutzungsbedingungen %tag% vollständig durch.</target>
       </trans-unit>
       <trans-unit id="hcsKFwF" resname="When you're done, please agree them below.">
         <source>When you're done, please agree them below.</source>
-        <target state="needs-translation">When you're done, please agree them below.</target>
+        <target state="translated">Wenn du fertig bist, akzeptiere sie bitte unten.</target>
       </trans-unit>
       <trans-unit id="4hq3cuY" resname="I Accept Terms of Service" approved="yes">
         <source>I Accept Terms of Service</source>
