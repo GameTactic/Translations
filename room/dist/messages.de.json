@@ -26,17 +26,17 @@
     },
     "wows": {
       "artillery": {
-        "label": "Main Battery Range",
+        "label": "Hauptbatteriereichweite",
         "placeholder": "z.B. 10",
         "suffix": "km"
       },
       "surfaceConcealment": {
-        "label": "Surface Concealment",
+        "label": "Oberflächenortung",
         "placeholder": "z.B. 5",
         "suffix": "km"
       },
       "planeConcealment": {
-        "label": "Plane Concealment",
+        "label": "Flugzeugoberflächenortung",
         "placeholder": "z.B. 3",
         "suffix": "km"
       },
