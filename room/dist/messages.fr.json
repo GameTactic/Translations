@@ -4,7 +4,7 @@
   },
   "locale": {
     "name": "Anglais (UK)",
-    "flag": "cif-uk"
+    "flag": "cif-fr"
   },
   "entity": {
     "panel": {
@@ -21,7 +21,7 @@
       "wows": {
         "autocomplete": {
           "label": "Rechercher votre navire",
-          "placeholder": "Écrivez pour chercher"
+          "placeholder": "Tapez pour commencer à chercher"
         }
       }
     },
@@ -85,13 +85,13 @@
       "colour": "Couleur",
       "fill": "Remplir",
       "size": "Taille",
-      "outline": "Outline",
+      "outline": "Contour",
       "permanent": "Permanent",
       "temporary": "Temporaire",
-      "endStyle": "End Style",
+      "endStyle": "Style de l'extrémité",
       "arrow": "Flèche",
-      "tBar": "T Bar",
-      "strokeStyle": "Stroke Style",
+      "tBar": "Barre T",
+      "strokeStyle": "Style de trait",
       "solidLine": "Lignes pleines",
       "dashedLine": "Trait tillé",
       "showRadius": "Montrer le rayon",
@@ -101,39 +101,39 @@
   "navigation": {
     "canvasTools": {
       "zoomIn": "Agrandir",
-      "zoomOut": "Dé zoomer",
-      "moveCanvas": "Move Canvas",
-      "centerCanvas": "Center Canvas"
+      "zoomOut": "Rétrécir",
+      "moveCanvas": "Déplacer le Canva",
+      "centerCanvas": "Centrer le Canva"
     },
     "navigation": {
-      "saveRoom": "Save Room",
+      "saveRoom": "Sauvegarder la salle",
       "presentationMode": {
-        "enable": "Enable Presentation Mode",
-        "disable": "Disable Presentation Mode"
+        "enable": "Activer le mode de Présentation",
+        "disable": "Désactiver le mode de Présentation"
       },
-      "manageRoom": "Manage Room"
+      "manageRoom": "Gérer les salles"
     }
   },
   "tactic": {
     "button": {
-      "tooltip": "Create, Manage and View Tactics"
+      "tooltip": "Créer, Gérer et Voir les Tactiques"
     },
-    "noTacticsFound": "No Tactics have been created",
+    "noTacticsFound": "Aucune Tactiques créées",
     "textField": {
-      "label": "Search your Tactics"
+      "label": "Chercher vos Tactiques"
     },
     "createTacticOverlay": {
-      "title": "New Tactic",
-      "create": "Create Tactic"
+      "title": "Nouvelle Tactique",
+      "create": "Créer une Tactique"
     },
     "updateTacticOverlay": {
-      "title": "Update Tactic",
-      "update": "Save Tactic"
+      "title": "Mettre à jour une Tactique",
+      "update": "Sauvegarder la Tactique"
     },
     "overlay": {
-      "name": "Tactic name",
-      "maps": "Search for maps",
-      "search": "Start typing to search"
+      "name": "Nom de la Tactique",
+      "maps": "Chercher un carte",
+      "search": "Tapez pour commencer à chercher"
     }
   }
 }
