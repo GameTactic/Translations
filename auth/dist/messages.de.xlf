@@ -39,7 +39,7 @@
       </trans-unit>
       <trans-unit id="0Y3hVjp" resname="Username is required">
         <source>Username is required</source>
-        <target state="translated">Benutzername ist erforderlich</target>
+        <target state="translated">Der Benutzername ist erforderlich</target>
       </trans-unit>
       <trans-unit id="HClzuhI" resname="Username must be less than 32 characters">
         <source>Username must be less than 32 characters</source>
@@ -75,7 +75,7 @@
       </trans-unit>
       <trans-unit id="UJZnNsY" resname="We need to check few things before we can continue.">
         <source>We need to check few things before we can continue.</source>
-        <target state="translated">Wir überprüfen noch einige Dinge, bevor wir fortfahren.</target>
+        <target state="translated">Wir müssen noch einige Dinge überprüfen, bevor wir fortfahren können.</target>
       </trans-unit>
       <trans-unit id="XiqG_XB" resname="Some are standard things, some are customizations for your account.">
         <source>Some are standard things, some are customizations for your account.</source>
@@ -91,7 +91,7 @@
       </trans-unit>
       <trans-unit id="hcsKFwF" resname="When you're done, please agree them below.">
         <source>When you're done, please agree them below.</source>
-        <target state="translated">Wenn du fertig bist, akzeptiere sie bitte unten.</target>
+        <target state="translated">Wenn du fertig bist, akzeptiere diese bitte unten.</target>
       </trans-unit>
       <trans-unit id="4hq3cuY" resname="I Accept Terms of Service" approved="yes">
         <source>I Accept Terms of Service</source>
@@ -135,7 +135,7 @@
       </trans-unit>
       <trans-unit id="YhmmPog" resname="Username must be less than 32 characters and greater than 3">
         <source>Username must be less than 32 characters and greater than 3</source>
-        <target state="translated">Benutzername darf maximal 31 und minimal 4 Zeichen enthalten</target>
+        <target state="translated">Der Benutzername muss mindestens 4 beziehungsweise darf maximal 31 Zeichen enthalten</target>
       </trans-unit>
     </body>
   </file>
