@@ -2,10 +2,6 @@
   "index": {
     "redirected": "Vous allez maintenant être redirigé..."
   },
-  "locale": {
-    "name": "Anglais (UK)",
-    "flag": "cif-fr"
-  },
   "entity": {
     "panel": {
       "add": "Ajouter",
@@ -15,13 +11,16 @@
       }
     },
     "cards": {
-      "note": "<b>Remarque:</b> Glisser et déposer les cartes sur le Canva pour les créer"
+      "note": {
+        "inBold": "Note",
+        "afterBold": "Drag and drop cards onto the Canvas to create them"
+      }
     },
     "create": {
       "wows": {
         "autocomplete": {
           "label": "Rechercher votre navire",
-          "placeholder": "Tapez pour commencer à chercher"
+          "placeholder": "Start typing to search"
         }
       }
     },
@@ -134,6 +133,20 @@
       "name": "Nom de la Tactique",
       "maps": "Chercher un carte",
       "search": "Tapez pour commencer à chercher"
+    }
+  },
+  "user": {
+    "noUsersOnline": "No Users are online",
+    "noUsersOffline": "No Users are offline",
+    "textField": {
+      "label": "Search your Users"
+    },
+    "button": {
+      "tooltip": "View other Users in this Room"
+    },
+    "userTab": {
+      "online": "Online",
+      "offline": "Offline"
     }
   }
 }
