@@ -2,10 +2,6 @@
   "index": {
     "redirected": "Du wirst weitergeleitet..."
   },
-  "locale": {
-    "name": "Deutsch",
-    "flag": "cif-uk"
-  },
   "entity": {
     "panel": {
       "add": "Hinzufügen",
@@ -15,13 +11,16 @@
       }
     },
     "cards": {
-      "note": "<b>Hinweis:</b> Ziehen Sie die Karten auf die Leinwand und legen sie ab, um sie zu erstellen"
+      "note": {
+        "inBold": "Note",
+        "afterBold": "Drag and drop cards onto the Canvas to create them"
+      }
     },
     "create": {
       "wows": {
         "autocomplete": {
           "label": "Suche nach deinem Schiff",
-          "placeholder": "Suchbegriff eingeben"
+          "placeholder": "Start typing to search"
         }
       }
     },
@@ -134,6 +133,20 @@
       "name": "Name der Taktik",
       "maps": "Nach Karten suchen",
       "search": "Tippen um Suche zu starten"
+    }
+  },
+  "user": {
+    "noUsersOnline": "No Users are online",
+    "noUsersOffline": "No Users are offline",
+    "textField": {
+      "label": "Search your Users"
+    },
+    "button": {
+      "tooltip": "View other Users in this Room"
+    },
+    "userTab": {
+      "online": "Online",
+      "offline": "Offline"
     }
   }
 }
