@@ -27,7 +27,7 @@
       </trans-unit>
       <trans-unit id="6mPfJme" resname="Details can be changed only via support with good reason.">
         <source>Details can be changed only via support with good reason.</source>
-        <target state="needs-translation">Details can be changed only via support with good reason.</target>
+        <target state="translated">Szczegóły można zmienić tylko przez obsługę z uzasadnionego powodu.</target>
       </trans-unit>
       <trans-unit id="DAFkr23" resname="Data shown here are only related to your authentication.">
         <source>Data shown here are only related to your authentication.</source>
