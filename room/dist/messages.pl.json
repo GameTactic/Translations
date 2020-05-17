@@ -6,8 +6,8 @@
     "panel": {
       "add": "Dodaj",
       "team": {
-        "one": "Team One",
-        "two": "Team Two"
+        "one": "Drużyna 1",
+        "two": "Drużyna 2"
       }
     },
     "cards": {
@@ -119,7 +119,7 @@
     },
     "noTacticsFound": "Nie stworzono żadnej taktyki",
     "textField": {
-      "label": "Search your Tactics"
+      "label": "Wyszukiwanie taktyk"
     },
     "createTacticOverlay": {
       "title": "Nowa taktyka",
@@ -136,8 +136,8 @@
     }
   },
   "user": {
-    "noUsersOnline": "Brak dostępnych użytkowników",
-    "noUsersOffline": "Brak niedostępnych użytkowników",
+    "noUsersOnline": "Brak użytkowników online",
+    "noUsersOffline": "Brak użytkowników offline",
     "textField": {
       "label": "Wyszukiwanie użytkowników"
     },
