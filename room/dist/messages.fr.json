@@ -21,38 +21,38 @@
       "wows": {
         "autocomplete": {
           "label": "Rechercher votre navire",
-          "placeholder": "Start typing to Search"
+          "placeholder": "Écrivez pour chercher"
         }
       }
     },
     "wows": {
       "artillery": {
-        "label": "Main Battery Range",
-        "placeholder": "e.g. 10",
+        "label": "Portée de la batterie principale",
+        "placeholder": "Par exemple: 10",
         "suffix": "km"
       },
       "surfaceConcealment": {
-        "label": "Surface Concealment",
-        "placeholder": "e.g. 5",
+        "label": "Détectabilité de surface",
+        "placeholder": "Par exemple: 5",
         "suffix": "km"
       },
       "planeConcealment": {
-        "label": "Plane Concealment",
-        "placeholder": "e.g. 3",
+        "label": "Détectabilité aérienne",
+        "placeholder": "Par exemple: 3",
         "suffix": "km"
       },
       "torpedoRange": {
-        "label": "Torpedoes Range",
-        "placeholder": "e.g. 10",
+        "label": "Portée des torpilles",
+        "placeholder": "Par exemple: 10",
         "suffix": "km"
       },
       "radarRange": {
-        "label": "Radar Range",
-        "placeholder": "e.g. 9",
+        "label": "Portée du radar",
+        "placeholder": "Par exemple: 9",
         "suffix": "km"
       },
       "hydroRange": {
-        "label": "Hydro Range",
+        "label": "Portée de l'Hydro",
         "placeholder": "e.g. 5",
         "suffix": "km"
       }
