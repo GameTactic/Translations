@@ -2,10 +2,6 @@
   "index": {
     "redirected": "You're being redirected..."
   },
-  "locale": {
-    "name": "English (UK)",
-    "flag": "cif-uk"
-  },
   "entity": {
     "panel": {
       "add": "Add",
@@ -15,13 +11,16 @@
       }
     },
     "cards": {
-      "note": "<b>Note:</b> Drag and drop cards onto the Canvas to create them"
+      "note": {
+        "inBold": "Note",
+        "afterBold": "Drag and drop cards onto the Canvas to create them"
+      }
     },
     "create": {
       "wows": {
         "autocomplete": {
           "label": "Search for your ship",
-          "placeholder": "Start typing to Search"
+          "placeholder": "Start typing to search"
         }
       }
     },
