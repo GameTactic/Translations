@@ -1,26 +1,26 @@
 {
   "index": {
-    "redirected": "You're being redirected..."
+    "redirected": "Vous allez maintenant être redirigé..."
   },
   "locale": {
-    "name": "English (UK)",
+    "name": "Anglais (UK)",
     "flag": "cif-uk"
   },
   "entity": {
     "panel": {
-      "add": "Add",
+      "add": "Ajouter",
       "team": {
-        "one": "Team One",
-        "two": "Team Two"
+        "one": "Équipe Une",
+        "two": "Équipe Deux"
       }
     },
     "cards": {
-      "note": "<b>Note:</b> Drag and drop cards onto the Canvas to create them"
+      "note": "<b>Remarque:</b> Glisser et déposer les cartes sur le Canva pour les créer"
     },
     "create": {
       "wows": {
         "autocomplete": {
-          "label": "Search for your ship",
+          "label": "Rechercher votre navire",
           "placeholder": "Start typing to Search"
         }
       }
