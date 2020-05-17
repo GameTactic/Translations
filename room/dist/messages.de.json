@@ -1,4 +1,7 @@
 {
+  "index": {
+    "redirected": "You're being redirected..."
+  },
   "locale": {
     "name": "Deutsch",
     "flag": "cif-uk"
@@ -103,31 +106,34 @@
       "centerCanvas": "Canvas zentrieren"
     },
     "navigation": {
-      "saveRoom": "Raum speichern"
-    },
-    "roomMenu": {
-      "settings": "Einstellungen",
-      "newTactic": {
-        "text": "Neue Taktik",
-        "title": "Erstelle eine neue Taktik in deinem Raum"
+      "saveRoom": "Raum speichern",
+      "presentationMode": {
+        "enable": "Enable Presentation Mode",
+        "disable": "Disable Presentation Mode"
       },
-      "manageTactics": {
-        "text": "Taktiken verwalten",
-        "title": "Verwalte deine bestehenden Taktiken in deinem Raum"
-      },
-      "manageRoom": {
-        "text": "Raum verwalten",
-        "title": "Raumeinstellungen verwalten"
-      }
+      "manageRoom": "Manage Room"
     }
   },
   "tactic": {
+    "button": {
+      "tooltip": "Create, Manage and View Tactics"
+    },
+    "noTacticsFound": "No Tactics have been created",
+    "textField": {
+      "label": "Search your Tactics"
+    },
     "createTacticOverlay": {
       "title": "Neue Taktik",
-      "name": "Name der Taktik",
-      "maps": "Nach Karten suchen",
-      "search": "Suchbegriff eingeben",
       "create": "Taktik erstellen"
+    },
+    "updateTacticOverlay": {
+      "title": "Update Tactic",
+      "update": "Save Tactic"
+    },
+    "overlay": {
+      "name": "Tactic name",
+      "maps": "Search for maps",
+      "search": "Start typing to search"
     }
   }
 }
