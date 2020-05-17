@@ -13,9 +13,9 @@
         <source>Username</source>
         <target state="translated">Użytkownik</target>
       </trans-unit>
-      <trans-unit id="06AI7xM" resname="Region">
+      <trans-unit id="06AI7xM" resname="Region" approved="yes">
         <source>Region</source>
-        <target state="translated">Region</target>
+        <target state="final">Region</target>
       </trans-unit>
       <trans-unit id="XafKX.2" resname="Connected services">
         <source>Connected services</source>
