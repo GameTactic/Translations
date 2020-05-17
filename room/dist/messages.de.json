@@ -19,7 +19,7 @@
     "create": {
       "wows": {
         "autocomplete": {
-          "label": "Suche nach deinem Schiff",
+          "label": "Suche nach einem Schiff",
           "placeholder": "Start typing to search"
         }
       }
@@ -99,8 +99,8 @@
   },
   "navigation": {
     "canvasTools": {
-      "zoomIn": "Ansicht vergrößern",
-      "zoomOut": "Ansicht verkleinern",
+      "zoomIn": "Heranzoomen",
+      "zoomOut": "Herauszoomen",
       "moveCanvas": "Canvas verschieben",
       "centerCanvas": "Canvas zentrieren"
     },
