@@ -31,7 +31,7 @@
       </trans-unit>
       <trans-unit id="DAFkr23" resname="Data shown here are only related to your authentication.">
         <source>Data shown here are only related to your authentication.</source>
-        <target state="needs-translation">Data shown here are only related to your authentication.</target>
+        <target state="translated">Les données affichées ici ne sont liées qu'à votre authentification.</target>
       </trans-unit>
       <trans-unit id="MfvvFiW" resname="Continue" approved="yes">
         <source>Continue</source>
@@ -51,7 +51,7 @@
       </trans-unit>
       <trans-unit id="GtUHn.R" resname="Please press &quot;continue&quot; to return">
         <source>Please press "continue" to return</source>
-        <target state="needs-translation">Please press "continue" to return</target>
+        <target state="translated">Cliquez sur "continuer" pour revenir en arrière</target>
       </trans-unit>
       <trans-unit id="1pajW90" resname="Profile">
         <source>Profile</source>
@@ -79,7 +79,7 @@
       </trans-unit>
       <trans-unit id="XiqG_XB" resname="Some are standard things, some are customizations for your account.">
         <source>Some are standard things, some are customizations for your account.</source>
-        <target state="needs-translation">Some are standard things, some are customizations for your account.</target>
+        <target state="translated">Certaines choses sont standards, d'autres sont de la personnalisation pour votre compte.</target>
       </trans-unit>
       <trans-unit id="HWGh45I" resname="Thank you for using GameTactic services!">
         <source>Thank you for using GameTactic services!</source>
@@ -107,7 +107,7 @@
       </trans-unit>
       <trans-unit id="4s2Md.n" resname="You are now ready to go. Just press &quot;continue&quot; and you will be redirected back to where you came from.">
         <source>You are now ready to go. Just press "continue" and you will be redirected back to where you came from.</source>
-        <target state="needs-translation">You are now ready to go. Just press "continue" and you will be redirected back to where you came from.</target>
+        <target state="translated">Vous êtes maintenant prêt. Cliquez sur "continuer" et vous serez redirigé là d'où vous venez.</target>
       </trans-unit>
       <trans-unit id="VhjqTxm" resname="You have already registered">
         <source>You have already registered</source>
