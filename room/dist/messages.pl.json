@@ -19,7 +19,7 @@
     "create": {
       "wows": {
         "autocomplete": {
-          "label": "Search for your ship",
+          "label": "Wyszukaj swój statek",
           "placeholder": "Zacznij pisać, aby wyszukać"
         }
       }
@@ -31,7 +31,7 @@
         "suffix": "km"
       },
       "surfaceConcealment": {
-        "label": "Surface Concealment",
+        "label": "Ukrywanie powierzchni",
         "placeholder": "np.: 5",
         "suffix": "km"
       },
