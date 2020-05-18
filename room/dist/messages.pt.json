@@ -1,0 +1,152 @@
+{
+  "index": {
+    "redirected": "You're being redirected..."
+  },
+  "entity": {
+    "panel": {
+      "add": "Add",
+      "team": {
+        "one": "Team One",
+        "two": "Team Two"
+      }
+    },
+    "cards": {
+      "note": {
+        "inBold": "Note",
+        "afterBold": "Drag and drop cards onto the Canvas to create them"
+      }
+    },
+    "create": {
+      "wows": {
+        "autocomplete": {
+          "label": "Search for your ship",
+          "placeholder": "Start typing to search"
+        }
+      }
+    },
+    "wows": {
+      "artillery": {
+        "label": "Main Battery Range",
+        "placeholder": "e.g. 10",
+        "suffix": "km"
+      },
+      "surfaceConcealment": {
+        "label": "Surface Concealment",
+        "placeholder": "e.g. 5",
+        "suffix": "km"
+      },
+      "planeConcealment": {
+        "label": "Plane Concealment",
+        "placeholder": "e.g. 3",
+        "suffix": "km"
+      },
+      "torpedoRange": {
+        "label": "Torpedoes Range",
+        "placeholder": "e.g. 10",
+        "suffix": "km"
+      },
+      "radarRange": {
+        "label": "Radar Range",
+        "placeholder": "e.g. 9",
+        "suffix": "km"
+      },
+      "hydroRange": {
+        "label": "Hydro Range",
+        "placeholder": "e.g. 5",
+        "suffix": "km"
+      }
+    }
+  },
+  "undo": {
+    "container": {
+      "undo": "Undo"
+    }
+  },
+  "redo": {
+    "container": {
+      "redo": "Redo"
+    }
+  },
+  "tool": {
+    "container": {
+      "move": "Move",
+      "ping": "Ping",
+      "freeDraw": "Free Draw",
+      "line": "Straight Line",
+      "circle": "Circle",
+      "ruler": "Ruler",
+      "erase": "Erase",
+      "text": "Text",
+      "undo": "Undo",
+      "redo": "Redo"
+    },
+    "template": {
+      "colour": "Colour",
+      "fill": "Fill",
+      "size": "Size",
+      "outline": "Outline",
+      "permanent": "Permanent",
+      "temporary": "Temporary",
+      "endStyle": "End Style",
+      "arrow": "Arrow",
+      "tBar": "T Bar",
+      "strokeStyle": "Stroke Style",
+      "solidLine": "Solid Line",
+      "dashedLine": "Dashed Line",
+      "showRadius": "Show Radius",
+      "hideRadius": "Hide Radius"
+    }
+  },
+  "navigation": {
+    "canvasTools": {
+      "zoomIn": "Zoom In",
+      "zoomOut": "Zoom Out",
+      "moveCanvas": "Move Canvas",
+      "centerCanvas": "Center Canvas"
+    },
+    "navigation": {
+      "saveRoom": "Save Room",
+      "presentationMode": {
+        "enable": "Enable Presentation Mode",
+        "disable": "Disable Presentation Mode"
+      },
+      "manageRoom": "Manage Room"
+    }
+  },
+  "tactic": {
+    "button": {
+      "tooltip": "Create, Manage and View Tactics"
+    },
+    "noTacticsFound": "No Tactics have been created",
+    "textField": {
+      "label": "Search your Tactics"
+    },
+    "createTacticOverlay": {
+      "title": "New Tactic",
+      "create": "Create Tactic"
+    },
+    "updateTacticOverlay": {
+      "title": "Update Tactic",
+      "update": "Save Tactic"
+    },
+    "overlay": {
+      "name": "Tactic name",
+      "maps": "Search for maps",
+      "search": "Start typing to search"
+    }
+  },
+  "user": {
+    "noUsersOnline": "No Users are online",
+    "noUsersOffline": "No Users are offline",
+    "textField": {
+      "label": "Search your Users"
+    },
+    "button": {
+      "tooltip": "View other Users in this Room"
+    },
+    "userTab": {
+      "online": "Online",
+      "offline": "Offline"
+    }
+  }
+}
