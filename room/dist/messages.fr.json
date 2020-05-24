@@ -111,6 +111,13 @@
         "disable": "Désactiver le mode de Présentation"
       },
       "manageRoom": "Gérer les salles"
+    },
+    "login": {
+      "title": "Login",
+      "logout": "Logout",
+      "card": {
+        "title": "Select a Login option"
+      }
     }
   },
   "tactic": {
@@ -136,6 +143,7 @@
     }
   },
   "user": {
+    "profile": "User profile",
     "noUsersOnline": "Aucun utilisateur n'est en ligne",
     "noUsersOffline": "Aucun utilisateur n'est déconnecté",
     "textField": {
