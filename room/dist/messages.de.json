@@ -111,6 +111,13 @@
         "disable": "Präsentationsmodus deaktivieren"
       },
       "manageRoom": "Raum verwalten"
+    },
+    "login": {
+      "title": "Login",
+      "logout": "Logout",
+      "card": {
+        "title": "Select a Login option"
+      }
     }
   },
   "tactic": {
@@ -136,6 +143,7 @@
     }
   },
   "user": {
+    "profile": "User profile",
     "noUsersOnline": "Keine Benutzer sind online",
     "noUsersOffline": "No Users are offline",
     "textField": {
