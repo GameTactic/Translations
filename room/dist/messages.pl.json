@@ -111,6 +111,13 @@
         "disable": "Wyłącz tryb prezentacji"
       },
       "manageRoom": "Zarządzaj pokojem"
+    },
+    "login": {
+      "title": "Login",
+      "logout": "Logout",
+      "card": {
+        "title": "Select a Login option"
+      }
     }
   },
   "tactic": {
@@ -136,6 +143,7 @@
     }
   },
   "user": {
+    "profile": "User profile",
     "noUsersOnline": "Brak użytkowników online",
     "noUsersOffline": "Brak użytkowników offline",
     "textField": {
