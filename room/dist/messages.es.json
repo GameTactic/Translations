@@ -1,18 +1,18 @@
 {
   "index": {
-    "redirected": "You're being redirected..."
+    "redirected": "Estás siendo redirigido..."
   },
   "entity": {
     "panel": {
-      "add": "Add",
+      "add": "Añadir",
       "team": {
-        "one": "Team One",
-        "two": "Team Two"
+        "one": "Equipo Uno",
+        "two": "Equipo Dos"
       }
     },
     "cards": {
       "note": {
-        "inBold": "Note",
+        "inBold": "Nota",
         "afterBold": "Drag and drop cards onto the Canvas to create them"
       }
     },
@@ -111,6 +111,13 @@
         "disable": "Disable Presentation Mode"
       },
       "manageRoom": "Manage Room"
+    },
+    "login": {
+      "title": "Login",
+      "logout": "Logout",
+      "card": {
+        "title": "Select a Login option"
+      }
     }
   },
   "tactic": {
@@ -136,6 +143,7 @@
     }
   },
   "user": {
+    "profile": "User profile",
     "noUsersOnline": "No Users are online",
     "noUsersOffline": "No Users are offline",
     "textField": {

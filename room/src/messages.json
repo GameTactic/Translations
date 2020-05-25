@@ -116,6 +116,13 @@
         "disable": "Disable Presentation Mode"
       },
       "manageRoom": "Manage Room"
+    },
+    "login":  {
+      "title": "Login",
+      "logout": "Logout",
+      "card": {
+        "title": "Select a Login option"
+      }
     }
   },
   "tactic": {
@@ -141,6 +148,7 @@
     }
   },
   "user": {
+    "profile": "User profile",
     "noUsersOnline": "No Users are online",
     "noUsersOffline": "No Users are offline",
     "textField": {
