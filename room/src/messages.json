@@ -2,6 +2,11 @@
   "index": {
     "redirected": "You're being redirected..."
   },
+  "authentication": {
+    "error": {
+      "reachServer": "Could not reach authentication server."
+    }
+  },
   "entity": {
     "panel": {
       "add": "Add",
