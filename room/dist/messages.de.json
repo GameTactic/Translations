@@ -1,10 +1,10 @@
 {
   "index": {
-    "redirected": "Du wirst weitergeleitet..."
+    "redirected": "Sie werden weitergeleitet..."
   },
   "authentication": {
     "error": {
-      "reachServer": "Could not reach authentication server."
+      "reachServer": "Authentifizierungsserver konnte nicht erreicht werden."
     }
   },
   "entity": {
@@ -17,7 +17,7 @@
     },
     "cards": {
       "note": {
-        "inBold": "Note",
+        "inBold": "Anmerkung",
         "afterBold": "Drag and drop cards onto the Canvas to create them"
       }
     },
@@ -25,7 +25,7 @@
       "wows": {
         "autocomplete": {
           "label": "Suche nach einem Schiff",
-          "placeholder": "Start typing to search"
+          "placeholder": "Suchbegriff eingeben"
         }
       }
     },
@@ -118,16 +118,16 @@
       "manageRoom": "Raum verwalten"
     },
     "login": {
-      "title": "Login",
-      "logout": "Logout",
+      "title": "Anmelden",
+      "logout": "Abmelden",
       "card": {
-        "title": "Select a Login option"
+        "title": "Wählen Sie eine Loginvariante"
       }
     }
   },
   "tactic": {
     "button": {
-      "tooltip": "Taktik erstellen, verwalten und anzeigen"
+      "tooltip": "Taktiken erstellen, verwalten und anzeigen"
     },
     "noTacticsFound": "Es wurden keine Taktiken erstellt",
     "textField": {
@@ -148,7 +148,7 @@
     }
   },
   "user": {
-    "profile": "User profile",
+    "profile": "Nutzerprofil",
     "noUsersOnline": "Keine Benutzer sind online",
     "noUsersOffline": "No Users are offline",
     "textField": {
