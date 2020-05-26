@@ -31,17 +31,17 @@
     },
     "wows": {
       "artillery": {
-        "label": "Main Battery Range",
+        "label": "Alcance de la Batería Principal",
         "placeholder": "p.ej. 10",
         "suffix": "km"
       },
       "surfaceConcealment": {
-        "label": "Surface Concealment",
+        "label": "Rango de Detección en Superficie",
         "placeholder": "p.ej. 5",
         "suffix": "km"
       },
       "planeConcealment": {
-        "label": "Plane Concealment",
+        "label": "Rango de Detección desde el aire",
         "placeholder": "p.ej. 3",
         "suffix": "km"
       },
