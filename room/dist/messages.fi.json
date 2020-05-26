@@ -1,15 +1,15 @@
 {
   "index": {
-    "redirected": "You're being redirected..."
+    "redirected": "Sinut uudelleenohjataan..."
   },
   "authentication": {
     "error": {
-      "reachServer": "Could not reach authentication server."
+      "reachServer": "Kirjautumispalvelimeen yhdistäminen epäonnistui."
     }
   },
   "entity": {
     "panel": {
-      "add": "Add",
+      "add": "Lisää",
       "team": {
         "one": "Team One",
         "two": "Team Two"
