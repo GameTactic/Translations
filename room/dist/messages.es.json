@@ -56,7 +56,7 @@
         "suffix": "km"
       },
       "hydroRange": {
-        "label": "Hydro Range",
+        "label": "Alcance Hidroacústico",
         "placeholder": "p.ej. 5",
         "suffix": "km"
       }
