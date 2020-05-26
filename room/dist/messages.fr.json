@@ -4,7 +4,7 @@
   },
   "authentication": {
     "error": {
-      "reachServer": "Could not reach authentication server."
+      "reachServer": "Impossible d'accéder au serveur d'authentification."
     }
   },
   "entity": {
@@ -75,7 +75,7 @@
   "tool": {
     "container": {
       "move": "Déplacer",
-      "ping": "Faire un signe",
+      "ping": "Marquer",
       "freeDraw": "Dessin libre",
       "line": "Ligne doite",
       "circle": "Cercle",
@@ -118,10 +118,10 @@
       "manageRoom": "Gérer les salles"
     },
     "login": {
-      "title": "Login",
-      "logout": "Logout",
+      "title": "Se connecter",
+      "logout": "Se déconnecter",
       "card": {
-        "title": "Select a Login option"
+        "title": "Sélectionnez une option de connexion"
       }
     }
   },
@@ -148,7 +148,7 @@
     }
   },
   "user": {
-    "profile": "User profile",
+    "profile": "Profil de l'utilisateur",
     "noUsersOnline": "Aucun utilisateur n'est en ligne",
     "noUsersOffline": "Aucun utilisateur n'est déconnecté",
     "textField": {
