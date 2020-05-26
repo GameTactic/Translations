@@ -4,7 +4,7 @@
   },
   "authentication": {
     "error": {
-      "reachServer": "Could not reach authentication server."
+      "reachServer": "No se pudo acceder al servidor de autenticación."
     }
   },
   "entity": {
@@ -24,142 +24,142 @@
     "create": {
       "wows": {
         "autocomplete": {
-          "label": "Search for your ship",
-          "placeholder": "Start typing to search"
+          "label": "Busca tu buque",
+          "placeholder": "Empiece a escribir para buscar"
         }
       }
     },
     "wows": {
       "artillery": {
         "label": "Main Battery Range",
-        "placeholder": "e.g. 10",
+        "placeholder": "p.ej. 10",
         "suffix": "km"
       },
       "surfaceConcealment": {
         "label": "Surface Concealment",
-        "placeholder": "e.g. 5",
+        "placeholder": "p.ej. 5",
         "suffix": "km"
       },
       "planeConcealment": {
         "label": "Plane Concealment",
-        "placeholder": "e.g. 3",
+        "placeholder": "p.ej. 3",
         "suffix": "km"
       },
       "torpedoRange": {
-        "label": "Torpedoes Range",
-        "placeholder": "e.g. 10",
+        "label": "Alcance de Torpedos",
+        "placeholder": "p.ej. 10",
         "suffix": "km"
       },
       "radarRange": {
-        "label": "Radar Range",
-        "placeholder": "e.g. 9",
+        "label": "Alcance de Radar",
+        "placeholder": "p.ej. 9",
         "suffix": "km"
       },
       "hydroRange": {
         "label": "Hydro Range",
-        "placeholder": "e.g. 5",
+        "placeholder": "p.ej. 5",
         "suffix": "km"
       }
     }
   },
   "undo": {
     "container": {
-      "undo": "Undo"
+      "undo": "Deshacer"
     }
   },
   "redo": {
     "container": {
-      "redo": "Redo"
+      "redo": "Rehacer"
     }
   },
   "tool": {
     "container": {
-      "move": "Move",
+      "move": "Mover",
       "ping": "Ping",
-      "freeDraw": "Free Draw",
-      "line": "Straight Line",
-      "circle": "Circle",
-      "ruler": "Ruler",
-      "erase": "Erase",
-      "text": "Text",
-      "undo": "Undo",
-      "redo": "Redo"
+      "freeDraw": "A Mano Alzada",
+      "line": "Línea Recta",
+      "circle": "Círculo",
+      "ruler": "Regla",
+      "erase": "Borrar",
+      "text": "Texto",
+      "undo": "Deshacer",
+      "redo": "Rehacer"
     },
     "template": {
-      "colour": "Colour",
-      "fill": "Fill",
-      "size": "Size",
-      "outline": "Outline",
-      "permanent": "Permanent",
-      "temporary": "Temporary",
-      "endStyle": "End Style",
-      "arrow": "Arrow",
-      "tBar": "T Bar",
-      "strokeStyle": "Stroke Style",
-      "solidLine": "Solid Line",
-      "dashedLine": "Dashed Line",
-      "showRadius": "Show Radius",
-      "hideRadius": "Hide Radius"
+      "colour": "Color",
+      "fill": "Rellenar",
+      "size": "Tamaño",
+      "outline": "Contorno",
+      "permanent": "Permanente",
+      "temporary": "Temporal",
+      "endStyle": "Estilo de las puntas",
+      "arrow": "Flecha",
+      "tBar": "Barra T",
+      "strokeStyle": "Estilo del Trazo",
+      "solidLine": "Línea Sólida",
+      "dashedLine": "Línea Discontinua",
+      "showRadius": "Mostrar Radio",
+      "hideRadius": "Ocultar Radio"
     }
   },
   "navigation": {
     "canvasTools": {
-      "zoomIn": "Zoom In",
-      "zoomOut": "Zoom Out",
-      "moveCanvas": "Move Canvas",
-      "centerCanvas": "Center Canvas"
+      "zoomIn": "Acercar",
+      "zoomOut": "Alejar",
+      "moveCanvas": "Mover Lienzo",
+      "centerCanvas": "Centrar Lienzo"
     },
     "navigation": {
-      "saveRoom": "Save Room",
+      "saveRoom": "Guardar Sala",
       "presentationMode": {
-        "enable": "Enable Presentation Mode",
-        "disable": "Disable Presentation Mode"
+        "enable": "Activar Modo Presentación",
+        "disable": "Desactivar Modo Presentación"
       },
-      "manageRoom": "Manage Room"
+      "manageRoom": "Administrar Sala"
     },
     "login": {
-      "title": "Login",
-      "logout": "Logout",
+      "title": "Iniciar Sesión",
+      "logout": "Cerrar Sesión",
       "card": {
-        "title": "Select a Login option"
+        "title": "Seleccione una opción de inicio de sesión"
       }
     }
   },
   "tactic": {
     "button": {
-      "tooltip": "Create, Manage and View Tactics"
+      "tooltip": "Crear, administrar y ver tácticas"
     },
-    "noTacticsFound": "No Tactics have been created",
+    "noTacticsFound": "No se han creado tácticas",
     "textField": {
-      "label": "Search your Tactics"
+      "label": "Buscar Táctica"
     },
     "createTacticOverlay": {
-      "title": "New Tactic",
-      "create": "Create Tactic"
+      "title": "Nueva Táctica",
+      "create": "Crear Táctica"
     },
     "updateTacticOverlay": {
-      "title": "Update Tactic",
-      "update": "Save Tactic"
+      "title": "Actualizar Táctica",
+      "update": "Guardar Táctica"
     },
     "overlay": {
-      "name": "Tactic name",
-      "maps": "Search for maps",
-      "search": "Start typing to search"
+      "name": "Nombre de la Táctica",
+      "maps": "Buscar mapa",
+      "search": "Empiece a escribir para buscar"
     }
   },
   "user": {
-    "profile": "User profile",
-    "noUsersOnline": "No Users are online",
-    "noUsersOffline": "No Users are offline",
+    "profile": "Perfil de Usuario",
+    "noUsersOnline": "No hay Usuarios conectados",
+    "noUsersOffline": "No hay Usuarios desconectados",
     "textField": {
-      "label": "Search your Users"
+      "label": "Buscar Usuarios"
     },
     "button": {
-      "tooltip": "View other Users in this Room"
+      "tooltip": "Ver otros Usuarios en esta Sala"
     },
     "userTab": {
-      "online": "Online",
-      "offline": "Offline"
+      "online": "Conectado",
+      "offline": "Desconectado"
     }
   }
 }
