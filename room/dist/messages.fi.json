@@ -11,13 +11,13 @@
     "panel": {
       "add": "Lisää",
       "team": {
-        "one": "Team One",
-        "two": "Team Two"
+        "one": "Joukkue 1",
+        "two": "Joukkue 2"
       }
     },
     "cards": {
       "note": {
-        "inBold": "Note",
+        "inBold": "Huomautus",
         "afterBold": "Drag and drop cards onto the Canvas to create them"
       }
     },
@@ -64,36 +64,36 @@
   },
   "undo": {
     "container": {
-      "undo": "Undo"
+      "undo": "Kumoa"
     }
   },
   "redo": {
     "container": {
-      "redo": "Redo"
+      "redo": "Toista"
     }
   },
   "tool": {
     "container": {
-      "move": "Move",
+      "move": "Siirrä",
       "ping": "Ping",
       "freeDraw": "Free Draw",
       "line": "Straight Line",
-      "circle": "Circle",
+      "circle": "Ympyrä",
       "ruler": "Ruler",
-      "erase": "Erase",
-      "text": "Text",
-      "undo": "Undo",
-      "redo": "Redo"
+      "erase": "Poista",
+      "text": "Teksti",
+      "undo": "Kumoa",
+      "redo": "Toista"
     },
     "template": {
       "colour": "Colour",
       "fill": "Fill",
-      "size": "Size",
-      "outline": "Outline",
-      "permanent": "Permanent",
-      "temporary": "Temporary",
+      "size": "Koko",
+      "outline": "Reunaviiva",
+      "permanent": "Pysyvä",
+      "temporary": "Tilapäinen",
       "endStyle": "End Style",
-      "arrow": "Arrow",
+      "arrow": "Nuoli",
       "tBar": "T Bar",
       "strokeStyle": "Stroke Style",
       "solidLine": "Solid Line",
