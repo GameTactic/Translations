@@ -91,7 +91,7 @@
       </trans-unit>
       <trans-unit id="hcsKFwF" resname="When you're done, please agree them below.">
         <source>When you're done, please agree them below.</source>
-        <target state="translated">Wenn du fertig bist, akzeptiere diese bitte unten.</target>
+        <target state="translated">Wenn Sie fertig sind, akzeptieren Sie diese bitte unten.</target>
       </trans-unit>
       <trans-unit id="4hq3cuY" resname="I Accept Terms of Service" approved="yes">
         <source>I Accept Terms of Service</source>
