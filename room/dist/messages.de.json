@@ -144,7 +144,7 @@
     "overlay": {
       "name": "Name der Taktik",
       "maps": "Nach Karten suchen",
-      "search": "Tippen um Suche zu starten"
+      "search": "Geben Sie einen Suchbegriff ein"
     }
   },
   "user": {
