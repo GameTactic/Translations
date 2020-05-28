@@ -4,7 +4,7 @@
   },
   "authentication": {
     "error": {
-      "reachServer": "Could not reach authentication server."
+      "reachServer": "Nie udało się połączyć z serwerem uwierzytelniającym."
     }
   },
   "entity": {
@@ -118,10 +118,10 @@
       "manageRoom": "Zarządzaj pokojem"
     },
     "login": {
-      "title": "Login",
-      "logout": "Logout",
+      "title": "Zaloguj",
+      "logout": "Wyloguj",
       "card": {
-        "title": "Select a Login option"
+        "title": "Wybierz opcję logowania"
       }
     }
   },
@@ -148,7 +148,7 @@
     }
   },
   "user": {
-    "profile": "User profile",
+    "profile": "Profil użytkownika",
     "noUsersOnline": "Brak użytkowników online",
     "noUsersOffline": "Brak użytkowników offline",
     "textField": {
