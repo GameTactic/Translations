@@ -67,7 +67,7 @@
       </trans-unit>
       <trans-unit id="6Vw5YTi" resname="Go!">
         <source>Go!</source>
-        <target state="translated">Ir!</target>
+        <target state="translated">Avançar!</target>
       </trans-unit>
       <trans-unit id="RYVyTjg" resname="Welcome, %username%!">
         <source>Welcome, %username%!</source>
@@ -91,51 +91,51 @@
       </trans-unit>
       <trans-unit id="hcsKFwF" resname="When you're done, please agree them below.">
         <source>When you're done, please agree them below.</source>
-        <target state="needs-translation">When you're done, please agree them below.</target>
+        <target state="translated">Quando terminar, concorde abaixo.</target>
       </trans-unit>
       <trans-unit id="4hq3cuY" resname="I Accept Terms of Service">
         <source>I Accept Terms of Service</source>
-        <target state="needs-translation">I Accept Terms of Service</target>
+        <target state="translated">Eu aceito os Termos de Serviço</target>
       </trans-unit>
       <trans-unit id="_zjtryT" resname="Please select username. It will be the same even if you login via a different provider.">
         <source>Please select username. It will be the same even if you login via a different provider.</source>
-        <target state="needs-translation">Please select username. It will be the same even if you login via a different provider.</target>
+        <target state="translated">Selecione o nome de utilizador. Será o mesmo, mesmo se fizer login através de um provedor diferente.</target>
       </trans-unit>
       <trans-unit id="_NSt9uS" resname="Thank you %username%">
         <source>Thank you %username%</source>
-        <target state="needs-translation">Thank you %username%</target>
+        <target state="translated">Obrigado %username%</target>
       </trans-unit>
       <trans-unit id="4s2Md.n" resname="You are now ready to go. Just press &quot;continue&quot; and you will be redirected back to where you came from.">
         <source>You are now ready to go. Just press "continue" and you will be redirected back to where you came from.</source>
-        <target state="needs-translation">You are now ready to go. Just press "continue" and you will be redirected back to where you came from.</target>
+        <target state="translated">Agora está pronto para avançar. Apenas pressione "continuar" e será redirecionado de volta para o lugar de onde veio.</target>
       </trans-unit>
       <trans-unit id="VhjqTxm" resname="You have already registered">
         <source>You have already registered</source>
-        <target state="needs-translation">You have already registered</target>
+        <target state="translated">Você já está registado</target>
       </trans-unit>
       <trans-unit id="uNmd8QZ" resname="Go Back">
         <source>Go Back</source>
-        <target state="needs-translation">Go Back</target>
+        <target state="translated">Voltar atrás</target>
       </trans-unit>
       <trans-unit id="5ZX0Xcb" resname="Europe">
         <source>Europe</source>
-        <target state="needs-translation">Europe</target>
+        <target state="translated">Europa</target>
       </trans-unit>
       <trans-unit id="esAuwch" resname="Asia">
         <source>Asia</source>
-        <target state="needs-translation">Asia</target>
+        <target state="translated">Ásia</target>
       </trans-unit>
       <trans-unit id="M6PY7ZK" resname="Russia">
         <source>Russia</source>
-        <target state="needs-translation">Russia</target>
+        <target state="translated">Rússia</target>
       </trans-unit>
       <trans-unit id="ZL4Ihbw" resname="North America">
         <source>North America</source>
-        <target state="needs-translation">North America</target>
+        <target state="translated">América do Norte</target>
       </trans-unit>
       <trans-unit id="YhmmPog" resname="Username must be less than 32 characters and greater than 3">
         <source>Username must be less than 32 characters and greater than 3</source>
-        <target state="needs-translation">Username must be less than 32 characters and greater than 3</target>
+        <target state="translated">O nome de utilizador deve ter menos de 32 caracteres e mais que 3</target>
       </trans-unit>
     </body>
   </file>
