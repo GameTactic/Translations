@@ -46,120 +46,120 @@
         "suffix": "km"
       },
       "torpedoRange": {
-        "label": "Torpedoes Range",
-        "placeholder": "e.g. 10",
+        "label": "Alcance dos Torpedos",
+        "placeholder": "por ex. 10",
         "suffix": "km"
       },
       "radarRange": {
-        "label": "Radar Range",
-        "placeholder": "e.g. 9",
+        "label": "Alcance do Radar",
+        "placeholder": "por ex. 9",
         "suffix": "km"
       },
       "hydroRange": {
-        "label": "Hydro Range",
-        "placeholder": "e.g. 5",
+        "label": "Alcance de Hidro",
+        "placeholder": "por ex. 5",
         "suffix": "km"
       }
     }
   },
   "undo": {
     "container": {
-      "undo": "Undo"
+      "undo": "Desfazer"
     }
   },
   "redo": {
     "container": {
-      "redo": "Redo"
+      "redo": "Refazer"
     }
   },
   "tool": {
     "container": {
-      "move": "Move",
+      "move": "Mover",
       "ping": "Ping",
-      "freeDraw": "Free Draw",
-      "line": "Straight Line",
-      "circle": "Circle",
-      "ruler": "Ruler",
-      "erase": "Erase",
-      "text": "Text",
-      "undo": "Undo",
-      "redo": "Redo"
+      "freeDraw": "Desenho Livre",
+      "line": "Linha reta",
+      "circle": "Círculo",
+      "ruler": "Régua",
+      "erase": "Apagar",
+      "text": "Texto",
+      "undo": "Desfazer",
+      "redo": "Refazer"
     },
     "template": {
-      "colour": "Colour",
-      "fill": "Fill",
-      "size": "Size",
-      "outline": "Outline",
-      "permanent": "Permanent",
-      "temporary": "Temporary",
-      "endStyle": "End Style",
-      "arrow": "Arrow",
-      "tBar": "T Bar",
-      "strokeStyle": "Stroke Style",
-      "solidLine": "Solid Line",
-      "dashedLine": "Dashed Line",
-      "showRadius": "Show Radius",
-      "hideRadius": "Hide Radius"
+      "colour": "Cor",
+      "fill": "Preencher",
+      "size": "Tamanho",
+      "outline": "Contorno",
+      "permanent": "Permanente",
+      "temporary": "Temporário",
+      "endStyle": "Estilo Final",
+      "arrow": "Seta",
+      "tBar": "Barra T",
+      "strokeStyle": "Estilo do traço",
+      "solidLine": "Linha sólida",
+      "dashedLine": "Linha tracejada",
+      "showRadius": "Mostrar o alcance",
+      "hideRadius": "Ocultar alcance"
     }
   },
   "navigation": {
     "canvasTools": {
-      "zoomIn": "Zoom In",
-      "zoomOut": "Zoom Out",
-      "moveCanvas": "Move Canvas",
-      "centerCanvas": "Center Canvas"
+      "zoomIn": "Aumentar zoom",
+      "zoomOut": "Diminuir o zoom",
+      "moveCanvas": "Mover a tela",
+      "centerCanvas": "Centrar Tela"
     },
     "navigation": {
-      "saveRoom": "Save Room",
+      "saveRoom": "Guardar Sala",
       "presentationMode": {
-        "enable": "Enable Presentation Mode",
-        "disable": "Disable Presentation Mode"
+        "enable": "Ativar modo de apresentação",
+        "disable": "Desativar modo de apresentação"
       },
-      "manageRoom": "Manage Room"
+      "manageRoom": "Gerir sala"
     },
     "login": {
-      "title": "Login",
-      "logout": "Logout",
+      "title": "Iniciar sessão",
+      "logout": "Terminar Sessão",
       "card": {
-        "title": "Select a Login option"
+        "title": "Selecione uma opção de Login"
       }
     }
   },
   "tactic": {
     "button": {
-      "tooltip": "Create, Manage and View Tactics"
+      "tooltip": "Criar, Gerir e Visualizar Táticas"
     },
-    "noTacticsFound": "No Tactics have been created",
+    "noTacticsFound": "Nenhuma tática foi criada",
     "textField": {
-      "label": "Search your Tactics"
+      "label": "Pesquisar as tuas táticas"
     },
     "createTacticOverlay": {
-      "title": "New Tactic",
-      "create": "Create Tactic"
+      "title": "Nova Tática",
+      "create": "Criar tática"
     },
     "updateTacticOverlay": {
-      "title": "Update Tactic",
-      "update": "Save Tactic"
+      "title": "Atualizar Tática",
+      "update": "Guardar táticas"
     },
     "overlay": {
-      "name": "Tactic name",
-      "maps": "Search for maps",
-      "search": "Start typing to search"
+      "name": "Nome da tática",
+      "maps": "Procurar por mapas",
+      "search": "Começa a escrever para procurar"
     }
   },
   "user": {
-    "profile": "User profile",
-    "noUsersOnline": "No Users are online",
-    "noUsersOffline": "No Users are offline",
+    "profile": "Perfil de utilizador",
+    "noUsersOnline": "Nenhum utilizador está on-line",
+    "noUsersOffline": "Nenhum utilizador offline",
     "textField": {
-      "label": "Search your Users"
+      "label": "Procurar por utilizadores"
     },
     "button": {
-      "tooltip": "View other Users in this Room"
+      "tooltip": "Ver outros utilizadores nesta sala"
     },
     "userTab": {
-      "online": "Online",
-      "offline": "Offline"
+      "online": "Disponível",
+      "offline": "Desconectado"
     }
   }
 }
