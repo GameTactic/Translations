@@ -7,11 +7,11 @@
     <body>
       <trans-unit id="Ozafeq9" resname="Profile of user %username%">
         <source>Profile of user %username%</source>
-        <target state="needs-translation">Profile of user %username%</target>
+        <target state="translated">Perfil do utilizador %username%</target>
       </trans-unit>
       <trans-unit id="47ienTP" resname="Username">
         <source>Username</source>
-        <target state="needs-translation">Username</target>
+        <target state="translated">Nome de Utilizador</target>
       </trans-unit>
       <trans-unit id="06AI7xM" resname="Region">
         <source>Region</source>
