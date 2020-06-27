@@ -7,26 +7,18 @@
       "reachServer": "No se pudo acceder al servidor de autenticación."
     }
   },
+  "teams": {
+    "one": "Team One",
+    "two": "Team Two",
+    "title": "Teams"
+  },
   "entity": {
-    "panel": {
-      "add": "Añadir",
-      "team": {
-        "one": "Equipo Uno",
-        "two": "Equipo Dos"
-      }
-    },
-    "cards": {
-      "note": {
-        "inBold": "Nota",
-        "afterBold": "Drag and drop cards onto the Canvas to create them"
-      }
-    },
-    "create": {
+    "textField": {
       "wows": {
-        "autocomplete": {
-          "label": "Busca tu buque",
-          "placeholder": "Empiece a escribir para buscar"
-        }
+        "placeholder": "Find your Ship"
+      },
+      "wot": {
+        "placeholder": "Find your Tank"
       }
     },
     "wows": {
@@ -60,16 +52,6 @@
         "placeholder": "p.ej. 5",
         "suffix": "km"
       }
-    }
-  },
-  "undo": {
-    "container": {
-      "undo": "Deshacer"
-    }
-  },
-  "redo": {
-    "container": {
-      "redo": "Rehacer"
     }
   },
   "tool": {
@@ -126,13 +108,7 @@
     }
   },
   "tactic": {
-    "button": {
-      "tooltip": "Crear, administrar y ver tácticas"
-    },
     "noTacticsFound": "No se han creado tácticas",
-    "textField": {
-      "label": "Buscar Táctica"
-    },
     "createTacticOverlay": {
       "title": "Nueva Táctica",
       "create": "Crear Táctica"
@@ -145,21 +121,12 @@
       "name": "Nombre de la Táctica",
       "maps": "Buscar mapa",
       "search": "Empiece a escribir para buscar"
-    }
+    },
+    "title": "Tactics"
   },
   "user": {
-    "profile": "Perfil de Usuario",
-    "noUsersOnline": "No hay Usuarios conectados",
-    "noUsersOffline": "No hay Usuarios desconectados",
-    "textField": {
-      "label": "Buscar Usuarios"
-    },
-    "button": {
-      "tooltip": "Ver otros Usuarios en esta Sala"
-    },
-    "userTab": {
-      "online": "Conectado",
-      "offline": "Desconectado"
-    }
+    "online": "Online",
+    "title": "Users",
+    "profile": "User Profile"
   }
 }
