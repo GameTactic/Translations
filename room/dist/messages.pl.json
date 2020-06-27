@@ -7,26 +7,18 @@
       "reachServer": "Nie udało się połączyć z serwerem uwierzytelniającym."
     }
   },
+  "teams": {
+    "one": "Team One",
+    "two": "Team Two",
+    "title": "Teams"
+  },
   "entity": {
-    "panel": {
-      "add": "Dodaj",
-      "team": {
-        "one": "Drużyna 1",
-        "two": "Drużyna 2"
-      }
-    },
-    "cards": {
-      "note": {
-        "inBold": "Uwaga",
-        "afterBold": "Przeciągnij i upuść karty na płótno, aby je utworzyć"
-      }
-    },
-    "create": {
+    "textField": {
       "wows": {
-        "autocomplete": {
-          "label": "Wyszukaj swój statek",
-          "placeholder": "Zacznij pisać, aby wyszukać"
-        }
+        "placeholder": "Find your Ship"
+      },
+      "wot": {
+        "placeholder": "Find your Tank"
       }
     },
     "wows": {
@@ -60,16 +52,6 @@
         "placeholder": "np.: 5",
         "suffix": "km"
       }
-    }
-  },
-  "undo": {
-    "container": {
-      "undo": "Cofnij"
-    }
-  },
-  "redo": {
-    "container": {
-      "redo": "Powtórz"
     }
   },
   "tool": {
@@ -126,13 +108,7 @@
     }
   },
   "tactic": {
-    "button": {
-      "tooltip": "Twórz, Zarządzaj i przeglądaj taktyki"
-    },
     "noTacticsFound": "Nie stworzono żadnej taktyki",
-    "textField": {
-      "label": "Wyszukiwanie taktyk"
-    },
     "createTacticOverlay": {
       "title": "Nowa taktyka",
       "create": "Utwórz taktykę"
@@ -145,21 +121,12 @@
       "name": "Nazwa taktyki",
       "maps": "Wyszukiwanie mapy",
       "search": "Zacznij pisać, aby wyszukać"
-    }
+    },
+    "title": "Tactics"
   },
   "user": {
-    "profile": "Profil użytkownika",
-    "noUsersOnline": "Brak użytkowników online",
-    "noUsersOffline": "Brak użytkowników offline",
-    "textField": {
-      "label": "Wyszukiwanie użytkowników"
-    },
-    "button": {
-      "tooltip": "Zobacz innych użytkowników w tym pokoju"
-    },
-    "userTab": {
-      "online": "Dostępny",
-      "offline": "Niedostępny"
-    }
+    "online": "Online",
+    "title": "Users",
+    "profile": "User Profile"
   }
 }
