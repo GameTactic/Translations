@@ -7,26 +7,18 @@
       "reachServer": "Authentifizierungsserver konnte nicht erreicht werden."
     }
   },
+  "teams": {
+    "one": "Team One",
+    "two": "Team Two",
+    "title": "Teams"
+  },
   "entity": {
-    "panel": {
-      "add": "Hinzufügen",
-      "team": {
-        "one": "Team Eins",
-        "two": "Team Zwei"
-      }
-    },
-    "cards": {
-      "note": {
-        "inBold": "Anmerkung",
-        "afterBold": "Drag and drop cards onto the Canvas to create them"
-      }
-    },
-    "create": {
+    "textField": {
       "wows": {
-        "autocomplete": {
-          "label": "Suche nach einem Schiff",
-          "placeholder": "Suchbegriff eingeben"
-        }
+        "placeholder": "Find your Ship"
+      },
+      "wot": {
+        "placeholder": "Find your Tank"
       }
     },
     "wows": {
@@ -60,16 +52,6 @@
         "placeholder": "z.B. 5",
         "suffix": "km"
       }
-    }
-  },
-  "undo": {
-    "container": {
-      "undo": "Rückgängig machen"
-    }
-  },
-  "redo": {
-    "container": {
-      "redo": "Wiederholen"
     }
   },
   "tool": {
@@ -126,13 +108,7 @@
     }
   },
   "tactic": {
-    "button": {
-      "tooltip": "Taktiken erstellen, verwalten und anzeigen"
-    },
     "noTacticsFound": "Es wurden keine Taktiken erstellt",
-    "textField": {
-      "label": "Durchsuche deine Taktiken"
-    },
     "createTacticOverlay": {
       "title": "Neue Taktik",
       "create": "Taktik erstellen"
@@ -145,21 +121,12 @@
       "name": "Name der Taktik",
       "maps": "Nach Karten suchen",
       "search": "Geben Sie einen Suchbegriff ein"
-    }
+    },
+    "title": "Tactics"
   },
   "user": {
-    "profile": "Nutzerprofil",
-    "noUsersOnline": "Keine Benutzer sind online",
-    "noUsersOffline": "No Users are offline",
-    "textField": {
-      "label": "Nach Benutzern suchen"
-    },
-    "button": {
-      "tooltip": "Andere Benutzer in diesem Raum anzeigen"
-    },
-    "userTab": {
-      "online": "Online",
-      "offline": "Offline"
-    }
+    "online": "Online",
+    "title": "Users",
+    "profile": "User Profile"
   }
 }
