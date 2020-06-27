@@ -7,26 +7,18 @@
       "reachServer": "Kirjautumispalvelimeen yhdistäminen epäonnistui."
     }
   },
+  "teams": {
+    "one": "Team One",
+    "two": "Team Two",
+    "title": "Teams"
+  },
   "entity": {
-    "panel": {
-      "add": "Lisää",
-      "team": {
-        "one": "Joukkue 1",
-        "two": "Joukkue 2"
-      }
-    },
-    "cards": {
-      "note": {
-        "inBold": "Huomautus",
-        "afterBold": "Drag and drop cards onto the Canvas to create them"
-      }
-    },
-    "create": {
+    "textField": {
       "wows": {
-        "autocomplete": {
-          "label": "Search for your ship",
-          "placeholder": "Start typing to search"
-        }
+        "placeholder": "Find your Ship"
+      },
+      "wot": {
+        "placeholder": "Find your Tank"
       }
     },
     "wows": {
@@ -60,16 +52,6 @@
         "placeholder": "e.g. 5",
         "suffix": "km"
       }
-    }
-  },
-  "undo": {
-    "container": {
-      "undo": "Kumoa"
-    }
-  },
-  "redo": {
-    "container": {
-      "redo": "Toista"
     }
   },
   "tool": {
@@ -126,13 +108,7 @@
     }
   },
   "tactic": {
-    "button": {
-      "tooltip": "Create, Manage and View Tactics"
-    },
     "noTacticsFound": "No Tactics have been created",
-    "textField": {
-      "label": "Search your Tactics"
-    },
     "createTacticOverlay": {
       "title": "New Tactic",
       "create": "Create Tactic"
@@ -145,21 +121,12 @@
       "name": "Tactic name",
       "maps": "Search for maps",
       "search": "Start typing to search"
-    }
+    },
+    "title": "Tactics"
   },
   "user": {
-    "profile": "User profile",
-    "noUsersOnline": "No Users are online",
-    "noUsersOffline": "No Users are offline",
-    "textField": {
-      "label": "Search your Users"
-    },
-    "button": {
-      "tooltip": "View other Users in this Room"
-    },
-    "userTab": {
-      "online": "Online",
-      "offline": "Offline"
-    }
+    "online": "Online",
+    "title": "Users",
+    "profile": "User Profile"
   }
 }
