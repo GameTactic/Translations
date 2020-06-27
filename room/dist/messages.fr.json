@@ -7,26 +7,18 @@
       "reachServer": "Impossible d'accéder au serveur d'authentification."
     }
   },
+  "teams": {
+    "one": "Team One",
+    "two": "Team Two",
+    "title": "Teams"
+  },
   "entity": {
-    "panel": {
-      "add": "Ajouter",
-      "team": {
-        "one": "Équipe Une",
-        "two": "Équipe Deux"
-      }
-    },
-    "cards": {
-      "note": {
-        "inBold": "Remarque",
-        "afterBold": "Glisser et déposer les cartes sur le Canva pour les créer"
-      }
-    },
-    "create": {
+    "textField": {
       "wows": {
-        "autocomplete": {
-          "label": "Rechercher votre navire",
-          "placeholder": "Tapez pour commencer à chercher"
-        }
+        "placeholder": "Find your Ship"
+      },
+      "wot": {
+        "placeholder": "Find your Tank"
       }
     },
     "wows": {
@@ -60,16 +52,6 @@
         "placeholder": "Par exemple: 5",
         "suffix": "km"
       }
-    }
-  },
-  "undo": {
-    "container": {
-      "undo": "Annuler"
-    }
-  },
-  "redo": {
-    "container": {
-      "redo": "Rétablir"
     }
   },
   "tool": {
@@ -126,13 +108,7 @@
     }
   },
   "tactic": {
-    "button": {
-      "tooltip": "Créer, Gérer et Voir les Tactiques"
-    },
     "noTacticsFound": "Aucune Tactiques créées",
-    "textField": {
-      "label": "Chercher vos Tactiques"
-    },
     "createTacticOverlay": {
       "title": "Nouvelle Tactique",
       "create": "Créer une Tactique"
@@ -145,21 +121,12 @@
       "name": "Nom de la Tactique",
       "maps": "Chercher un carte",
       "search": "Tapez pour commencer à chercher"
-    }
+    },
+    "title": "Tactics"
   },
   "user": {
-    "profile": "Profil de l'utilisateur",
-    "noUsersOnline": "Aucun utilisateur n'est en ligne",
-    "noUsersOffline": "Aucun utilisateur n'est déconnecté",
-    "textField": {
-      "label": "Cherche un utilisateur"
-    },
-    "button": {
-      "tooltip": "Voir les autres utilisateurs de cette salle"
-    },
-    "userTab": {
-      "online": "En ligne",
-      "offline": "Hors-ligne"
-    }
+    "online": "Online",
+    "title": "Users",
+    "profile": "User Profile"
   }
 }
