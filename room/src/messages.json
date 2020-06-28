@@ -10,16 +10,17 @@
   "teams": {
     "one": "Team One",
     "two": "Team Two",
-    "title": "Teams"
+    "title": "Teams",
+    "menu": {
+      "stats": "Edit properties",
+      "cloneEntityTeam": "Clone in this Team",
+      "cloneEntityDifferentTeam": "Clone in a different Team",
+      "delete": "Delete"
+    }
   },
   "entity": {
     "textField": {
-      "wows": {
-        "placeholder": "Find your Ship"
-      },
-      "wot": {
-        "placeholder": "Find your Tank"
-      }
+      "placeholder": "Find your {entity}"
     },
     "wows": {
       "artillery": {
@@ -122,7 +123,11 @@
       "maps": "Search for maps",
       "search": "Start typing to search"
     },
-    "title": "Tactics"
+    "title": "Tactics",
+    "edit": "Edit Tactic",
+    "pin": "Pin Tactic",
+    "unpin": "Unpin Tactic",
+    "delete": "Delete Tactic"
   },
   "user": {
     "online": "Online",
