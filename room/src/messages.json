@@ -7,6 +7,10 @@
       "reachServer": "Could not reach authentication server."
     }
   },
+  "button": {
+    "save": "Save",
+    "cancel": "Cancel"
+  },
   "teams": {
     "one": "Team One",
     "two": "Team Two",
@@ -22,36 +26,38 @@
     "textField": {
       "placeholder": "Find your {entity}"
     },
+    "alias": {
+      "textField": "Alias",
+      "placeholder": "Add a nickname for your {entity}"
+    },
     "wows": {
       "artillery": {
         "label": "Main Battery Range",
-        "placeholder": "e.g. 10",
-        "suffix": "km"
+        "placeholder": "e.g. 10"
+      },
+      "atbas": {
+        "label": "Secondary Battery Range",
+        "placeholder": "e.g. 5"
       },
       "surfaceConcealment": {
         "label": "Surface Concealment",
-        "placeholder": "e.g. 5",
-        "suffix": "km"
+        "placeholder": "e.g. 5"
       },
       "planeConcealment": {
         "label": "Plane Concealment",
-        "placeholder": "e.g. 3",
-        "suffix": "km"
+        "placeholder": "e.g. 3"
       },
       "torpedoRange": {
         "label": "Torpedoes Range",
-        "placeholder": "e.g. 10",
-        "suffix": "km"
+        "placeholder": "e.g. 10"
       },
       "radarRange": {
         "label": "Radar Range",
-        "placeholder": "e.g. 9",
-        "suffix": "km"
+        "placeholder": "e.g. 9"
       },
       "hydroRange": {
         "label": "Hydro Range",
-        "placeholder": "e.g. 5",
-        "suffix": "km"
+        "placeholder": "e.g. 5"
       }
     }
   },
