@@ -7,50 +7,57 @@
       "reachServer": "Authentifizierungsserver konnte nicht erreicht werden."
     }
   },
+  "button": {
+    "save": "Save",
+    "cancel": "Cancel"
+  },
   "teams": {
     "one": "Team One",
     "two": "Team Two",
-    "title": "Teams"
+    "title": "Teams",
+    "menu": {
+      "stats": "Edit properties",
+      "cloneEntityTeam": "Clone in this Team",
+      "cloneEntityDifferentTeam": "Clone in a different Team",
+      "delete": "Delete"
+    }
   },
   "entity": {
     "textField": {
-      "wows": {
-        "placeholder": "Find your Ship"
-      },
-      "wot": {
-        "placeholder": "Find your Tank"
-      }
+      "placeholder": "Find your {entity}"
+    },
+    "alias": {
+      "textField": "Alias",
+      "placeholder": "Add a nickname for your {entity}"
     },
     "wows": {
       "artillery": {
         "label": "Hauptbatteriereichweite",
-        "placeholder": "z.B. 10",
-        "suffix": "km"
+        "placeholder": "z.B. 10"
+      },
+      "atbas": {
+        "label": "Secondary Battery Range",
+        "placeholder": "e.g. 5"
       },
       "surfaceConcealment": {
         "label": "Oberflächenortung",
-        "placeholder": "z.B. 5",
-        "suffix": "km"
+        "placeholder": "z.B. 5"
       },
       "planeConcealment": {
         "label": "Flugzeugoberflächenortung",
-        "placeholder": "z.B. 3",
-        "suffix": "km"
+        "placeholder": "z.B. 3"
       },
       "torpedoRange": {
         "label": "Torpedoreichweite",
-        "placeholder": "z.B. 10",
-        "suffix": "km"
+        "placeholder": "z.B. 10"
       },
       "radarRange": {
         "label": "Radarreichweite",
-        "placeholder": "z.B. 9",
-        "suffix": "km"
+        "placeholder": "z.B. 9"
       },
       "hydroRange": {
         "label": "Reichweite der Hydroakustischen Suche",
-        "placeholder": "z.B. 5",
-        "suffix": "km"
+        "placeholder": "z.B. 5"
       }
     }
   },
@@ -122,7 +129,11 @@
       "maps": "Nach Karten suchen",
       "search": "Geben Sie einen Suchbegriff ein"
     },
-    "title": "Tactics"
+    "title": "Tactics",
+    "edit": "Edit Tactic",
+    "pin": "Pin Tactic",
+    "unpin": "Unpin Tactic",
+    "delete": "Delete Tactic"
   },
   "user": {
     "online": "Online",
