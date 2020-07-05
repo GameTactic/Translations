@@ -7,50 +7,57 @@
       "reachServer": "Impossible d'accéder au serveur d'authentification."
     }
   },
+  "button": {
+    "save": "Save",
+    "cancel": "Cancel"
+  },
   "teams": {
     "one": "Team One",
     "two": "Team Two",
-    "title": "Teams"
+    "title": "Teams",
+    "menu": {
+      "stats": "Edit properties",
+      "cloneEntityTeam": "Clone in this Team",
+      "cloneEntityDifferentTeam": "Clone in a different Team",
+      "delete": "Delete"
+    }
   },
   "entity": {
     "textField": {
-      "wows": {
-        "placeholder": "Find your Ship"
-      },
-      "wot": {
-        "placeholder": "Find your Tank"
-      }
+      "placeholder": "Find your {entity}"
+    },
+    "alias": {
+      "textField": "Alias",
+      "placeholder": "Add a nickname for your {entity}"
     },
     "wows": {
       "artillery": {
         "label": "Portée de la batterie principale",
-        "placeholder": "Par exemple: 10",
-        "suffix": "km"
+        "placeholder": "Par exemple: 10"
+      },
+      "atbas": {
+        "label": "Secondary Battery Range",
+        "placeholder": "e.g. 5"
       },
       "surfaceConcealment": {
         "label": "Détectabilité de surface",
-        "placeholder": "Par exemple: 5",
-        "suffix": "km"
+        "placeholder": "Par exemple: 5"
       },
       "planeConcealment": {
         "label": "Détectabilité aérienne",
-        "placeholder": "Par exemple: 3",
-        "suffix": "km"
+        "placeholder": "Par exemple: 3"
       },
       "torpedoRange": {
         "label": "Portée des torpilles",
-        "placeholder": "Par exemple: 10",
-        "suffix": "km"
+        "placeholder": "Par exemple: 10"
       },
       "radarRange": {
         "label": "Portée du radar",
-        "placeholder": "Par exemple: 9",
-        "suffix": "km"
+        "placeholder": "Par exemple: 9"
       },
       "hydroRange": {
         "label": "Portée de l'Hydro",
-        "placeholder": "Par exemple: 5",
-        "suffix": "km"
+        "placeholder": "Par exemple: 5"
       }
     }
   },
@@ -122,7 +129,11 @@
       "maps": "Chercher un carte",
       "search": "Tapez pour commencer à chercher"
     },
-    "title": "Tactics"
+    "title": "Tactics",
+    "edit": "Edit Tactic",
+    "pin": "Pin Tactic",
+    "unpin": "Unpin Tactic",
+    "delete": "Delete Tactic"
   },
   "user": {
     "online": "Online",
