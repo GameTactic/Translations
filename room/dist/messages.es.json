@@ -7,50 +7,57 @@
       "reachServer": "No se pudo acceder al servidor de autenticación."
     }
   },
+  "button": {
+    "save": "Save",
+    "cancel": "Cancel"
+  },
   "teams": {
     "one": "Team One",
     "two": "Team Two",
-    "title": "Teams"
+    "title": "Teams",
+    "menu": {
+      "stats": "Edit properties",
+      "cloneEntityTeam": "Clone in this Team",
+      "cloneEntityDifferentTeam": "Clone in a different Team",
+      "delete": "Delete"
+    }
   },
   "entity": {
     "textField": {
-      "wows": {
-        "placeholder": "Find your Ship"
-      },
-      "wot": {
-        "placeholder": "Find your Tank"
-      }
+      "placeholder": "Find your {entity}"
+    },
+    "alias": {
+      "textField": "Alias",
+      "placeholder": "Add a nickname for your {entity}"
     },
     "wows": {
       "artillery": {
         "label": "Alcance de la Batería Principal",
-        "placeholder": "p.ej. 10",
-        "suffix": "km"
+        "placeholder": "p.ej. 10"
+      },
+      "atbas": {
+        "label": "Secondary Battery Range",
+        "placeholder": "e.g. 5"
       },
       "surfaceConcealment": {
         "label": "Rango de Detección en Superficie",
-        "placeholder": "p.ej. 5",
-        "suffix": "km"
+        "placeholder": "p.ej. 5"
       },
       "planeConcealment": {
         "label": "Rango de Detección desde el aire",
-        "placeholder": "p.ej. 3",
-        "suffix": "km"
+        "placeholder": "p.ej. 3"
       },
       "torpedoRange": {
         "label": "Alcance de Torpedos",
-        "placeholder": "p.ej. 10",
-        "suffix": "km"
+        "placeholder": "p.ej. 10"
       },
       "radarRange": {
         "label": "Alcance de Radar",
-        "placeholder": "p.ej. 9",
-        "suffix": "km"
+        "placeholder": "p.ej. 9"
       },
       "hydroRange": {
         "label": "Alcance Hidroacústico",
-        "placeholder": "p.ej. 5",
-        "suffix": "km"
+        "placeholder": "p.ej. 5"
       }
     }
   },
@@ -122,7 +129,11 @@
       "maps": "Buscar mapa",
       "search": "Empiece a escribir para buscar"
     },
-    "title": "Tactics"
+    "title": "Tactics",
+    "edit": "Edit Tactic",
+    "pin": "Pin Tactic",
+    "unpin": "Unpin Tactic",
+    "delete": "Delete Tactic"
   },
   "user": {
     "online": "Online",
