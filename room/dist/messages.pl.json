@@ -8,18 +8,18 @@
     }
   },
   "button": {
-    "save": "Save",
-    "cancel": "Cancel"
+    "save": "Zapisz",
+    "cancel": "Anuluj"
   },
   "teams": {
-    "one": "Team One",
-    "two": "Team Two",
-    "title": "Teams",
+    "one": "Drużyna 1",
+    "two": "Drużyna 2",
+    "title": "Drużyny",
     "menu": {
-      "stats": "Edit properties",
+      "stats": "Edytuj właściwości",
       "cloneEntityTeam": "Clone in this Team",
       "cloneEntityDifferentTeam": "Clone in a different Team",
-      "delete": "Delete"
+      "delete": "Usuń"
     }
   },
   "entity": {
@@ -37,7 +37,7 @@
       },
       "atbas": {
         "label": "Secondary Battery Range",
-        "placeholder": "e.g. 5"
+        "placeholder": "np.: 5"
       },
       "surfaceConcealment": {
         "label": "Ukrywanie powierzchni",
@@ -129,15 +129,15 @@
       "maps": "Wyszukiwanie mapy",
       "search": "Zacznij pisać, aby wyszukać"
     },
-    "title": "Tactics",
-    "edit": "Edit Tactic",
-    "pin": "Pin Tactic",
-    "unpin": "Unpin Tactic",
-    "delete": "Delete Tactic"
+    "title": "Taktyki",
+    "edit": "Edytuj taktykę",
+    "pin": "Przypnij taktykę",
+    "unpin": "Odepnij taktykę",
+    "delete": "Usuń taktykę"
   },
   "user": {
-    "online": "Online",
-    "title": "Users",
-    "profile": "User Profile"
+    "online": "Dostępny",
+    "title": "Użytkownicy",
+    "profile": "Profil Użytkownika"
   }
 }
