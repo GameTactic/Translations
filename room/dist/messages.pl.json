@@ -17,8 +17,8 @@
     "title": "Drużyny",
     "menu": {
       "stats": "Edytuj właściwości",
-      "cloneEntityTeam": "Clone in this Team",
-      "cloneEntityDifferentTeam": "Clone in a different Team",
+      "cloneEntityTeam": "Sklonuj w tej drużynie",
+      "cloneEntityDifferentTeam": "Sklonuj w innej drużynie",
       "delete": "Usuń"
     }
   },
@@ -28,7 +28,7 @@
     },
     "alias": {
       "textField": "Alias",
-      "placeholder": "Add a nickname for your {entity}"
+      "placeholder": "Dodaj pseudonim dla {entity}"
     },
     "wows": {
       "artillery": {
