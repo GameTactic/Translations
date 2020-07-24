@@ -24,10 +24,10 @@
   },
   "entity": {
     "textField": {
-      "placeholder": "Find your {entity}"
+      "placeholder": "Znajdź {entity}"
     },
     "alias": {
-      "textField": "Alias",
+      "textField": "Nazwa alternatywna",
       "placeholder": "Dodaj pseudonim dla {entity}"
     },
     "wows": {
@@ -44,7 +44,7 @@
         "placeholder": "np.: 5"
       },
       "planeConcealment": {
-        "label": "Plane Concealment",
+        "label": "Ukrywanie samolotu",
         "placeholder": "np.: 3"
       },
       "torpedoRange": {
