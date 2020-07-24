@@ -36,7 +36,7 @@
         "placeholder": "np.: 10"
       },
       "atbas": {
-        "label": "Secondary Battery Range",
+        "label": "Zasięg baterii drugorzędnych",
         "placeholder": "np.: 5"
       },
       "surfaceConcealment": {
