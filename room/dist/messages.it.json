@@ -14,7 +14,7 @@
   "teams": {
     "one": "Squadra uno",
     "two": "Squadra due",
-    "title": "Teams",
+    "title": "Squadre",
     "menu": {
       "stats": "Modifica proprietà",
       "cloneEntityTeam": "Clona in questa squadra",
@@ -36,108 +36,108 @@
         "placeholder": "ad es. 10"
       },
       "atbas": {
-        "label": "Secondary Battery Range",
-        "placeholder": "e.g. 5"
+        "label": "Gittata batteria secondaria",
+        "placeholder": "ad es. 5"
       },
       "surfaceConcealment": {
-        "label": "Surface Concealment",
-        "placeholder": "e.g. 5"
+        "label": "Occultamento di superficie",
+        "placeholder": "ad es. 5"
       },
       "planeConcealment": {
-        "label": "Plane Concealment",
-        "placeholder": "e.g. 3"
+        "label": "Occultamento aereo",
+        "placeholder": "ad es. 3"
       },
       "torpedoRange": {
-        "label": "Torpedoes Range",
-        "placeholder": "e.g. 10"
+        "label": "Gittata siluri",
+        "placeholder": "ad es. 10"
       },
       "radarRange": {
-        "label": "Radar Range",
-        "placeholder": "e.g. 9"
+        "label": "Portata radar",
+        "placeholder": "ad es. 9"
       },
       "hydroRange": {
-        "label": "Hydro Range",
-        "placeholder": "e.g. 5"
+        "label": "Portata hydro",
+        "placeholder": "ad es. 5"
       }
     }
   },
   "tool": {
     "container": {
-      "move": "Move",
+      "move": "Sposta",
       "ping": "Ping",
-      "freeDraw": "Free Draw",
-      "line": "Straight Line",
-      "circle": "Circle",
-      "ruler": "Ruler",
-      "erase": "Erase",
-      "text": "Text",
-      "undo": "Undo",
-      "redo": "Redo"
+      "freeDraw": "Disegno libero",
+      "line": "Linea retta",
+      "circle": "Cerchio",
+      "ruler": "Righello",
+      "erase": "Cancella",
+      "text": "Testo",
+      "undo": "Annulla",
+      "redo": "Rifai"
     },
     "template": {
-      "colour": "Colour",
-      "fill": "Fill",
-      "size": "Size",
-      "outline": "Outline",
-      "permanent": "Permanent",
-      "temporary": "Temporary",
-      "endStyle": "End Style",
-      "arrow": "Arrow",
-      "tBar": "T Bar",
-      "strokeStyle": "Stroke Style",
-      "solidLine": "Solid Line",
-      "dashedLine": "Dashed Line",
-      "showRadius": "Show Radius",
-      "hideRadius": "Hide Radius"
+      "colour": "Colore",
+      "fill": "Riempi",
+      "size": "Dimensione",
+      "outline": "Contorno",
+      "permanent": "Permanente",
+      "temporary": "Temporaneo",
+      "endStyle": "Fine stile",
+      "arrow": "Freccia",
+      "tBar": "Barra a T",
+      "strokeStyle": "Stile del tratto",
+      "solidLine": "Linea continua",
+      "dashedLine": "Linea tratteggiata",
+      "showRadius": "Mostra raggio",
+      "hideRadius": "Nascondi raggio"
     }
   },
   "navigation": {
     "canvasTools": {
-      "zoomIn": "Zoom In",
-      "zoomOut": "Zoom Out",
-      "moveCanvas": "Move Canvas",
-      "centerCanvas": "Center Canvas"
+      "zoomIn": "Zoom +",
+      "zoomOut": "Zoom -",
+      "moveCanvas": "Altre tele",
+      "centerCanvas": "Centra tela"
     },
     "navigation": {
-      "saveRoom": "Save Room",
+      "saveRoom": "Salva stanza",
       "presentationMode": {
-        "enable": "Enable Presentation Mode",
-        "disable": "Disable Presentation Mode"
+        "enable": "Abilita modalità presentazione",
+        "disable": "Disabilita modalità presentazione"
       },
-      "manageRoom": "Manage Room"
+      "manageRoom": "Gestisci stanza"
     },
     "login": {
       "title": "Login",
       "logout": "Logout",
       "card": {
-        "title": "Select a Login option"
+        "title": "Selezionare un'opzione di login"
       }
     }
   },
   "tactic": {
-    "noTacticsFound": "No Tactics have been created",
+    "noTacticsFound": "Nessuna tattica è stata creata",
     "createTacticOverlay": {
-      "title": "New Tactic",
-      "create": "Create Tactic"
+      "title": "Nuova tattica",
+      "create": "Crea tattica"
     },
     "updateTacticOverlay": {
-      "title": "Update Tactic",
-      "update": "Save Tactic"
+      "title": "Aggiorna tattica",
+      "update": "Salva tattica"
     },
     "overlay": {
-      "name": "Tactic name",
-      "maps": "Search for maps",
-      "search": "Start typing to search"
+      "name": "Nome tattica",
+      "maps": "Cerca mappe",
+      "search": "Inizia a digitare per cercare"
     },
-    "title": "Tactics",
-    "edit": "Edit Tactic",
-    "pin": "Pin Tactic",
-    "unpin": "Unpin Tactic",
-    "delete": "Delete Tactic"
+    "title": "Tattiche",
+    "edit": "Modifica tattica",
+    "pin": "Ancora tattica",
+    "unpin": "Disancora tattica",
+    "delete": "Elimina tattica"
   },
   "user": {
     "online": "Online",
-    "title": "Users",
-    "profile": "User Profile"
+    "title": "Utenti",
+    "profile": "Profilo utente"
   }
 }
