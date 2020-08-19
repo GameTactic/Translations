@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="DiImtSN" resname="Welcome">
         <source>Welcome</source>
-        <target state="translated">Benvenuti</target>
+        <target state="translated">Benvenuto</target>
       </trans-unit>
       <trans-unit id="6Vw5YTi" resname="Go!">
         <source>Go!</source>
@@ -127,11 +127,11 @@
       </trans-unit>
       <trans-unit id="M6PY7ZK" resname="Russia">
         <source>Russia</source>
-        <target state="translated">Russo</target>
+        <target state="translated">Russia</target>
       </trans-unit>
       <trans-unit id="ZL4Ihbw" resname="North America">
         <source>North America</source>
-        <target state="translated">Nordamerica</target>
+        <target state="translated">America del Nord</target>
       </trans-unit>
       <trans-unit id="YhmmPog" resname="Username must be less than 32 characters and greater than 3">
         <source>Username must be less than 32 characters and greater than 3</source>
