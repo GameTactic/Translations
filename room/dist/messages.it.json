@@ -1,19 +1,19 @@
 {
   "index": {
-    "redirected": "You're being redirected..."
+    "redirected": "Stai venendo reindirizzato..."
   },
   "authentication": {
     "error": {
-      "reachServer": "Could not reach authentication server."
+      "reachServer": "Impossibile raggiungere il server di autenticazione."
     }
   },
   "button": {
-    "save": "Save",
-    "cancel": "Cancel"
+    "save": "Salva",
+    "cancel": "Annulla"
   },
   "teams": {
-    "one": "Team One",
-    "two": "Team Two",
+    "one": "Squadra uno",
+    "two": "Squadra due",
     "title": "Teams",
     "menu": {
       "stats": "Modifica proprietà",
