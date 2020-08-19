@@ -51,7 +51,7 @@
       </trans-unit>
       <trans-unit id="GtUHn.R" resname="Please press &quot;continue&quot; to return">
         <source>Please press "continue" to return</source>
-        <target state="needs-translation">Please press "continue" to return</target>
+        <target state="translated">Premi "continua" per tornare</target>
       </trans-unit>
       <trans-unit id="1pajW90" resname="Profile">
         <source>Profile</source>
@@ -59,7 +59,7 @@
       </trans-unit>
       <trans-unit id="SvpVv3r" resname="Terms of Service">
         <source>Terms of Service</source>
-        <target state="translated">Termini D'uso</target>
+        <target state="translated">Termini di servizio</target>
       </trans-unit>
       <trans-unit id="DiImtSN" resname="Welcome">
         <source>Welcome</source>
@@ -71,51 +71,51 @@
       </trans-unit>
       <trans-unit id="RYVyTjg" resname="Welcome, %username%!">
         <source>Welcome, %username%!</source>
-        <target state="needs-translation">Welcome, %username%!</target>
+        <target state="translated">Benvenuto, %username%!</target>
       </trans-unit>
       <trans-unit id="UJZnNsY" resname="We need to check few things before we can continue.">
         <source>We need to check few things before we can continue.</source>
-        <target state="needs-translation">We need to check few things before we can continue.</target>
+        <target state="translated">Dobbiamo controllare alcune cose prima di poter continuare.</target>
       </trans-unit>
       <trans-unit id="XiqG_XB" resname="Some are standard things, some are customizations for your account.">
         <source>Some are standard things, some are customizations for your account.</source>
-        <target state="needs-translation">Some are standard things, some are customizations for your account.</target>
+        <target state="translated">Alcune sono cose standard, alcune sono personalizzazioni per il tuo account.</target>
       </trans-unit>
       <trans-unit id="HWGh45I" resname="Thank you for using GameTactic services!">
         <source>Thank you for using GameTactic services!</source>
-        <target state="needs-translation">Thank you for using GameTactic services!</target>
+        <target state="translated">Grazie per aver utilizzato i servizi GameTactic!</target>
       </trans-unit>
       <trans-unit id="ShTXQVF" resname="Please click and read %href% terms of service %tag% fully.">
         <source>Please click and read %href% terms of service %tag% fully.</source>
-        <target state="needs-translation">Please click and read %href% terms of service %tag% fully.</target>
+        <target state="translated">Per favore clicca e leggi completamente %href% termini di servizio %tag%.</target>
       </trans-unit>
       <trans-unit id="hcsKFwF" resname="When you're done, please agree them below.">
         <source>When you're done, please agree them below.</source>
-        <target state="needs-translation">When you're done, please agree them below.</target>
+        <target state="translated">Quando hai finito, per favore accettali qui sotto.</target>
       </trans-unit>
       <trans-unit id="4hq3cuY" resname="I Accept Terms of Service">
         <source>I Accept Terms of Service</source>
-        <target state="needs-translation">I Accept Terms of Service</target>
+        <target state="translated">Io accetto le condizioni di servizio</target>
       </trans-unit>
       <trans-unit id="_zjtryT" resname="Please select username. It will be the same even if you login via a different provider.">
         <source>Please select username. It will be the same even if you login via a different provider.</source>
-        <target state="needs-translation">Please select username. It will be the same even if you login via a different provider.</target>
+        <target state="translated">Si prega di selezionare il nome utente. Sarà lo stesso anche se si effettua il login tramite un provider diverso.</target>
       </trans-unit>
       <trans-unit id="_NSt9uS" resname="Thank you %username%">
         <source>Thank you %username%</source>
-        <target state="needs-translation">Thank you %username%</target>
+        <target state="translated">Grazie %username%</target>
       </trans-unit>
       <trans-unit id="4s2Md.n" resname="You are now ready to go. Just press &quot;continue&quot; and you will be redirected back to where you came from.">
         <source>You are now ready to go. Just press "continue" and you will be redirected back to where you came from.</source>
-        <target state="needs-translation">You are now ready to go. Just press "continue" and you will be redirected back to where you came from.</target>
+        <target state="translated">Ora siete pronti ad andare. Basta premere "continua" e sarete reindirizzati di nuovo a dove siete venuti.</target>
       </trans-unit>
       <trans-unit id="VhjqTxm" resname="You have already registered">
         <source>You have already registered</source>
-        <target state="needs-translation">You have already registered</target>
+        <target state="translated">Ti sei già registrato</target>
       </trans-unit>
       <trans-unit id="uNmd8QZ" resname="Go Back">
         <source>Go Back</source>
-        <target state="needs-translation">Go Back</target>
+        <target state="translated">Torna indietro</target>
       </trans-unit>
       <trans-unit id="5ZX0Xcb" resname="Europe">
         <source>Europe</source>
@@ -135,7 +135,7 @@
       </trans-unit>
       <trans-unit id="YhmmPog" resname="Username must be less than 32 characters and greater than 3">
         <source>Username must be less than 32 characters and greater than 3</source>
-        <target state="needs-translation">Username must be less than 32 characters and greater than 3</target>
+        <target state="translated">Il nome utente deve essere inferiore a 32 caratteri e maggiore di 3</target>
       </trans-unit>
     </body>
   </file>
