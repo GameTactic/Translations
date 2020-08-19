@@ -16,24 +16,24 @@
     "two": "Team Two",
     "title": "Teams",
     "menu": {
-      "stats": "Edit properties",
-      "cloneEntityTeam": "Clone in this Team",
-      "cloneEntityDifferentTeam": "Clone in a different Team",
-      "delete": "Delete"
+      "stats": "Modifica proprietà",
+      "cloneEntityTeam": "Clona in questa squadra",
+      "cloneEntityDifferentTeam": "Clona in una squadra diversa",
+      "delete": "Cancella"
     }
   },
   "entity": {
     "textField": {
-      "placeholder": "Find your {entity}"
+      "placeholder": "Trova il tuo {entity}"
     },
     "alias": {
       "textField": "Alias",
-      "placeholder": "Add a nickname for your {entity}"
+      "placeholder": "Aggiungi un soprannome per il tuo {entity}"
     },
     "wows": {
       "artillery": {
-        "label": "Main Battery Range",
-        "placeholder": "e.g. 10"
+        "label": "Gittata Batteria Principale",
+        "placeholder": "ad es. 10"
       },
       "atbas": {
         "label": "Secondary Battery Range",
