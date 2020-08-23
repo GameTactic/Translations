@@ -8,17 +8,17 @@
     }
   },
   "button": {
-    "save": "Save",
-    "cancel": "Cancel"
+    "save": "Speichern",
+    "cancel": "Abbrechen"
   },
   "teams": {
-    "one": "Team One",
-    "two": "Team Two",
+    "one": "Team Eins",
+    "two": "Team Zwei",
     "title": "Teams",
     "menu": {
-      "stats": "Edit properties",
-      "cloneEntityTeam": "Clone in this Team",
-      "cloneEntityDifferentTeam": "Clone in a different Team",
+      "stats": "Eigenschaften bearbeiten",
+      "cloneEntityTeam": "In diesem Team duplizieren",
+      "cloneEntityDifferentTeam": "In anderem Team duplizieren",
       "delete": "Delete"
     }
   },
