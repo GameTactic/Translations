@@ -19,16 +19,16 @@
       "stats": "Eigenschaften bearbeiten",
       "cloneEntityTeam": "In diesem Team duplizieren",
       "cloneEntityDifferentTeam": "In anderem Team duplizieren",
-      "delete": "Delete"
+      "delete": "Löschen"
     }
   },
   "entity": {
     "textField": {
-      "placeholder": "Find your {entity}"
+      "placeholder": "Finde {entity}"
     },
     "alias": {
       "textField": "Alias",
-      "placeholder": "Add a nickname for your {entity}"
+      "placeholder": "Füge {entity} einen Spitznamen hinzu"
     },
     "wows": {
       "artillery": {
@@ -36,8 +36,8 @@
         "placeholder": "z.B. 10"
       },
       "atbas": {
-        "label": "Secondary Battery Range",
-        "placeholder": "e.g. 5"
+        "label": "Reichweite der zweiten Batterie",
+        "placeholder": "z.B. 5"
       },
       "surfaceConcealment": {
         "label": "Oberflächenortung",
@@ -81,10 +81,10 @@
       "outline": "Umrandung",
       "permanent": "Permanent",
       "temporary": "Temporär",
-      "endStyle": "End Style",
+      "endStyle": "Endstil",
       "arrow": "Pfeil",
       "tBar": "T Bar",
-      "strokeStyle": "Stroke Style",
+      "strokeStyle": "Konturstil",
       "solidLine": "Durchgezogene Linie",
       "dashedLine": "Gestrichelte Linie",
       "showRadius": "Radius anzeigen",
@@ -129,15 +129,15 @@
       "maps": "Nach Karten suchen",
       "search": "Geben Sie einen Suchbegriff ein"
     },
-    "title": "Tactics",
-    "edit": "Edit Tactic",
-    "pin": "Pin Tactic",
-    "unpin": "Unpin Tactic",
-    "delete": "Delete Tactic"
+    "title": "Taktiken",
+    "edit": "Taktik bearbeiten",
+    "pin": "Taktik anpinnen",
+    "unpin": "Taktik nicht mehr anpinnen",
+    "delete": "Taktik löschen"
   },
   "user": {
     "online": "Online",
-    "title": "Users",
-    "profile": "User Profile"
+    "title": "Benutzer",
+    "profile": "Benutzerprofil"
   }
 }
