@@ -8,27 +8,27 @@
     }
   },
   "button": {
-    "save": "Save",
-    "cancel": "Cancel"
+    "save": "Sauvegarder",
+    "cancel": "Annuler"
   },
   "teams": {
-    "one": "Team One",
-    "two": "Team Two",
-    "title": "Teams",
+    "one": "Équipe 1",
+    "two": "Équipe 2",
+    "title": "Équipes",
     "menu": {
-      "stats": "Edit properties",
-      "cloneEntityTeam": "Clone in this Team",
-      "cloneEntityDifferentTeam": "Clone in a different Team",
-      "delete": "Delete"
+      "stats": "Éditer les propriétés",
+      "cloneEntityTeam": "Cloner dans cette équipe",
+      "cloneEntityDifferentTeam": "Cloner dans une autre équipe",
+      "delete": "Supprimer"
     }
   },
   "entity": {
     "textField": {
-      "placeholder": "Find your {entity}"
+      "placeholder": "Trouvez votre {entity}"
     },
     "alias": {
       "textField": "Alias",
-      "placeholder": "Add a nickname for your {entity}"
+      "placeholder": "Ajouter un surnom pour votre {entity}"
     },
     "wows": {
       "artillery": {
@@ -36,8 +36,8 @@
         "placeholder": "Par exemple: 10"
       },
       "atbas": {
-        "label": "Secondary Battery Range",
-        "placeholder": "e.g. 5"
+        "label": "Portée de la batterie secondaire",
+        "placeholder": "par exemple : 5"
       },
       "surfaceConcealment": {
         "label": "Détectabilité de surface",
@@ -129,15 +129,15 @@
       "maps": "Chercher un carte",
       "search": "Tapez pour commencer à chercher"
     },
-    "title": "Tactics",
-    "edit": "Edit Tactic",
-    "pin": "Pin Tactic",
-    "unpin": "Unpin Tactic",
-    "delete": "Delete Tactic"
+    "title": "Tactiques",
+    "edit": "Modifier la tactique",
+    "pin": "Épingler la tactique",
+    "unpin": "Désépingler la tactique",
+    "delete": "Supprimer la tactique"
   },
   "user": {
-    "online": "Online",
-    "title": "Users",
-    "profile": "User Profile"
+    "online": "En ligne",
+    "title": "Utilisateurs",
+    "profile": "Profil Utilisateur"
   }
 }
