@@ -32,102 +32,102 @@
     },
     "wows": {
       "artillery": {
-        "label": "Main Battery Range",
-        "placeholder": "e.g. 10"
+        "label": "主炮射程",
+        "placeholder": "例10"
       },
       "atbas": {
-        "label": "Secondary Battery Range",
-        "placeholder": "e.g. 5"
+        "label": "副炮射程",
+        "placeholder": "例5"
       },
       "surfaceConcealment": {
-        "label": "Surface Concealment",
-        "placeholder": "e.g. 5"
+        "label": "水面隐蔽",
+        "placeholder": "例5"
       },
       "planeConcealment": {
-        "label": "Plane Concealment",
-        "placeholder": "e.g. 3"
+        "label": "空中隐蔽",
+        "placeholder": "例3"
       },
       "torpedoRange": {
-        "label": "Torpedoes Range",
-        "placeholder": "e.g. 10"
+        "label": "鱼雷射程",
+        "placeholder": "例10"
       },
       "radarRange": {
-        "label": "Radar Range",
-        "placeholder": "e.g. 9"
+        "label": "监视雷达范围",
+        "placeholder": "例9"
       },
       "hydroRange": {
-        "label": "Hydro Range",
-        "placeholder": "e.g. 5"
+        "label": "对海搜索范围",
+        "placeholder": "例5"
       }
     }
   },
   "tool": {
     "container": {
-      "move": "Move",
+      "move": "移动",
       "ping": "Ping",
-      "freeDraw": "Free Draw",
-      "line": "Straight Line",
-      "circle": "Circle",
-      "ruler": "Ruler",
-      "erase": "Erase",
-      "text": "Text",
-      "undo": "Undo",
-      "redo": "Redo"
+      "freeDraw": "自由绘制",
+      "line": "直线",
+      "circle": "圆",
+      "ruler": "尺子",
+      "erase": "擦除",
+      "text": "文本",
+      "undo": "还原",
+      "redo": "重做"
     },
     "template": {
-      "colour": "Colour",
-      "fill": "Fill",
-      "size": "Size",
-      "outline": "Outline",
-      "permanent": "Permanent",
-      "temporary": "Temporary",
-      "endStyle": "End Style",
-      "arrow": "Arrow",
-      "tBar": "T Bar",
-      "strokeStyle": "Stroke Style",
-      "solidLine": "Solid Line",
-      "dashedLine": "Dashed Line",
-      "showRadius": "Show Radius",
-      "hideRadius": "Hide Radius"
+      "colour": "颜色",
+      "fill": "填充",
+      "size": "大小",
+      "outline": "描边",
+      "permanent": "永久的",
+      "temporary": "临时的",
+      "endStyle": "端点样式",
+      "arrow": "箭头",
+      "tBar": "T型线",
+      "strokeStyle": "笔画样式",
+      "solidLine": "实线",
+      "dashedLine": "虚线",
+      "showRadius": "显示半径",
+      "hideRadius": "隐藏半径"
     }
   },
   "navigation": {
     "canvasTools": {
-      "zoomIn": "Zoom In",
-      "zoomOut": "Zoom Out",
-      "moveCanvas": "Move Canvas",
-      "centerCanvas": "Center Canvas"
+      "zoomIn": "放大",
+      "zoomOut": "缩小",
+      "moveCanvas": "移动画布",
+      "centerCanvas": "居中画布"
     },
     "navigation": {
-      "saveRoom": "Save Room",
+      "saveRoom": "保存房间",
       "presentationMode": {
-        "enable": "Enable Presentation Mode",
-        "disable": "Disable Presentation Mode"
+        "enable": "启用演示模式",
+        "disable": "关闭演示模式"
       },
-      "manageRoom": "Manage Room"
+      "manageRoom": "管理房间"
     },
     "login": {
-      "title": "Login",
-      "logout": "Logout",
+      "title": "登录",
+      "logout": "退出",
       "card": {
-        "title": "Select a Login option"
+        "title": "选择登录方式"
       }
     }
   },
   "tactic": {
-    "noTacticsFound": "No Tactics have been created",
+    "noTacticsFound": "未创建战术",
     "createTacticOverlay": {
-      "title": "New Tactic",
-      "create": "Create Tactic"
+      "title": "新建战术",
+      "create": "创建战术"
     },
     "updateTacticOverlay": {
-      "title": "Update Tactic",
-      "update": "Save Tactic"
+      "title": "更新战术",
+      "update": "保存战术"
     },
     "overlay": {
-      "name": "Tactic name",
-      "maps": "Search for maps",
-      "search": "Start typing to search"
+      "name": "战术名称",
+      "maps": "查找地图",
+      "search": "输入内容以搜索"
     },
     "title": "Tactics",
     "edit": "Edit Tactic",
