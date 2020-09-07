@@ -1,6 +1,6 @@
 {
   "index": {
-    "redirected": "请稍等，网页正在跳转..."
+    "redirected": "正在跳转..."
   },
   "authentication": {
     "error": {
@@ -129,15 +129,15 @@
       "maps": "查找地图",
       "search": "输入内容以搜索"
     },
-    "title": "Tactics",
-    "edit": "Edit Tactic",
-    "pin": "Pin Tactic",
-    "unpin": "Unpin Tactic",
-    "delete": "Delete Tactic"
+    "title": "战术",
+    "edit": "编辑战术",
+    "pin": "标记战术",
+    "unpin": "取消标记",
+    "delete": "删除战术"
   },
   "user": {
-    "online": "Online",
-    "title": "Users",
-    "profile": "User Profile"
+    "online": "在线",
+    "title": "用户",
+    "profile": "用户资料"
   }
 }
