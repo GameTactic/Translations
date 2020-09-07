@@ -4,31 +4,31 @@
   },
   "authentication": {
     "error": {
-      "reachServer": "Could not reach authentication server."
+      "reachServer": "无法连接身份认证服务器。"
     }
   },
   "button": {
-    "save": "Save",
-    "cancel": "Cancel"
+    "save": "保存",
+    "cancel": "取消"
   },
   "teams": {
-    "one": "Team One",
-    "two": "Team Two",
-    "title": "Teams",
+    "one": "队伍1",
+    "two": "队伍2",
+    "title": "队伍",
     "menu": {
-      "stats": "Edit properties",
-      "cloneEntityTeam": "Clone in this Team",
-      "cloneEntityDifferentTeam": "Clone in a different Team",
-      "delete": "Delete"
+      "stats": "编辑属性",
+      "cloneEntityTeam": "在队伍中复制",
+      "cloneEntityDifferentTeam": "在不同队伍中复制",
+      "delete": "删除"
     }
   },
   "entity": {
     "textField": {
-      "placeholder": "Find your {entity}"
+      "placeholder": "查找您的{entity}"
     },
     "alias": {
-      "textField": "Alias",
-      "placeholder": "Add a nickname for your {entity}"
+      "textField": "昵称",
+      "placeholder": "为您的{entity} 添加昵称"
     },
     "wows": {
       "artillery": {
