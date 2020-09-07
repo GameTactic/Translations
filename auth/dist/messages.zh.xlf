@@ -7,7 +7,7 @@
     <body>
       <trans-unit id="Ozafeq9" resname="Profile of user %username%">
         <source>Profile of user %username%</source>
-        <target state="translated">%username%的用户资料</target>
+        <target state="translated">%username%的个人资料</target>
       </trans-unit>
       <trans-unit id="47ienTP" resname="Username">
         <source>Username</source>
@@ -23,7 +23,7 @@
       </trans-unit>
       <trans-unit id="Ayl_Qze" resname="Last login: %time% from %ip%.">
         <source>Last login: %time% from %ip%.</source>
-        <target state="translated">最后登录时间 %time%，来自IP %ip%</target>
+        <target state="translated">上次登录时间 %time%，来自IP %ip%</target>
       </trans-unit>
       <trans-unit id="6mPfJme" resname="Details can be changed only via support with good reason.">
         <source>Details can be changed only via support with good reason.</source>
