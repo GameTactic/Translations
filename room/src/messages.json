@@ -17,8 +17,8 @@
     "title": "Teams",
     "menu": {
       "stats": "Edit properties",
-      "cloneEntityTeam": "Clone in this Team",
-      "cloneEntityDifferentTeam": "Clone in a different Team",
+      "duplicateEntityTeam": "Duplicate in this Team",
+      "duplicateEntityDifferentTeam": "Duplicate in a different Team",
       "delete": "Delete"
     }
   },
@@ -121,7 +121,7 @@
       "create": "Create Tactic"
     },
     "updateTacticOverlay": {
-      "title": "Update Tactic",
+      "title": "Edit Tactic",
       "update": "Save Tactic"
     },
     "overlay": {
@@ -130,10 +130,13 @@
       "search": "Start typing to search"
     },
     "title": "Tactics",
-    "edit": "Edit Tactic",
-    "pin": "Pin Tactic",
-    "unpin": "Unpin Tactic",
-    "delete": "Delete Tactic"
+    "edit": "Edit",
+    "pin": "Pin",
+    "unpin": "Unpin",
+    "delete": "Delete",
+    "lock": "Lock",
+    "unlock": "Unlock",
+    "duplicate": "Duplicate"
   },
   "user": {
     "online": "Online",
