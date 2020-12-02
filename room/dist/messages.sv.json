@@ -40,19 +40,19 @@
         "placeholder": "e.g. 5"
       },
       "surfaceConcealment": {
-        "label": "Surface Concealment",
+        "label": "Ytmaskering",
         "placeholder": "e.g. 5"
       },
       "planeConcealment": {
-        "label": "Plane Concealment",
+        "label": "Flygplansmaskering",
         "placeholder": "e.g. 3"
       },
       "torpedoRange": {
-        "label": "Torpedoes Range",
+        "label": "Torped Avstånd",
         "placeholder": "e.g. 10"
       },
       "radarRange": {
-        "label": "Radar Range",
+        "label": "Radar Avstånd",
         "placeholder": "e.g. 9"
       },
       "hydroRange": {
