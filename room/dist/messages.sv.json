@@ -12,9 +12,9 @@
     "cancel": "Avbryt"
   },
   "teams": {
-    "one": "Team One",
-    "two": "Team Two",
-    "title": "Teams",
+    "one": "Lag Ett",
+    "two": "Lag Två",
+    "title": "Lag",
     "menu": {
       "stats": "Redigera egenskaper",
       "cloneEntityTeam": "Klona i detta lag",
@@ -24,11 +24,11 @@
   },
   "entity": {
     "textField": {
-      "placeholder": "Find your {entity}"
+      "placeholder": "Hitta din {entity}"
     },
     "alias": {
       "textField": "Alias",
-      "placeholder": "Add a nickname for your {entity}"
+      "placeholder": "Lägg till ett smeknamn till din {entity}"
     },
     "wows": {
       "artillery": {
@@ -63,81 +63,81 @@
   },
   "tool": {
     "container": {
-      "move": "Move",
+      "move": "Flytta",
       "ping": "Ping",
-      "freeDraw": "Free Draw",
-      "line": "Straight Line",
-      "circle": "Circle",
-      "ruler": "Ruler",
-      "erase": "Erase",
+      "freeDraw": "Frihand",
+      "line": "Rak linje",
+      "circle": "Cirkel",
+      "ruler": "Linjal",
+      "erase": "Radera",
       "text": "Text",
-      "undo": "Undo",
-      "redo": "Redo"
+      "undo": "Ångra",
+      "redo": "Gör om"
     },
     "template": {
-      "colour": "Colour",
-      "fill": "Fill",
-      "size": "Size",
-      "outline": "Outline",
+      "colour": "Färg",
+      "fill": "Fyll",
+      "size": "Storlek",
+      "outline": "Kontur",
       "permanent": "Permanent",
-      "temporary": "Temporary",
+      "temporary": "Temporär",
       "endStyle": "End Style",
-      "arrow": "Arrow",
+      "arrow": "Pil",
       "tBar": "T Bar",
       "strokeStyle": "Stroke Style",
-      "solidLine": "Solid Line",
+      "solidLine": "Heldragna linjer",
       "dashedLine": "Dashed Line",
-      "showRadius": "Show Radius",
-      "hideRadius": "Hide Radius"
+      "showRadius": "Visa Omkrets",
+      "hideRadius": "Göm Omkrets"
     }
   },
   "navigation": {
     "canvasTools": {
-      "zoomIn": "Zoom In",
-      "zoomOut": "Zoom Out",
+      "zoomIn": "Zooma In",
+      "zoomOut": "Zoom Ut",
       "moveCanvas": "Move Canvas",
       "centerCanvas": "Center Canvas"
     },
     "navigation": {
-      "saveRoom": "Save Room",
+      "saveRoom": "Spara rum",
       "presentationMode": {
-        "enable": "Enable Presentation Mode",
-        "disable": "Disable Presentation Mode"
+        "enable": "Aktivera presentationsläge",
+        "disable": "Inaktivera presentationsläge"
       },
-      "manageRoom": "Manage Room"
+      "manageRoom": "Hantera rum"
     },
     "login": {
-      "title": "Login",
-      "logout": "Logout",
+      "title": "Logga in",
+      "logout": "Logga ut",
       "card": {
-        "title": "Select a Login option"
+        "title": "Välj ett inloggningsalternativ"
       }
     }
   },
   "tactic": {
-    "noTacticsFound": "No Tactics have been created",
+    "noTacticsFound": "Ingen taktik har blivit gjord",
     "createTacticOverlay": {
-      "title": "New Tactic",
-      "create": "Create Tactic"
+      "title": "Ny Taktik",
+      "create": "Skapa Taktik"
     },
     "updateTacticOverlay": {
-      "title": "Update Tactic",
-      "update": "Save Tactic"
+      "title": "Uppdatera Taktik",
+      "update": "Spara Taktik"
     },
     "overlay": {
-      "name": "Tactic name",
-      "maps": "Search for maps",
-      "search": "Start typing to search"
+      "name": "Taktik Namn",
+      "maps": "Sök efter kartor",
+      "search": "Börja skriva för att söka"
     },
-    "title": "Tactics",
-    "edit": "Edit Tactic",
-    "pin": "Pin Tactic",
-    "unpin": "Unpin Tactic",
-    "delete": "Delete Tactic"
+    "title": "Taktik",
+    "edit": "Redigera Taktik",
+    "pin": "Fäst Taktik",
+    "unpin": "Lås upp Taktik",
+    "delete": "Radera Taktik"
   },
   "user": {
-    "online": "Online",
-    "title": "Users",
-    "profile": "User Profile"
+    "online": "Ansluten",
+    "title": "Användare",
+    "profile": "Användarprofil"
   }
 }
