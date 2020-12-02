@@ -1,25 +1,25 @@
 {
   "index": {
-    "redirected": "You're being redirected..."
+    "redirected": "Du blir omdirigerad..."
   },
   "authentication": {
     "error": {
-      "reachServer": "Could not reach authentication server."
+      "reachServer": "Kunde inte nå autentiseringsserven."
     }
   },
   "button": {
-    "save": "Save",
-    "cancel": "Cancel"
+    "save": "Spara",
+    "cancel": "Avbryt"
   },
   "teams": {
     "one": "Team One",
     "two": "Team Two",
     "title": "Teams",
     "menu": {
-      "stats": "Edit properties",
-      "cloneEntityTeam": "Clone in this Team",
-      "cloneEntityDifferentTeam": "Clone in a different Team",
-      "delete": "Delete"
+      "stats": "Redigera egenskaper",
+      "cloneEntityTeam": "Klona i detta lag",
+      "cloneEntityDifferentTeam": "Klona i ett annat lag",
+      "delete": "Radera"
     }
   },
   "entity": {
