@@ -8,12 +8,12 @@
     }
   },
   "button": {
-    "save": "Save",
+    "save": "Сохранить",
     "cancel": "Cancel"
   },
   "teams": {
-    "one": "Team One",
-    "two": "Team Two",
+    "one": "Мвм",
+    "two": "Команда 2",
     "title": "Teams",
     "menu": {
       "stats": "Edit properties",
