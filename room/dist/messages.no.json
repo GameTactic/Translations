@@ -1,34 +1,34 @@
 {
   "index": {
-    "redirected": "You're being redirected..."
+    "redirected": "Du blir omdirigert..."
   },
   "authentication": {
     "error": {
-      "reachServer": "Could not reach authentication server."
+      "reachServer": "Kunne ikke nå autentiseringstjeneren."
     }
   },
   "button": {
-    "save": "Save",
-    "cancel": "Cancel"
+    "save": "Lagre",
+    "cancel": "Avbryt"
   },
   "teams": {
-    "one": "Team One",
-    "two": "Team Two",
-    "title": "Teams",
+    "one": "Lag 1",
+    "two": "Lag 2",
+    "title": "Lag",
     "menu": {
-      "stats": "Edit properties",
-      "cloneEntityTeam": "Clone in this Team",
-      "cloneEntityDifferentTeam": "Clone in a different Team",
-      "delete": "Delete"
+      "stats": "Rediger egenskaper",
+      "cloneEntityTeam": "Klon i dette laget",
+      "cloneEntityDifferentTeam": "Klon i et annet lag",
+      "delete": "Slett"
     }
   },
   "entity": {
     "textField": {
-      "placeholder": "Find your {entity}"
+      "placeholder": "Finn din {entity}"
     },
     "alias": {
       "textField": "Alias",
-      "placeholder": "Add a nickname for your {entity}"
+      "placeholder": "Legg til et kallenavn for din {entity}"
     },
     "wows": {
       "artillery": {
@@ -36,7 +36,7 @@
         "placeholder": "e.g 10"
       },
       "atbas": {
-        "label": "Secondary Battery Range",
+        "label": "Sekundært batteriområde",
         "placeholder": "e.g. 5"
       },
       "surfaceConcealment": {
