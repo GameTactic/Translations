@@ -1,143 +1,89 @@
 {
-  "index": {
-    "redirected": "You're being redirected..."
+  "common": {
+    "create": "Create",
+    "name": "Name",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "leave": "Leave",
+    "delete": "Delete",
+    "update": "Update",
+    "edit": "Edit",
+    "message": "Message",
+    "tactics": "Tactics",
+    "tactic": "Tactic",
+    "views": "Views",
+    "user": "User",
+    "chat": "Chat",
+    "tool": "Tool",
+    "team": "Team",
+    "members": "Members",
+    "no_members": "No members",
+    "options": "Options",
+    "tools": "Tools",
+    "background_color": "Background color",
+    "size": "Size",
+    "font_color": "Font color",
+    "color": "Color",
+    "opacity": "Opacity",
+    "text": "Text",
+    "fill": "Fill",
+    "thickness": "Thickness",
+    "border": "Border",
+    "head_type": "Head type",
+    "common": "Common",
+    "icons": "Icons",
+    "label": "Label",
+    "entities": "Entities",
+    "show_name": "Show name",
+    "show_radius": "Show radius",
+    "search": "Search",
+    "stop": "Stop",
+    "undo": "Undo",
+    "redo": "Redo",
+    "fit": "Fit",
+    "center": "Center",
+    "zoom": "Zoom",
+    "loading": "Loading"
+  },
+  "hub": {
+    "new_room": "New room",
+    "your_games": "Your games",
+    "room_created": "Created: {timestamp}",
+    "the_hub": "The Hub",
+    "intro_part_1": "This is the Hub for GameTactics - where the magic happens! (no pun intended). In the Hub, you'll find\n                  all\n                  rooms and tactics you're part of as well as your profile information.",
+    "intro_part2_1": "Click on the",
+    "intro_part2_2": "button to continue!",
+    "left_hand_corner": "Left hand corner!"
   },
   "authentication": {
-    "error": {
-      "reachServer": "Could not reach authentication server."
-    }
+    "sign_in": "Sign in",
+    "sign_out": "Sign out",
+    "sign_in_to_chat": "Sign in to chat"
   },
-  "button": {
-    "save": "Save",
-    "cancel": "Cancel"
+  "room": {
+    "presenting": "Presenting",
+    "present": "Present",
+    "override": "Override",
+    "toggle_dark_mode": "Toggle dark mode",
+    "toggle_light_mode": "Toggle light mode",
+    "you_are_now_presenting": "You are now presenting",
+    "user_is_now_presenting": "{user} is now presenting",
+    "all_others_have_readonly_permissions": "All others have read-only permissions",
+    "you_now_have_readonly_permissions": "You now have read-only permissions"
   },
-  "teams": {
-    "one": "Team One",
-    "two": "Team Two",
-    "title": "Teams",
-    "menu": {
-      "stats": "Edit properties",
-      "cloneEntityTeam": "Clone in this Team",
-      "cloneEntityDifferentTeam": "Clone in a different Team",
-      "delete": "Delete"
-    }
+  "error": {
+    "error": "Error",
+    "timed_out": "Timed out"
   },
-  "entity": {
-    "textField": {
-      "placeholder": "Find your {entity}"
-    },
-    "alias": {
-      "textField": "Alias",
-      "placeholder": "Add a nickname for your {entity}"
-    },
-    "wows": {
-      "artillery": {
-        "label": "Main Battery Range",
-        "placeholder": "e.g. 10"
-      },
-      "atbas": {
-        "label": "Secondary Battery Range",
-        "placeholder": "e.g. 5"
-      },
-      "surfaceConcealment": {
-        "label": "Surface Concealment",
-        "placeholder": "e.g. 5"
-      },
-      "planeConcealment": {
-        "label": "Plane Concealment",
-        "placeholder": "e.g. 3"
-      },
-      "torpedoRange": {
-        "label": "Torpedoes Range",
-        "placeholder": "e.g. 10"
-      },
-      "radarRange": {
-        "label": "Radar Range",
-        "placeholder": "e.g. 9"
-      },
-      "hydroRange": {
-        "label": "Hydro Range",
-        "placeholder": "e.g. 5"
-      }
-    }
+  "modal": {
+    "edit_cover": "Edit cover",
+    "select_game": "Select game",
+    "create_room": "Create room",
+    "create_tactic": "Create tactic",
+    "select_map": "Select map"
   },
-  "tool": {
-    "container": {
-      "move": "Move",
-      "ping": "Ping",
-      "freeDraw": "Free Draw",
-      "line": "Straight Line",
-      "circle": "Circle",
-      "ruler": "Ruler",
-      "erase": "Erase",
-      "text": "Text",
-      "undo": "Undo",
-      "redo": "Redo"
-    },
-    "template": {
-      "colour": "Colour",
-      "fill": "Fill",
-      "size": "Size",
-      "outline": "Outline",
-      "permanent": "Permanent",
-      "temporary": "Temporary",
-      "endStyle": "End Style",
-      "arrow": "Arrow",
-      "tBar": "T Bar",
-      "strokeStyle": "Stroke Style",
-      "solidLine": "Solid Line",
-      "dashedLine": "Dashed Line",
-      "showRadius": "Show Radius",
-      "hideRadius": "Hide Radius"
-    }
-  },
-  "navigation": {
-    "canvasTools": {
-      "zoomIn": "Zoom In",
-      "zoomOut": "Zoom Out",
-      "moveCanvas": "Move Canvas",
-      "centerCanvas": "Center Canvas"
-    },
-    "navigation": {
-      "saveRoom": "Save Room",
-      "presentationMode": {
-        "enable": "Enable Presentation Mode",
-        "disable": "Disable Presentation Mode"
-      },
-      "manageRoom": "Manage Room"
-    },
-    "login":  {
-      "title": "Login",
-      "logout": "Logout",
-      "card": {
-        "title": "Select a Login option"
-      }
-    }
-  },
-  "tactic": {
-    "noTacticsFound": "No Tactics have been created",
-    "createTacticOverlay": {
-      "title": "New Tactic",
-      "create": "Create Tactic"
-    },
-    "updateTacticOverlay": {
-      "title": "Update Tactic",
-      "update": "Save Tactic"
-    },
-    "overlay": {
-      "name": "Tactic name",
-      "maps": "Search for maps",
-      "search": "Start typing to search"
-    },
-    "title": "Tactics",
-    "edit": "Edit Tactic",
-    "pin": "Pin Tactic",
-    "unpin": "Unpin Tactic",
-    "delete": "Delete Tactic"
-  },
-  "user": {
-    "online": "Online",
-    "title": "Users",
-    "profile": "User Profile"
+  "validation": {
+    "must_be_at_least_x_characters": "Must be at least {x} characters",
+    "must_be_maximum_x_characters": "Must be maximum {x} characters"
   }
 }
