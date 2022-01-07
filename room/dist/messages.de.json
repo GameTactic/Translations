@@ -1,143 +1,89 @@
 {
-  "index": {
-    "redirected": "Sie werden weitergeleitet..."
+  "common": {
+    "create": "Create",
+    "name": "Name",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "leave": "Leave",
+    "delete": "Delete",
+    "update": "Update",
+    "edit": "Edit",
+    "message": "Message",
+    "tactics": "Tactics",
+    "tactic": "Tactic",
+    "views": "Views",
+    "user": "User",
+    "chat": "Chat",
+    "tool": "Tool",
+    "team": "Team",
+    "members": "Members",
+    "no_members": "No members",
+    "options": "Options",
+    "tools": "Tools",
+    "background_color": "Background color",
+    "size": "Size",
+    "font_color": "Font color",
+    "color": "Color",
+    "opacity": "Opacity",
+    "text": "Text",
+    "fill": "Fill",
+    "thickness": "Thickness",
+    "border": "Border",
+    "head_type": "Head type",
+    "common": "Common",
+    "icons": "Icons",
+    "label": "Label",
+    "entities": "Entities",
+    "show_name": "Show name",
+    "show_radius": "Show radius",
+    "search": "Search",
+    "stop": "Stop",
+    "undo": "Undo",
+    "redo": "Redo",
+    "fit": "Fit",
+    "center": "Center",
+    "zoom": "Zoom",
+    "loading": "Loading"
+  },
+  "hub": {
+    "new_room": "New room",
+    "your_games": "Your games",
+    "room_created": "Created: {timestamp}",
+    "the_hub": "The Hub",
+    "intro_part_1": "This is the Hub for GameTactics - where the magic happens! (no pun intended). In the Hub, you'll find\n                  all\n                  rooms and tactics you're part of as well as your profile information.",
+    "intro_part2_1": "Click on the",
+    "intro_part2_2": "button to continue!",
+    "left_hand_corner": "Left hand corner!"
   },
   "authentication": {
-    "error": {
-      "reachServer": "Authentifizierungsserver konnte nicht erreicht werden."
-    }
+    "sign_in": "Sign in",
+    "sign_out": "Sign out",
+    "sign_in_to_chat": "Sign in to chat"
   },
-  "button": {
-    "save": "Speichern",
-    "cancel": "Abbrechen"
+  "room": {
+    "presenting": "Presenting",
+    "present": "Present",
+    "override": "Override",
+    "toggle_dark_mode": "Toggle dark mode",
+    "toggle_light_mode": "Toggle light mode",
+    "you_are_now_presenting": "You are now presenting",
+    "user_is_now_presenting": "{user} is now presenting",
+    "all_others_have_readonly_permissions": "All others have read-only permissions",
+    "you_now_have_readonly_permissions": "You now have read-only permissions"
   },
-  "teams": {
-    "one": "Team Eins",
-    "two": "Team Zwei",
-    "title": "Teams",
-    "menu": {
-      "stats": "Eigenschaften bearbeiten",
-      "cloneEntityTeam": "In diesem Team duplizieren",
-      "cloneEntityDifferentTeam": "In anderem Team duplizieren",
-      "delete": "Löschen"
-    }
+  "error": {
+    "error": "Error",
+    "timed_out": "Timed out"
   },
-  "entity": {
-    "textField": {
-      "placeholder": "Finde {entity}"
-    },
-    "alias": {
-      "textField": "Alias",
-      "placeholder": "Füge {entity} einen Spitznamen hinzu"
-    },
-    "wows": {
-      "artillery": {
-        "label": "Hauptbatteriereichweite",
-        "placeholder": "z.B. 10"
-      },
-      "atbas": {
-        "label": "Reichweite der zweiten Batterie",
-        "placeholder": "z.B. 5"
-      },
-      "surfaceConcealment": {
-        "label": "Oberflächenortung",
-        "placeholder": "z.B. 5"
-      },
-      "planeConcealment": {
-        "label": "Flugzeugoberflächenortung",
-        "placeholder": "z.B. 3"
-      },
-      "torpedoRange": {
-        "label": "Torpedoreichweite",
-        "placeholder": "z.B. 10"
-      },
-      "radarRange": {
-        "label": "Radarreichweite",
-        "placeholder": "z.B. 9"
-      },
-      "hydroRange": {
-        "label": "Reichweite der Hydroakustischen Suche",
-        "placeholder": "z.B. 5"
-      }
-    }
+  "modal": {
+    "edit_cover": "Edit cover",
+    "select_game": "Select game",
+    "create_room": "Create room",
+    "create_tactic": "Create tactic",
+    "select_map": "Select map"
   },
-  "tool": {
-    "container": {
-      "move": "Verschieben",
-      "ping": "Pingen",
-      "freeDraw": "Freies Zeichnen",
-      "line": "Gerade Linie",
-      "circle": "Kreis",
-      "ruler": "Lineal",
-      "erase": "Löschen",
-      "text": "Text",
-      "undo": "Rückgängig machen",
-      "redo": "Wiederholen"
-    },
-    "template": {
-      "colour": "Farbe",
-      "fill": "Füllen",
-      "size": "Größe",
-      "outline": "Umrandung",
-      "permanent": "Permanent",
-      "temporary": "Temporär",
-      "endStyle": "Endstil",
-      "arrow": "Pfeil",
-      "tBar": "T Bar",
-      "strokeStyle": "Konturstil",
-      "solidLine": "Durchgezogene Linie",
-      "dashedLine": "Gestrichelte Linie",
-      "showRadius": "Radius anzeigen",
-      "hideRadius": "Radius verstecken"
-    }
-  },
-  "navigation": {
-    "canvasTools": {
-      "zoomIn": "Heranzoomen",
-      "zoomOut": "Herauszoomen",
-      "moveCanvas": "Canvas verschieben",
-      "centerCanvas": "Canvas zentrieren"
-    },
-    "navigation": {
-      "saveRoom": "Raum speichern",
-      "presentationMode": {
-        "enable": "Präsentationsmodus aktivieren",
-        "disable": "Präsentationsmodus deaktivieren"
-      },
-      "manageRoom": "Raum verwalten"
-    },
-    "login": {
-      "title": "Anmelden",
-      "logout": "Abmelden",
-      "card": {
-        "title": "Wählen Sie eine Loginvariante"
-      }
-    }
-  },
-  "tactic": {
-    "noTacticsFound": "Es wurden keine Taktiken erstellt",
-    "createTacticOverlay": {
-      "title": "Neue Taktik",
-      "create": "Taktik erstellen"
-    },
-    "updateTacticOverlay": {
-      "title": "Taktik aktualisieren",
-      "update": "Taktik speichern"
-    },
-    "overlay": {
-      "name": "Name der Taktik",
-      "maps": "Nach Karten suchen",
-      "search": "Geben Sie einen Suchbegriff ein"
-    },
-    "title": "Taktiken",
-    "edit": "Taktik bearbeiten",
-    "pin": "Taktik anpinnen",
-    "unpin": "Taktik nicht mehr anpinnen",
-    "delete": "Taktik löschen"
-  },
-  "user": {
-    "online": "Online",
-    "title": "Benutzer",
-    "profile": "Benutzerprofil"
+  "validation": {
+    "must_be_at_least_x_characters": "Must be at least {x} characters",
+    "must_be_maximum_x_characters": "Must be maximum {x} characters"
   }
 }
