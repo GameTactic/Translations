@@ -1,143 +1,89 @@
 {
-  "index": {
-    "redirected": "正在跳转..."
+  "common": {
+    "create": "Create",
+    "name": "Name",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "leave": "Leave",
+    "delete": "Delete",
+    "update": "Update",
+    "edit": "Edit",
+    "message": "Message",
+    "tactics": "Tactics",
+    "tactic": "Tactic",
+    "views": "Views",
+    "user": "User",
+    "chat": "Chat",
+    "tool": "Tool",
+    "team": "Team",
+    "members": "Members",
+    "no_members": "No members",
+    "options": "Options",
+    "tools": "Tools",
+    "background_color": "Background color",
+    "size": "Size",
+    "font_color": "Font color",
+    "color": "Color",
+    "opacity": "Opacity",
+    "text": "Text",
+    "fill": "Fill",
+    "thickness": "Thickness",
+    "border": "Border",
+    "head_type": "Head type",
+    "common": "Common",
+    "icons": "Icons",
+    "label": "Label",
+    "entities": "Entities",
+    "show_name": "Show name",
+    "show_radius": "Show radius",
+    "search": "Search",
+    "stop": "Stop",
+    "undo": "Undo",
+    "redo": "Redo",
+    "fit": "Fit",
+    "center": "Center",
+    "zoom": "Zoom",
+    "loading": "Loading"
+  },
+  "hub": {
+    "new_room": "New room",
+    "your_games": "Your games",
+    "room_created": "Created: {timestamp}",
+    "the_hub": "The Hub",
+    "intro_part_1": "This is the Hub for GameTactics - where the magic happens! (no pun intended). In the Hub, you'll find\n                  all\n                  rooms and tactics you're part of as well as your profile information.",
+    "intro_part2_1": "Click on the",
+    "intro_part2_2": "button to continue!",
+    "left_hand_corner": "Left hand corner!"
   },
   "authentication": {
-    "error": {
-      "reachServer": "无法连接身份认证服务器。"
-    }
+    "sign_in": "Sign in",
+    "sign_out": "Sign out",
+    "sign_in_to_chat": "Sign in to chat"
   },
-  "button": {
-    "save": "保存",
-    "cancel": "取消"
+  "room": {
+    "presenting": "Presenting",
+    "present": "Present",
+    "override": "Override",
+    "toggle_dark_mode": "Toggle dark mode",
+    "toggle_light_mode": "Toggle light mode",
+    "you_are_now_presenting": "You are now presenting",
+    "user_is_now_presenting": "{user} is now presenting",
+    "all_others_have_readonly_permissions": "All others have read-only permissions",
+    "you_now_have_readonly_permissions": "You now have read-only permissions"
   },
-  "teams": {
-    "one": "队伍1",
-    "two": "队伍2",
-    "title": "队伍",
-    "menu": {
-      "stats": "编辑属性",
-      "cloneEntityTeam": "在队伍中复制",
-      "cloneEntityDifferentTeam": "在不同队伍中复制",
-      "delete": "删除"
-    }
+  "error": {
+    "error": "Error",
+    "timed_out": "Timed out"
   },
-  "entity": {
-    "textField": {
-      "placeholder": "查找您的{entity}"
-    },
-    "alias": {
-      "textField": "昵称",
-      "placeholder": "为您的{entity} 添加昵称"
-    },
-    "wows": {
-      "artillery": {
-        "label": "主炮射程",
-        "placeholder": "例10"
-      },
-      "atbas": {
-        "label": "副炮射程",
-        "placeholder": "例5"
-      },
-      "surfaceConcealment": {
-        "label": "水面隐蔽",
-        "placeholder": "例5"
-      },
-      "planeConcealment": {
-        "label": "空中隐蔽",
-        "placeholder": "例3"
-      },
-      "torpedoRange": {
-        "label": "鱼雷射程",
-        "placeholder": "例10"
-      },
-      "radarRange": {
-        "label": "监视雷达范围",
-        "placeholder": "例9"
-      },
-      "hydroRange": {
-        "label": "对海搜索范围",
-        "placeholder": "例5"
-      }
-    }
+  "modal": {
+    "edit_cover": "Edit cover",
+    "select_game": "Select game",
+    "create_room": "Create room",
+    "create_tactic": "Create tactic",
+    "select_map": "Select map"
   },
-  "tool": {
-    "container": {
-      "move": "移动",
-      "ping": "Ping",
-      "freeDraw": "自由绘制",
-      "line": "直线",
-      "circle": "圆",
-      "ruler": "尺子",
-      "erase": "擦除",
-      "text": "文本",
-      "undo": "还原",
-      "redo": "重做"
-    },
-    "template": {
-      "colour": "颜色",
-      "fill": "填充",
-      "size": "大小",
-      "outline": "描边",
-      "permanent": "永久的",
-      "temporary": "临时的",
-      "endStyle": "端点样式",
-      "arrow": "箭头",
-      "tBar": "T型线",
-      "strokeStyle": "笔画样式",
-      "solidLine": "实线",
-      "dashedLine": "虚线",
-      "showRadius": "显示半径",
-      "hideRadius": "隐藏半径"
-    }
-  },
-  "navigation": {
-    "canvasTools": {
-      "zoomIn": "放大",
-      "zoomOut": "缩小",
-      "moveCanvas": "移动画布",
-      "centerCanvas": "居中画布"
-    },
-    "navigation": {
-      "saveRoom": "保存房间",
-      "presentationMode": {
-        "enable": "启用演示模式",
-        "disable": "关闭演示模式"
-      },
-      "manageRoom": "管理房间"
-    },
-    "login": {
-      "title": "登录",
-      "logout": "退出",
-      "card": {
-        "title": "选择登录方式"
-      }
-    }
-  },
-  "tactic": {
-    "noTacticsFound": "未创建战术",
-    "createTacticOverlay": {
-      "title": "新建战术",
-      "create": "创建战术"
-    },
-    "updateTacticOverlay": {
-      "title": "更新战术",
-      "update": "保存战术"
-    },
-    "overlay": {
-      "name": "战术名称",
-      "maps": "查找地图",
-      "search": "输入内容以搜索"
-    },
-    "title": "战术",
-    "edit": "编辑战术",
-    "pin": "标记战术",
-    "unpin": "取消标记",
-    "delete": "删除战术"
-  },
-  "user": {
-    "online": "在线",
-    "title": "用户",
-    "profile": "用户资料"
+  "validation": {
+    "must_be_at_least_x_characters": "Must be at least {x} characters",
+    "must_be_maximum_x_characters": "Must be maximum {x} characters"
   }
 }
