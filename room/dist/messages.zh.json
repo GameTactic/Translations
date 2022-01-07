@@ -18,6 +18,7 @@
     "team": "Team",
     "members": "Members",
     "no_members": "No members",
+    "edit_room": "Edit room",
     "options": "Options",
     "tools": "Tools",
     "background_color": "Background color",
@@ -43,7 +44,18 @@
     "fit": "Fit",
     "center": "Center",
     "zoom": "Zoom",
-    "loading": "Loading"
+    "loading": "Loading",
+    "confirm": "Confirm",
+    "ok": "OK",
+    "not_known": "N/A"
+  },
+  "user": {
+    "creator": "Creator",
+    "moderator": "Moderator",
+    "editor": "Editor",
+    "user": "User",
+    "anonymous": "Anonymous",
+    "you": "You"
   },
   "hub": {
     "new_room": "New room",
@@ -73,7 +85,8 @@
   },
   "error": {
     "error": "Error",
-    "timed_out": "Timed out"
+    "timed_out": "Timed out",
+    "session_expired": "Session expired"
   },
   "modal": {
     "edit_cover": "Edit cover",
@@ -84,6 +97,21 @@
   },
   "validation": {
     "must_be_at_least_x_characters": "Must be at least {x} characters",
-    "must_be_maximum_x_characters": "Must be maximum {x} characters"
+    "must_be_maximum_x_characters": "Must be maximum {x} characters",
+    "confirm_room_deletion": "Are you sure you want to delete this room?",
+    "confirm_room_leave": "Are you sure you want to leave this room?"
+  },
+  "tool": {
+    "select": "Select",
+    "circle": "Circle",
+    "entity": "Entity",
+    "eraser": "Eraser",
+    "drag": "Drag",
+    "icon": "Icon",
+    "line": "Line",
+    "pencil": "Pencil",
+    "ping": "Ping",
+    "sector": "Sector",
+    "text": "Text"
   }
 }
