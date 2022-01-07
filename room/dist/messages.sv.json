@@ -1,143 +1,89 @@
 {
-  "index": {
-    "redirected": "Du blir omdirigerad..."
+  "common": {
+    "create": "Create",
+    "name": "Name",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "leave": "Leave",
+    "delete": "Delete",
+    "update": "Update",
+    "edit": "Edit",
+    "message": "Message",
+    "tactics": "Tactics",
+    "tactic": "Tactic",
+    "views": "Views",
+    "user": "User",
+    "chat": "Chat",
+    "tool": "Tool",
+    "team": "Team",
+    "members": "Members",
+    "no_members": "No members",
+    "options": "Options",
+    "tools": "Tools",
+    "background_color": "Background color",
+    "size": "Size",
+    "font_color": "Font color",
+    "color": "Color",
+    "opacity": "Opacity",
+    "text": "Text",
+    "fill": "Fill",
+    "thickness": "Thickness",
+    "border": "Border",
+    "head_type": "Head type",
+    "common": "Common",
+    "icons": "Icons",
+    "label": "Label",
+    "entities": "Entities",
+    "show_name": "Show name",
+    "show_radius": "Show radius",
+    "search": "Search",
+    "stop": "Stop",
+    "undo": "Undo",
+    "redo": "Redo",
+    "fit": "Fit",
+    "center": "Center",
+    "zoom": "Zoom",
+    "loading": "Loading"
+  },
+  "hub": {
+    "new_room": "New room",
+    "your_games": "Your games",
+    "room_created": "Created: {timestamp}",
+    "the_hub": "The Hub",
+    "intro_part_1": "This is the Hub for GameTactics - where the magic happens! (no pun intended). In the Hub, you'll find\n                  all\n                  rooms and tactics you're part of as well as your profile information.",
+    "intro_part2_1": "Click on the",
+    "intro_part2_2": "button to continue!",
+    "left_hand_corner": "Left hand corner!"
   },
   "authentication": {
-    "error": {
-      "reachServer": "Kunde inte nå autentiseringsserven."
-    }
+    "sign_in": "Sign in",
+    "sign_out": "Sign out",
+    "sign_in_to_chat": "Sign in to chat"
   },
-  "button": {
-    "save": "Spara",
-    "cancel": "Avbryt"
+  "room": {
+    "presenting": "Presenting",
+    "present": "Present",
+    "override": "Override",
+    "toggle_dark_mode": "Toggle dark mode",
+    "toggle_light_mode": "Toggle light mode",
+    "you_are_now_presenting": "You are now presenting",
+    "user_is_now_presenting": "{user} is now presenting",
+    "all_others_have_readonly_permissions": "All others have read-only permissions",
+    "you_now_have_readonly_permissions": "You now have read-only permissions"
   },
-  "teams": {
-    "one": "Lag Ett",
-    "two": "Lag Två",
-    "title": "Lag",
-    "menu": {
-      "stats": "Redigera egenskaper",
-      "cloneEntityTeam": "Klona i detta lag",
-      "cloneEntityDifferentTeam": "Klona i ett annat lag",
-      "delete": "Radera"
-    }
+  "error": {
+    "error": "Error",
+    "timed_out": "Timed out"
   },
-  "entity": {
-    "textField": {
-      "placeholder": "Hitta din {entity}"
-    },
-    "alias": {
-      "textField": "Alias",
-      "placeholder": "Lägg till ett smeknamn till din {entity}"
-    },
-    "wows": {
-      "artillery": {
-        "label": "Main Battery Range",
-        "placeholder": "e.g. 10"
-      },
-      "atbas": {
-        "label": "Secondary Battery Range",
-        "placeholder": "e.g. 5"
-      },
-      "surfaceConcealment": {
-        "label": "Ytmaskering",
-        "placeholder": "e.g. 5"
-      },
-      "planeConcealment": {
-        "label": "Flygplansmaskering",
-        "placeholder": "e.g. 3"
-      },
-      "torpedoRange": {
-        "label": "Torped Avstånd",
-        "placeholder": "e.g. 10"
-      },
-      "radarRange": {
-        "label": "Radar Avstånd",
-        "placeholder": "e.g. 9"
-      },
-      "hydroRange": {
-        "label": "Hydro Range",
-        "placeholder": "e.g. 5"
-      }
-    }
+  "modal": {
+    "edit_cover": "Edit cover",
+    "select_game": "Select game",
+    "create_room": "Create room",
+    "create_tactic": "Create tactic",
+    "select_map": "Select map"
   },
-  "tool": {
-    "container": {
-      "move": "Flytta",
-      "ping": "Ping",
-      "freeDraw": "Frihand",
-      "line": "Rak linje",
-      "circle": "Cirkel",
-      "ruler": "Linjal",
-      "erase": "Radera",
-      "text": "Text",
-      "undo": "Ångra",
-      "redo": "Gör om"
-    },
-    "template": {
-      "colour": "Färg",
-      "fill": "Fyll",
-      "size": "Storlek",
-      "outline": "Kontur",
-      "permanent": "Permanent",
-      "temporary": "Temporär",
-      "endStyle": "End Style",
-      "arrow": "Pil",
-      "tBar": "T Bar",
-      "strokeStyle": "Stroke Style",
-      "solidLine": "Heldragna linjer",
-      "dashedLine": "Dashed Line",
-      "showRadius": "Visa Omkrets",
-      "hideRadius": "Göm Omkrets"
-    }
-  },
-  "navigation": {
-    "canvasTools": {
-      "zoomIn": "Zooma In",
-      "zoomOut": "Zoom Ut",
-      "moveCanvas": "Move Canvas",
-      "centerCanvas": "Center Canvas"
-    },
-    "navigation": {
-      "saveRoom": "Spara rum",
-      "presentationMode": {
-        "enable": "Aktivera presentationsläge",
-        "disable": "Inaktivera presentationsläge"
-      },
-      "manageRoom": "Hantera rum"
-    },
-    "login": {
-      "title": "Logga in",
-      "logout": "Logga ut",
-      "card": {
-        "title": "Välj ett inloggningsalternativ"
-      }
-    }
-  },
-  "tactic": {
-    "noTacticsFound": "Ingen taktik har blivit gjord",
-    "createTacticOverlay": {
-      "title": "Ny Taktik",
-      "create": "Skapa Taktik"
-    },
-    "updateTacticOverlay": {
-      "title": "Uppdatera Taktik",
-      "update": "Spara Taktik"
-    },
-    "overlay": {
-      "name": "Taktik Namn",
-      "maps": "Sök efter kartor",
-      "search": "Börja skriva för att söka"
-    },
-    "title": "Taktik",
-    "edit": "Redigera Taktik",
-    "pin": "Fäst Taktik",
-    "unpin": "Lås upp Taktik",
-    "delete": "Radera Taktik"
-  },
-  "user": {
-    "online": "Ansluten",
-    "title": "Användare",
-    "profile": "Användarprofil"
+  "validation": {
+    "must_be_at_least_x_characters": "Must be at least {x} characters",
+    "must_be_maximum_x_characters": "Must be maximum {x} characters"
   }
 }
