@@ -1,143 +1,89 @@
 {
-  "index": {
-    "redirected": "Du blir omdirigert..."
+  "common": {
+    "create": "Create",
+    "name": "Name",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "leave": "Leave",
+    "delete": "Delete",
+    "update": "Update",
+    "edit": "Edit",
+    "message": "Message",
+    "tactics": "Tactics",
+    "tactic": "Tactic",
+    "views": "Views",
+    "user": "User",
+    "chat": "Chat",
+    "tool": "Tool",
+    "team": "Team",
+    "members": "Members",
+    "no_members": "No members",
+    "options": "Options",
+    "tools": "Tools",
+    "background_color": "Background color",
+    "size": "Size",
+    "font_color": "Font color",
+    "color": "Color",
+    "opacity": "Opacity",
+    "text": "Text",
+    "fill": "Fill",
+    "thickness": "Thickness",
+    "border": "Border",
+    "head_type": "Head type",
+    "common": "Common",
+    "icons": "Icons",
+    "label": "Label",
+    "entities": "Entities",
+    "show_name": "Show name",
+    "show_radius": "Show radius",
+    "search": "Search",
+    "stop": "Stop",
+    "undo": "Undo",
+    "redo": "Redo",
+    "fit": "Fit",
+    "center": "Center",
+    "zoom": "Zoom",
+    "loading": "Loading"
+  },
+  "hub": {
+    "new_room": "New room",
+    "your_games": "Your games",
+    "room_created": "Created: {timestamp}",
+    "the_hub": "The Hub",
+    "intro_part_1": "This is the Hub for GameTactics - where the magic happens! (no pun intended). In the Hub, you'll find\n                  all\n                  rooms and tactics you're part of as well as your profile information.",
+    "intro_part2_1": "Click on the",
+    "intro_part2_2": "button to continue!",
+    "left_hand_corner": "Left hand corner!"
   },
   "authentication": {
-    "error": {
-      "reachServer": "Kunne ikke nå autentiseringstjeneren."
-    }
+    "sign_in": "Sign in",
+    "sign_out": "Sign out",
+    "sign_in_to_chat": "Sign in to chat"
   },
-  "button": {
-    "save": "Lagre",
-    "cancel": "Avbryt"
+  "room": {
+    "presenting": "Presenting",
+    "present": "Present",
+    "override": "Override",
+    "toggle_dark_mode": "Toggle dark mode",
+    "toggle_light_mode": "Toggle light mode",
+    "you_are_now_presenting": "You are now presenting",
+    "user_is_now_presenting": "{user} is now presenting",
+    "all_others_have_readonly_permissions": "All others have read-only permissions",
+    "you_now_have_readonly_permissions": "You now have read-only permissions"
   },
-  "teams": {
-    "one": "Lag 1",
-    "two": "Lag 2",
-    "title": "Lag",
-    "menu": {
-      "stats": "Rediger egenskaper",
-      "cloneEntityTeam": "Klon i dette laget",
-      "cloneEntityDifferentTeam": "Klon i et annet lag",
-      "delete": "Slett"
-    }
+  "error": {
+    "error": "Error",
+    "timed_out": "Timed out"
   },
-  "entity": {
-    "textField": {
-      "placeholder": "Finn din {entity}"
-    },
-    "alias": {
-      "textField": "Alias",
-      "placeholder": "Legg til et kallenavn for din {entity}"
-    },
-    "wows": {
-      "artillery": {
-        "label": "Hoved Batteri Rekkevidde",
-        "placeholder": "e.g 10"
-      },
-      "atbas": {
-        "label": "Sekundært batteriområde",
-        "placeholder": "e.g. 5"
-      },
-      "surfaceConcealment": {
-        "label": "Surface Concealment",
-        "placeholder": "e.g. 5"
-      },
-      "planeConcealment": {
-        "label": "Plane Concealment",
-        "placeholder": "e.g. 3"
-      },
-      "torpedoRange": {
-        "label": "Torpedo Rekkevidde",
-        "placeholder": "e.g. 10"
-      },
-      "radarRange": {
-        "label": "Radar Rekkevidde",
-        "placeholder": "e.g. 9"
-      },
-      "hydroRange": {
-        "label": "Hydro Rekkevidde",
-        "placeholder": "e.g. 5"
-      }
-    }
+  "modal": {
+    "edit_cover": "Edit cover",
+    "select_game": "Select game",
+    "create_room": "Create room",
+    "create_tactic": "Create tactic",
+    "select_map": "Select map"
   },
-  "tool": {
-    "container": {
-      "move": "Flytt",
-      "ping": "Ping",
-      "freeDraw": "Free Draw",
-      "line": "Rett linje",
-      "circle": "Sirkel",
-      "ruler": "Linjal",
-      "erase": "Viskelær",
-      "text": "Tekst",
-      "undo": "Angre",
-      "redo": "Gjøre Om"
-    },
-    "template": {
-      "colour": "Farge",
-      "fill": "Fyll",
-      "size": "Størrelse",
-      "outline": "Omriss",
-      "permanent": "Permanent",
-      "temporary": "Midlertidig",
-      "endStyle": "Sluttstil",
-      "arrow": "Pil",
-      "tBar": "T Bar",
-      "strokeStyle": "Strøk stil",
-      "solidLine": "Solid Linje",
-      "dashedLine": "Stiplet Linje",
-      "showRadius": "Vis Radius",
-      "hideRadius": "Sjul Radius"
-    }
-  },
-  "navigation": {
-    "canvasTools": {
-      "zoomIn": "Zoom Inn",
-      "zoomOut": "Zoom Ut",
-      "moveCanvas": "Flytt lerret",
-      "centerCanvas": "Midtstill Lerret"
-    },
-    "navigation": {
-      "saveRoom": "Lagre Rom",
-      "presentationMode": {
-        "enable": "Enable Presentation Mode",
-        "disable": "Disable Presentation Mode"
-      },
-      "manageRoom": "Manage Room"
-    },
-    "login": {
-      "title": "Login",
-      "logout": "Logout",
-      "card": {
-        "title": "Select a Login option"
-      }
-    }
-  },
-  "tactic": {
-    "noTacticsFound": "No Tactics have been created",
-    "createTacticOverlay": {
-      "title": "New Tactic",
-      "create": "Create Tactic"
-    },
-    "updateTacticOverlay": {
-      "title": "Update Tactic",
-      "update": "Save Tactic"
-    },
-    "overlay": {
-      "name": "Tactic name",
-      "maps": "Search for maps",
-      "search": "Start typing to search"
-    },
-    "title": "Tactics",
-    "edit": "Edit Tactic",
-    "pin": "Pin Tactic",
-    "unpin": "Unpin Tactic",
-    "delete": "Delete Tactic"
-  },
-  "user": {
-    "online": "Online",
-    "title": "Users",
-    "profile": "User Profile"
+  "validation": {
+    "must_be_at_least_x_characters": "Must be at least {x} characters",
+    "must_be_maximum_x_characters": "Must be maximum {x} characters"
   }
 }
