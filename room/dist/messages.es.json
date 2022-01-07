@@ -1,143 +1,89 @@
 {
-  "index": {
-    "redirected": "Estás siendo redirigido..."
+  "common": {
+    "create": "Create",
+    "name": "Name",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "leave": "Leave",
+    "delete": "Delete",
+    "update": "Update",
+    "edit": "Edit",
+    "message": "Message",
+    "tactics": "Tactics",
+    "tactic": "Tactic",
+    "views": "Views",
+    "user": "User",
+    "chat": "Chat",
+    "tool": "Tool",
+    "team": "Team",
+    "members": "Members",
+    "no_members": "No members",
+    "options": "Options",
+    "tools": "Tools",
+    "background_color": "Background color",
+    "size": "Size",
+    "font_color": "Font color",
+    "color": "Color",
+    "opacity": "Opacity",
+    "text": "Text",
+    "fill": "Fill",
+    "thickness": "Thickness",
+    "border": "Border",
+    "head_type": "Head type",
+    "common": "Common",
+    "icons": "Icons",
+    "label": "Label",
+    "entities": "Entities",
+    "show_name": "Show name",
+    "show_radius": "Show radius",
+    "search": "Search",
+    "stop": "Stop",
+    "undo": "Undo",
+    "redo": "Redo",
+    "fit": "Fit",
+    "center": "Center",
+    "zoom": "Zoom",
+    "loading": "Loading"
+  },
+  "hub": {
+    "new_room": "New room",
+    "your_games": "Your games",
+    "room_created": "Created: {timestamp}",
+    "the_hub": "The Hub",
+    "intro_part_1": "This is the Hub for GameTactics - where the magic happens! (no pun intended). In the Hub, you'll find\n                  all\n                  rooms and tactics you're part of as well as your profile information.",
+    "intro_part2_1": "Click on the",
+    "intro_part2_2": "button to continue!",
+    "left_hand_corner": "Left hand corner!"
   },
   "authentication": {
-    "error": {
-      "reachServer": "No se pudo acceder al servidor de autenticación."
-    }
+    "sign_in": "Sign in",
+    "sign_out": "Sign out",
+    "sign_in_to_chat": "Sign in to chat"
   },
-  "button": {
-    "save": "Guardar",
-    "cancel": "Cancelar"
+  "room": {
+    "presenting": "Presenting",
+    "present": "Present",
+    "override": "Override",
+    "toggle_dark_mode": "Toggle dark mode",
+    "toggle_light_mode": "Toggle light mode",
+    "you_are_now_presenting": "You are now presenting",
+    "user_is_now_presenting": "{user} is now presenting",
+    "all_others_have_readonly_permissions": "All others have read-only permissions",
+    "you_now_have_readonly_permissions": "You now have read-only permissions"
   },
-  "teams": {
-    "one": "Equipo Uno",
-    "two": "Equipo Dos",
-    "title": "Equipos",
-    "menu": {
-      "stats": "Editar propiedades",
-      "cloneEntityTeam": "Clonar en este equipo",
-      "cloneEntityDifferentTeam": "Clonar en otro equipo",
-      "delete": "Eliminar"
-    }
+  "error": {
+    "error": "Error",
+    "timed_out": "Timed out"
   },
-  "entity": {
-    "textField": {
-      "placeholder": "Encuentra tu {entity}"
-    },
-    "alias": {
-      "textField": "Alias",
-      "placeholder": "Añade un apodo para tu {entity}"
-    },
-    "wows": {
-      "artillery": {
-        "label": "Alcance de la Batería Principal",
-        "placeholder": "p.ej. 10"
-      },
-      "atbas": {
-        "label": "Rango de batería secundario",
-        "placeholder": "p.ej. 5"
-      },
-      "surfaceConcealment": {
-        "label": "Rango de Detección en Superficie",
-        "placeholder": "p.ej. 5"
-      },
-      "planeConcealment": {
-        "label": "Rango de Detección desde el aire",
-        "placeholder": "p.ej. 3"
-      },
-      "torpedoRange": {
-        "label": "Alcance de Torpedos",
-        "placeholder": "p.ej. 10"
-      },
-      "radarRange": {
-        "label": "Alcance de Radar",
-        "placeholder": "p.ej. 9"
-      },
-      "hydroRange": {
-        "label": "Alcance Hidroacústico",
-        "placeholder": "p.ej. 5"
-      }
-    }
+  "modal": {
+    "edit_cover": "Edit cover",
+    "select_game": "Select game",
+    "create_room": "Create room",
+    "create_tactic": "Create tactic",
+    "select_map": "Select map"
   },
-  "tool": {
-    "container": {
-      "move": "Mover",
-      "ping": "Ping",
-      "freeDraw": "A Mano Alzada",
-      "line": "Línea Recta",
-      "circle": "Círculo",
-      "ruler": "Regla",
-      "erase": "Borrar",
-      "text": "Texto",
-      "undo": "Deshacer",
-      "redo": "Rehacer"
-    },
-    "template": {
-      "colour": "Color",
-      "fill": "Rellenar",
-      "size": "Tamaño",
-      "outline": "Contorno",
-      "permanent": "Permanente",
-      "temporary": "Temporal",
-      "endStyle": "Estilo de las puntas",
-      "arrow": "Flecha",
-      "tBar": "Barra T",
-      "strokeStyle": "Estilo del Trazo",
-      "solidLine": "Línea Sólida",
-      "dashedLine": "Línea Discontinua",
-      "showRadius": "Mostrar Radio",
-      "hideRadius": "Ocultar Radio"
-    }
-  },
-  "navigation": {
-    "canvasTools": {
-      "zoomIn": "Acercar",
-      "zoomOut": "Alejar",
-      "moveCanvas": "Mover Lienzo",
-      "centerCanvas": "Centrar Lienzo"
-    },
-    "navigation": {
-      "saveRoom": "Guardar Sala",
-      "presentationMode": {
-        "enable": "Activar Modo Presentación",
-        "disable": "Desactivar Modo Presentación"
-      },
-      "manageRoom": "Administrar Sala"
-    },
-    "login": {
-      "title": "Iniciar Sesión",
-      "logout": "Cerrar Sesión",
-      "card": {
-        "title": "Seleccione una opción de inicio de sesión"
-      }
-    }
-  },
-  "tactic": {
-    "noTacticsFound": "No se han creado tácticas",
-    "createTacticOverlay": {
-      "title": "Nueva Táctica",
-      "create": "Crear Táctica"
-    },
-    "updateTacticOverlay": {
-      "title": "Actualizar Táctica",
-      "update": "Guardar Táctica"
-    },
-    "overlay": {
-      "name": "Nombre de la Táctica",
-      "maps": "Buscar mapa",
-      "search": "Empiece a escribir para buscar"
-    },
-    "title": "Tácticas",
-    "edit": "Editar Táctica",
-    "pin": "Anclar Táctica",
-    "unpin": "Desanclar táctica",
-    "delete": "Eliminar Táctica"
-  },
-  "user": {
-    "online": "En línea",
-    "title": "Usuarios",
-    "profile": "Perfil de usuario"
+  "validation": {
+    "must_be_at_least_x_characters": "Must be at least {x} characters",
+    "must_be_maximum_x_characters": "Must be maximum {x} characters"
   }
 }
