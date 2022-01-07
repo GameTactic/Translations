@@ -1,143 +1,89 @@
 {
-  "index": {
-    "redirected": "Vous allez maintenant être redirigé..."
+  "common": {
+    "create": "Create",
+    "name": "Name",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "leave": "Leave",
+    "delete": "Delete",
+    "update": "Update",
+    "edit": "Edit",
+    "message": "Message",
+    "tactics": "Tactics",
+    "tactic": "Tactic",
+    "views": "Views",
+    "user": "User",
+    "chat": "Chat",
+    "tool": "Tool",
+    "team": "Team",
+    "members": "Members",
+    "no_members": "No members",
+    "options": "Options",
+    "tools": "Tools",
+    "background_color": "Background color",
+    "size": "Size",
+    "font_color": "Font color",
+    "color": "Color",
+    "opacity": "Opacity",
+    "text": "Text",
+    "fill": "Fill",
+    "thickness": "Thickness",
+    "border": "Border",
+    "head_type": "Head type",
+    "common": "Common",
+    "icons": "Icons",
+    "label": "Label",
+    "entities": "Entities",
+    "show_name": "Show name",
+    "show_radius": "Show radius",
+    "search": "Search",
+    "stop": "Stop",
+    "undo": "Undo",
+    "redo": "Redo",
+    "fit": "Fit",
+    "center": "Center",
+    "zoom": "Zoom",
+    "loading": "Loading"
+  },
+  "hub": {
+    "new_room": "New room",
+    "your_games": "Your games",
+    "room_created": "Created: {timestamp}",
+    "the_hub": "The Hub",
+    "intro_part_1": "This is the Hub for GameTactics - where the magic happens! (no pun intended). In the Hub, you'll find\n                  all\n                  rooms and tactics you're part of as well as your profile information.",
+    "intro_part2_1": "Click on the",
+    "intro_part2_2": "button to continue!",
+    "left_hand_corner": "Left hand corner!"
   },
   "authentication": {
-    "error": {
-      "reachServer": "Impossible d'accéder au serveur d'authentification."
-    }
+    "sign_in": "Sign in",
+    "sign_out": "Sign out",
+    "sign_in_to_chat": "Sign in to chat"
   },
-  "button": {
-    "save": "Sauvegarder",
-    "cancel": "Annuler"
+  "room": {
+    "presenting": "Presenting",
+    "present": "Present",
+    "override": "Override",
+    "toggle_dark_mode": "Toggle dark mode",
+    "toggle_light_mode": "Toggle light mode",
+    "you_are_now_presenting": "You are now presenting",
+    "user_is_now_presenting": "{user} is now presenting",
+    "all_others_have_readonly_permissions": "All others have read-only permissions",
+    "you_now_have_readonly_permissions": "You now have read-only permissions"
   },
-  "teams": {
-    "one": "Équipe 1",
-    "two": "Équipe 2",
-    "title": "Équipes",
-    "menu": {
-      "stats": "Éditer les propriétés",
-      "cloneEntityTeam": "Cloner dans cette équipe",
-      "cloneEntityDifferentTeam": "Cloner dans une autre équipe",
-      "delete": "Supprimer"
-    }
+  "error": {
+    "error": "Error",
+    "timed_out": "Timed out"
   },
-  "entity": {
-    "textField": {
-      "placeholder": "Trouvez votre {entity}"
-    },
-    "alias": {
-      "textField": "Alias",
-      "placeholder": "Ajouter un surnom pour votre {entity}"
-    },
-    "wows": {
-      "artillery": {
-        "label": "Portée de la batterie principale",
-        "placeholder": "Par exemple: 10"
-      },
-      "atbas": {
-        "label": "Portée de la batterie secondaire",
-        "placeholder": "par exemple : 5"
-      },
-      "surfaceConcealment": {
-        "label": "Détectabilité de surface",
-        "placeholder": "Par exemple: 5"
-      },
-      "planeConcealment": {
-        "label": "Détectabilité aérienne",
-        "placeholder": "Par exemple: 3"
-      },
-      "torpedoRange": {
-        "label": "Portée des torpilles",
-        "placeholder": "Par exemple: 10"
-      },
-      "radarRange": {
-        "label": "Portée du radar",
-        "placeholder": "Par exemple: 9"
-      },
-      "hydroRange": {
-        "label": "Portée de l'Hydro",
-        "placeholder": "Par exemple: 5"
-      }
-    }
+  "modal": {
+    "edit_cover": "Edit cover",
+    "select_game": "Select game",
+    "create_room": "Create room",
+    "create_tactic": "Create tactic",
+    "select_map": "Select map"
   },
-  "tool": {
-    "container": {
-      "move": "Déplacer",
-      "ping": "Marquer",
-      "freeDraw": "Dessin libre",
-      "line": "Ligne doite",
-      "circle": "Cercle",
-      "ruler": "Règle",
-      "erase": "Gommer",
-      "text": "Texte",
-      "undo": "Annuler",
-      "redo": "Rétablir"
-    },
-    "template": {
-      "colour": "Couleur",
-      "fill": "Remplir",
-      "size": "Taille",
-      "outline": "Contour",
-      "permanent": "Permanent",
-      "temporary": "Temporaire",
-      "endStyle": "Style de l'extrémité",
-      "arrow": "Flèche",
-      "tBar": "Barre T",
-      "strokeStyle": "Style de trait",
-      "solidLine": "Lignes pleines",
-      "dashedLine": "Trait tillé",
-      "showRadius": "Montrer le rayon",
-      "hideRadius": "Cacher le rayon"
-    }
-  },
-  "navigation": {
-    "canvasTools": {
-      "zoomIn": "Agrandir",
-      "zoomOut": "Rétrécir",
-      "moveCanvas": "Déplacer le Canva",
-      "centerCanvas": "Centrer le Canva"
-    },
-    "navigation": {
-      "saveRoom": "Sauvegarder la salle",
-      "presentationMode": {
-        "enable": "Activer le mode de Présentation",
-        "disable": "Désactiver le mode de Présentation"
-      },
-      "manageRoom": "Gérer les salles"
-    },
-    "login": {
-      "title": "Se connecter",
-      "logout": "Se déconnecter",
-      "card": {
-        "title": "Sélectionnez une option de connexion"
-      }
-    }
-  },
-  "tactic": {
-    "noTacticsFound": "Aucune Tactiques créées",
-    "createTacticOverlay": {
-      "title": "Nouvelle Tactique",
-      "create": "Créer une Tactique"
-    },
-    "updateTacticOverlay": {
-      "title": "Mettre à jour une Tactique",
-      "update": "Sauvegarder la Tactique"
-    },
-    "overlay": {
-      "name": "Nom de la Tactique",
-      "maps": "Chercher un carte",
-      "search": "Tapez pour commencer à chercher"
-    },
-    "title": "Tactiques",
-    "edit": "Modifier la tactique",
-    "pin": "Épingler la tactique",
-    "unpin": "Désépingler la tactique",
-    "delete": "Supprimer la tactique"
-  },
-  "user": {
-    "online": "En ligne",
-    "title": "Utilisateurs",
-    "profile": "Profil Utilisateur"
+  "validation": {
+    "must_be_at_least_x_characters": "Must be at least {x} characters",
+    "must_be_maximum_x_characters": "Must be maximum {x} characters"
   }
 }
