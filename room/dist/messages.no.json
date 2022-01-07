@@ -62,56 +62,56 @@
     "your_games": "Dine spill",
     "room_created": "Opprettet: {timestamp}",
     "the_hub": "Hubben",
-    "intro_part_1": "This is the Hub for GameTactics - where the magic happens! (no pun intended). In the Hub, you'll find\n                  all\n                  rooms and tactics you're part of as well as your profile information.",
-    "intro_part2_1": "Click on the",
-    "intro_part2_2": "button to continue!",
-    "left_hand_corner": "Left hand corner!"
+    "intro_part_1": "Dette er hubben for GameTactics - hvor magien skjer!. I hubben finner du\n                  alle\n                  rom og taktikker du er en del av samt din profilinformasjon.",
+    "intro_part2_1": "Klikk på",
+    "intro_part2_2": "knappen for å fortsette!",
+    "left_hand_corner": "Venstre hånd hjørne!"
   },
   "authentication": {
-    "sign_in": "Sign in",
-    "sign_out": "Sign out",
-    "sign_in_to_chat": "Sign in to chat"
+    "sign_in": "Logg inn",
+    "sign_out": "Logg av",
+    "sign_in_to_chat": "Logg inn for å chatte"
   },
   "room": {
-    "presenting": "Presenting",
-    "present": "Present",
-    "override": "Override",
-    "toggle_dark_mode": "Toggle dark mode",
-    "toggle_light_mode": "Toggle light mode",
-    "you_are_now_presenting": "You are now presenting",
-    "user_is_now_presenting": "{user} is now presenting",
-    "all_others_have_readonly_permissions": "All others have read-only permissions",
-    "you_now_have_readonly_permissions": "You now have read-only permissions"
+    "presenting": "Presenterer",
+    "present": "Presenter",
+    "override": "Overstyr",
+    "toggle_dark_mode": "Mørkt modus av/på",
+    "toggle_light_mode": "Lys modus av/på",
+    "you_are_now_presenting": "Du presenterer nå",
+    "user_is_now_presenting": "{user} presenterer nå",
+    "all_others_have_readonly_permissions": "Alle andre har skrivebeskyttede tillatelser",
+    "you_now_have_readonly_permissions": "Du har nå skrivebeskyttede tillatelser"
   },
   "error": {
-    "error": "Error",
-    "timed_out": "Timed out",
-    "session_expired": "Session expired"
+    "error": "Feil",
+    "timed_out": "Tidsavbrudd",
+    "session_expired": "Økten har utløpt"
   },
   "modal": {
-    "edit_cover": "Edit cover",
-    "select_game": "Select game",
-    "create_room": "Create room",
-    "create_tactic": "Create tactic",
-    "select_map": "Select map"
+    "edit_cover": "Endre forside",
+    "select_game": "Velg spill",
+    "create_room": "Opprett rom",
+    "create_tactic": "Opprett taktikk",
+    "select_map": "Velg kart"
   },
   "validation": {
-    "must_be_at_least_x_characters": "Must be at least {x} characters",
-    "must_be_maximum_x_characters": "Must be maximum {x} characters",
-    "confirm_room_deletion": "Are you sure you want to delete this room?",
-    "confirm_room_leave": "Are you sure you want to leave this room?"
+    "must_be_at_least_x_characters": "Må bestå av minst {x} tegn",
+    "must_be_maximum_x_characters": "Må bestå av maks {x} tegn",
+    "confirm_room_deletion": "Er du sikker på at du vil slette dette rommet?",
+    "confirm_room_leave": "Er du sikker på at du vil forlate dette rommet?"
   },
   "tool": {
-    "select": "Select",
-    "circle": "Circle",
-    "entity": "Entity",
-    "eraser": "Eraser",
-    "drag": "Drag",
-    "icon": "Icon",
-    "line": "Line",
-    "pencil": "Pencil",
+    "select": "Velg",
+    "circle": "Sirkel",
+    "entity": "Operatør",
+    "eraser": "Viskelær",
+    "drag": "Dra",
+    "icon": "Ikon",
+    "line": "Linje",
+    "pencil": "Blyant",
     "ping": "Ping",
-    "sector": "Sector",
-    "text": "Text"
+    "sector": "Sektor",
+    "text": "Tekst"
   }
 }
