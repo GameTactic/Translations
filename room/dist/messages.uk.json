@@ -47,7 +47,8 @@
     "loading": "Loading",
     "confirm": "Confirm",
     "ok": "OK",
-    "not_known": "N/A"
+    "not_known": "N/A",
+    "or": "Or"
   },
   "user": {
     "creator": "Creator",
@@ -62,14 +63,20 @@
     "your_games": "Your games",
     "room_created": "Created: {timestamp}",
     "the_hub": "The Hub",
-    "intro_part_1": "This is the Hub for GameTactics - where the magic happens! (no pun intended). In the Hub, you'll find\n                  all\n                  rooms and tactics you're part of as well as your profile information.",
+    "intro_part_1": "This is the Hub for GameTactic! Here you'll find all rooms you're part of.",
     "intro_part2_1": "Click on the",
     "intro_part2_2": "button to continue!",
     "left_hand_corner": "Left hand corner!"
   },
-  "authentication": {
+  "login": {
+    "terms_of_service": "Terms of Service",
+    "forgot_password": "Forgot password",
+    "insider_login": "Insider login",
+    "email": "Email",
+    "password": "Password",
     "sign_in": "Sign in",
     "sign_out": "Sign out",
+    "register": "Register",
     "sign_in_to_chat": "Sign in to chat"
   },
   "room": {
