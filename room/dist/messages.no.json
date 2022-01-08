@@ -1,1 +1,117 @@
-{}
+{
+  "common": {
+    "create": "Opprett",
+    "name": "Navn",
+    "submit": "Send",
+    "cancel": "Avbryt",
+    "leave": "Forlat",
+    "delete": "Slett",
+    "update": "Oppdater",
+    "edit": "Rediger",
+    "message": "Send melding",
+    "tactics": "Taktikker",
+    "tactic": "Taktikk",
+    "views": "Visninger",
+    "user": "Bruker",
+    "chat": "Chat",
+    "tool": "Verktøy",
+    "team": "Lag",
+    "members": "Medlemmer",
+    "no_members": "Ingen medlemmer",
+    "edit_room": "Rediger rom",
+    "options": "Alternativer",
+    "tools": "Verktøy",
+    "background_color": "Bakgrunnsfarge",
+    "size": "Størrelse",
+    "font_color": "Skriftfarge",
+    "color": "Farge",
+    "opacity": "Gjennomsiktighet",
+    "text": "Tekst",
+    "fill": "Fyll",
+    "thickness": "Tykkelse",
+    "border": "Kant",
+    "head_type": "Sluttstykke",
+    "common": "Felles",
+    "icons": "Ikoner",
+    "label": "Etikett",
+    "entities": "Operatører",
+    "show_name": "Vis navn",
+    "show_radius": "Vis radius",
+    "search": "Søk",
+    "stop": "Stopp",
+    "undo": "Angre",
+    "redo": "Gjøre om",
+    "fit": "Tilpass",
+    "center": "Sentrer",
+    "zoom": "Forstørr",
+    "loading": "Laster",
+    "confirm": "Bekreft",
+    "ok": "OK",
+    "not_known": "N/A"
+  },
+  "user": {
+    "creator": "Skaper",
+    "moderator": "Moderator",
+    "editor": "Redaktør",
+    "user": "Bruker",
+    "anonymous": "Anonym",
+    "you": "Deg"
+  },
+  "hub": {
+    "new_room": "Nytt rom",
+    "your_games": "Dine spill",
+    "room_created": "Opprettet: {timestamp}",
+    "the_hub": "Hubben",
+    "intro_part_1": "Dette er hubben for GameTactics - hvor magien skjer!. I hubben finner du\n                  alle\n                  rom og taktikker du er en del av samt din profilinformasjon.",
+    "intro_part2_1": "Klikk på",
+    "intro_part2_2": "knappen for å fortsette!",
+    "left_hand_corner": "Venstre hånd hjørne!"
+  },
+  "authentication": {
+    "sign_in": "Logg inn",
+    "sign_out": "Logg av",
+    "sign_in_to_chat": "Logg inn for å chatte"
+  },
+  "room": {
+    "presenting": "Presenterer",
+    "present": "Presenter",
+    "override": "Overstyr",
+    "toggle_dark_mode": "Mørkt modus av/på",
+    "toggle_light_mode": "Lys modus av/på",
+    "you_are_now_presenting": "Du presenterer nå",
+    "user_is_now_presenting": "{user} presenterer nå",
+    "all_others_have_readonly_permissions": "Alle andre har skrivebeskyttede tillatelser",
+    "you_now_have_readonly_permissions": "Du har nå skrivebeskyttede tillatelser"
+  },
+  "error": {
+    "error": "Feil",
+    "timed_out": "Tidsavbrudd",
+    "session_expired": "Økten har utløpt"
+  },
+  "modal": {
+    "edit_cover": "Endre forside",
+    "select_game": "Velg spill",
+    "create_room": "Opprett rom",
+    "create_tactic": "Opprett taktikk",
+    "select_map": "Velg kart"
+  },
+  "validation": {
+    "must_be_at_least_x_characters": "Må bestå av minst {x} tegn",
+    "must_be_maximum_x_characters": "Må bestå av maks {x} tegn",
+    "confirm_room_deletion": "Er du sikker på at du vil slette dette rommet?",
+    "confirm_room_leave": "Er du sikker på at du vil forlate dette rommet?"
+  },
+  "tool": {
+    "select": "Velg",
+    "circle": "Sirkel",
+    "entity": "Operatør",
+    "eraser": "Viskelær",
+    "drag": "Dra",
+    "icon": "Ikon",
+    "line": "Linje",
+    "pencil": "Blyant",
+    "ping": "Ping",
+    "sector": "Sektor",
+    "text": "Tekst"
+  }
+}
