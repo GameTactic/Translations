@@ -1,7 +1,7 @@
 {
   "common": {
-    "create": "Create",
-    "name": "Name",
+    "create": "Créer",
+    "name": "Nom",
     "submit": "Submit",
     "cancel": "Cancel",
     "leave": "Leave",
