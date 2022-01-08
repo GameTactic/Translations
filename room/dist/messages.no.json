@@ -47,7 +47,8 @@
     "loading": "Laster",
     "confirm": "Bekreft",
     "ok": "OK",
-    "not_known": "N/A"
+    "not_known": "N/A",
+    "or": "Or"
   },
   "user": {
     "creator": "Skaper",
@@ -62,15 +63,21 @@
     "your_games": "Dine spill",
     "room_created": "Opprettet: {timestamp}",
     "the_hub": "Hubben",
-    "intro_part_1": "Dette er hubben for GameTactics - hvor magien skjer!. I hubben finner du\n                  alle\n                  rom og taktikker du er en del av samt din profilinformasjon.",
+    "intro_part_1": "This is the Hub for GameTactic! Here you'll find all rooms you're part of.",
     "intro_part2_1": "Klikk på",
     "intro_part2_2": "knappen for å fortsette!",
     "left_hand_corner": "Venstre hånd hjørne!"
   },
-  "authentication": {
-    "sign_in": "Logg inn",
-    "sign_out": "Logg av",
-    "sign_in_to_chat": "Logg inn for å chatte"
+  "login": {
+    "terms_of_service": "Terms of Service",
+    "forgot_password": "Forgot password",
+    "insider_login": "Insider login",
+    "email": "Email",
+    "password": "Password",
+    "sign_in": "Sign in",
+    "sign_out": "Sign out",
+    "register": "Register",
+    "sign_in_to_chat": "Sign in to chat"
   },
   "room": {
     "presenting": "Presenterer",
