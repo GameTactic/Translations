@@ -19,7 +19,7 @@
     "members": "Medlemmer",
     "no_members": "Ingen medlemmer",
     "edit_room": "Rediger rom",
-    "edit_tactic": "Edit tactic",
+    "edit_tactic": "Rediger taktikk",
     "options": "Alternativer",
     "tools": "Verktøy",
     "background_color": "Bakgrunnsfarge",
@@ -63,7 +63,7 @@
     "new_room": "Nytt rom",
     "your_games": "Dine spill",
     "room_created": "Opprettet: {timestamp}",
-    "room_updated": "Updated: {timestamp}",
+    "room_updated": "Oppdatert: {timestamp}",
     "the_hub": "Hubben",
     "intro_part_1": "Dette er Hubben til GameTactic! Her finner du alle rom du er medlem av.",
     "intro_part2_1": "Klikk på",
@@ -108,7 +108,7 @@
     "must_be_at_least_x_characters": "Må bestå av minst {x} tegn",
     "must_be_maximum_x_characters": "Må bestå av maks {x} tegn",
     "confirm_room_deletion": "Er du sikker på at du vil slette dette rommet?",
-    "confirm_tactic_deletion": "Are you sure you want to delete this tactic?",
+    "confirm_tactic_deletion": "Er du sikker på at du vil slette denne taktikken?",
     "confirm_room_leave": "Er du sikker på at du vil forlate dette rommet?"
   },
   "tool": {
