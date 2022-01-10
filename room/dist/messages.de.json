@@ -19,6 +19,7 @@
     "members": "Members",
     "no_members": "No members",
     "edit_room": "Edit room",
+    "edit_tactic": "Edit tactic",
     "options": "Options",
     "tools": "Tools",
     "background_color": "Background color",
@@ -62,6 +63,7 @@
     "new_room": "New room",
     "your_games": "Your games",
     "room_created": "Created: {timestamp}",
+    "room_updated": "Updated: {timestamp}",
     "the_hub": "The Hub",
     "intro_part_1": "This is the Hub for GameTactic! Here you'll find all rooms you're part of.",
     "intro_part2_1": "Click on the",
@@ -106,6 +108,7 @@
     "must_be_at_least_x_characters": "Must be at least {x} characters",
     "must_be_maximum_x_characters": "Must be maximum {x} characters",
     "confirm_room_deletion": "Are you sure you want to delete this room?",
+    "confirm_tactic_deletion": "Are you sure you want to delete this tactic?",
     "confirm_room_leave": "Are you sure you want to leave this room?"
   },
   "tool": {
