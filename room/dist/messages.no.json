@@ -48,7 +48,7 @@
     "confirm": "Bekreft",
     "ok": "OK",
     "not_known": "N/A",
-    "or": "Or"
+    "or": "Eller"
   },
   "user": {
     "creator": "Skaper",
@@ -63,20 +63,20 @@
     "your_games": "Dine spill",
     "room_created": "Opprettet: {timestamp}",
     "the_hub": "Hubben",
-    "intro_part_1": "This is the Hub for GameTactic! Here you'll find all rooms you're part of.",
+    "intro_part_1": "Dette er Hubben til GameTactic! Her finner du alle rom du er medlem av.",
     "intro_part2_1": "Klikk på",
     "intro_part2_2": "knappen for å fortsette!",
     "left_hand_corner": "Venstre hånd hjørne!"
   },
   "login": {
-    "terms_of_service": "Terms of Service",
-    "forgot_password": "Forgot password",
-    "insider_login": "Insider login",
-    "email": "Email",
-    "password": "Password",
-    "sign_in": "Sign in",
-    "sign_out": "Sign out",
-    "register": "Register",
+    "terms_of_service": "Tjenestevilkår",
+    "forgot_password": "Glemt passord",
+    "insider_login": "Innsider pålogging",
+    "email": "E-post",
+    "password": "Passord",
+    "sign_in": "Logg inn",
+    "sign_out": "Logg av",
+    "register": "Registrer",
     "sign_in_to_chat": "Sign in to chat"
   },
   "room": {
