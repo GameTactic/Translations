@@ -77,47 +77,47 @@
     "email": "E-mail",
     "password": "Mot de passe",
     "sign_in": "Se connecter",
-    "sign_out": "Déconnexion",
-    "register": "Register",
-    "sign_in_to_chat": "Sign in to chat"
+    "sign_out": "Se déconnecter",
+    "register": "S'inscrire",
+    "sign_in_to_chat": "Connectez-vous pour discuter"
   },
   "room": {
-    "presenting": "Presenting",
-    "present": "Present",
-    "override": "Override",
-    "toggle_dark_mode": "Toggle dark mode",
-    "toggle_light_mode": "Toggle light mode",
-    "you_are_now_presenting": "You are now presenting",
-    "user_is_now_presenting": "{user} is now presenting",
-    "all_others_have_readonly_permissions": "All others have read-only permissions",
-    "you_now_have_readonly_permissions": "You now have read-only permissions"
+    "presenting": "En présentation",
+    "present": "Présenter",
+    "override": "Remplacer",
+    "toggle_dark_mode": "Basculer en mode sombre",
+    "toggle_light_mode": "Basculer en mode clair",
+    "you_are_now_presenting": "Vous êtes en train de présenter",
+    "user_is_now_presenting": "{user} est en train de présenter",
+    "all_others_have_readonly_permissions": "Tous les autres ont des permissions en lecture seule",
+    "you_now_have_readonly_permissions": "Vous avez maintenant des permissions en lecture seule"
   },
   "error": {
-    "error": "Error",
-    "timed_out": "Timed out",
-    "session_expired": "Session expired"
+    "error": "Erreur",
+    "timed_out": "Délai écoulé",
+    "session_expired": "Votre session a expiré"
   },
   "modal": {
-    "edit_cover": "Edit cover",
-    "select_game": "Select game",
-    "create_room": "Create room",
-    "create_tactic": "Create tactic",
-    "select_map": "Select map"
+    "edit_cover": "Modifier la couverture",
+    "select_game": "Choisir un jeu",
+    "create_room": "Créer une salle",
+    "create_tactic": "Créer une tactique",
+    "select_map": "Choisir une carte"
   },
   "validation": {
-    "must_be_at_least_x_characters": "Must be at least {x} characters",
-    "must_be_maximum_x_characters": "Must be maximum {x} characters",
-    "confirm_room_deletion": "Are you sure you want to delete this room?",
-    "confirm_tactic_deletion": "Are you sure you want to delete this tactic?",
-    "confirm_room_leave": "Are you sure you want to leave this room?"
+    "must_be_at_least_x_characters": "Doit être d'au moins {x} caractères",
+    "must_be_maximum_x_characters": "Doit être d'au moins {x} caractères",
+    "confirm_room_deletion": "Voulez-vous vraiment supprimer cette salle ?",
+    "confirm_tactic_deletion": "Voulez-vous vraiment supprimer cette tactique ?",
+    "confirm_room_leave": "Voulez-vous vraiment quitter ce groupe ?"
   },
   "tool": {
-    "select": "Select",
-    "circle": "Circle",
-    "entity": "Entity",
-    "eraser": "Eraser",
-    "drag": "Drag",
-    "icon": "Icon",
+    "select": "Sélection",
+    "circle": "Cercle",
+    "entity": "Entité",
+    "eraser": "Gomme",
+    "drag": "Glisser",
+    "icon": "Icône",
     "line": "Ligne",
     "pencil": "Crayon",
     "ping": "Ping",
