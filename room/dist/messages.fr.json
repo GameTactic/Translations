@@ -64,8 +64,8 @@
     "your_games": "Vos jeux",
     "room_created": "Créé : {timestamp}",
     "room_updated": "Mise à jour : {timestamp}",
-    "the_hub": "The Hub",
-    "intro_part_1": "This is the Hub for GameTactic! Here you'll find all rooms you're part of.",
+    "the_hub": "Le Hub",
+    "intro_part_1": "Voici le Hub de GameTactic ! Vous trouverez ici toutes les salles dont vous faites partie.",
     "intro_part2_1": "Cliquez sur le",
     "intro_part2_2": "bouton pour continuer !",
     "left_hand_corner": "Coin gauche !"
