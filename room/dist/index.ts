@@ -6,6 +6,7 @@ import en from './messages.en.json'
 import es from './messages.es.json'
 import fi from './messages.fi.json'
 import fr from './messages.fr.json'
+import ja from './messages.ja.json'
 import hu from './messages.hu.json'
 import it from './messages.it.json'
 import nl from './messages.nl.json'
@@ -20,7 +21,7 @@ import uk from './messages.uk.json'
 import zh from './messages.zh.json'
 
 export const defaultLocale = 'en'
-export const locales = { cs, da, de, el, en, es, fi, fr, hu, it, nl, no, pl, ro, ru, sr, sv, tr, uk, zh }
+export const locales = { cs, da, de, el, en, es, fi, fr, ja, hu, it, nl, no, pl, ro, ru, sr, sv, tr, uk, zh }
 
 const _localeFiles: { [ key: string ]: string } = {}
 Object.keys(locales).forEach((value: string) => {
