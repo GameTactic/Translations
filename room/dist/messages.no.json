@@ -79,7 +79,9 @@
     "sign_in": "Logg inn",
     "sign_out": "Logg av",
     "register": "Registrer",
-    "sign_in_to_chat": "Logg inn for å chatte"
+    "sign_in_to_chat": "Logg inn for å chatte",
+    "username": "Username",
+    "confirm_password": "Confirm password"
   },
   "room": {
     "presenting": "Presenterer",
@@ -109,7 +111,10 @@
     "must_be_maximum_x_characters": "Må bestå av maks {x} tegn",
     "confirm_room_deletion": "Er du sikker på at du vil slette dette rommet?",
     "confirm_tactic_deletion": "Er du sikker på at du vil slette denne taktikken?",
-    "confirm_room_leave": "Er du sikker på at du vil forlate dette rommet?"
+    "confirm_room_leave": "Er du sikker på at du vil forlate dette rommet?",
+    "cannot_be_empty": "Cannot be empty",
+    "invalid_email_address": "Invalid email address",
+    "passwords_dont_match": "Passwords dont match"
   },
   "tool": {
     "select": "Velg",
