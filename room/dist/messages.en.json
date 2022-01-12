@@ -120,7 +120,7 @@
     "confirm_room_leave": "Are you sure you want to leave this room?",
     "cannot_be_empty": "Cannot be empty",
     "invalid_email_address": "Invalid email address",
-    "passwords_dont_match": "Passwords dont match",
+    "passwords_dont_match": "Passwords don't match",
     "invalid_username": "Invalid username"
   },
   "tool": {
