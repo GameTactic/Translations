@@ -79,7 +79,9 @@
     "sign_in": "ログイン",
     "sign_out": "ログアウト",
     "register": "登録",
-    "sign_in_to_chat": "ログインが必要"
+    "sign_in_to_chat": "ログインが必要",
+    "username": "Username",
+    "confirm_password": "Confirm password"
   },
   "room": {
     "presenting": "プレゼンテーション中",
@@ -109,7 +111,10 @@
     "must_be_maximum_x_characters": "最大 {x} 文字です",
     "confirm_room_deletion": "本当にこのルームを削除しますか？",
     "confirm_tactic_deletion": "本当にこの戦術を削除しますか？",
-    "confirm_room_leave": "本当にこのルームから退出しますか？"
+    "confirm_room_leave": "本当にこのルームから退出しますか？",
+    "cannot_be_empty": "Cannot be empty",
+    "invalid_email_address": "Invalid email address",
+    "passwords_dont_match": "Passwords dont match"
   },
   "tool": {
     "select": "選択",
