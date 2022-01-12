@@ -79,7 +79,10 @@
     "sign_in": "ログイン",
     "sign_out": "ログアウト",
     "register": "登録",
-    "sign_in_to_chat": "ログインが必要"
+    "sign_in_to_chat": "ログインが必要",
+    "username": "Username",
+    "confirm_password": "Confirm password",
+    "account_created": "Account created!"
   },
   "room": {
     "presenting": "プレゼンテーション中",
@@ -95,7 +98,12 @@
   "error": {
     "error": "エラー",
     "timed_out": "タイムアウト",
-    "session_expired": "セッションの期限が切れました"
+    "session_expired": "セッションの期限が切れました",
+    "invalid_email": "Invalid email",
+    "invalid_username": "Username already in use",
+    "unknown_error_occurred": "An unknown error occurred",
+    "internal_server_error": "Internal server error",
+    "account_exists": "Account already exists"
   },
   "modal": {
     "edit_cover": "カバーを編集",
@@ -109,7 +117,11 @@
     "must_be_maximum_x_characters": "最大 {x} 文字です",
     "confirm_room_deletion": "本当にこのルームを削除しますか？",
     "confirm_tactic_deletion": "本当にこの戦術を削除しますか？",
-    "confirm_room_leave": "本当にこのルームから退出しますか？"
+    "confirm_room_leave": "本当にこのルームから退出しますか？",
+    "cannot_be_empty": "Cannot be empty",
+    "invalid_email_address": "Invalid email address",
+    "passwords_dont_match": "Passwords dont match",
+    "invalid_username": "Invalid username"
   },
   "tool": {
     "select": "選択",

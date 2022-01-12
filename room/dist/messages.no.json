@@ -19,6 +19,7 @@
     "members": "Medlemmer",
     "no_members": "Ingen medlemmer",
     "edit_room": "Rediger rom",
+    "edit_tactic": "Rediger taktikk",
     "options": "Alternativer",
     "tools": "Verktøy",
     "background_color": "Bakgrunnsfarge",
@@ -47,7 +48,8 @@
     "loading": "Laster",
     "confirm": "Bekreft",
     "ok": "OK",
-    "not_known": "N/A"
+    "not_known": "N/A",
+    "or": "Eller"
   },
   "user": {
     "creator": "Skaper",
@@ -61,16 +63,26 @@
     "new_room": "Nytt rom",
     "your_games": "Dine spill",
     "room_created": "Opprettet: {timestamp}",
+    "room_updated": "Oppdatert: {timestamp}",
     "the_hub": "Hubben",
-    "intro_part_1": "Dette er hubben for GameTactics - hvor magien skjer!. I hubben finner du\n                  alle\n                  rom og taktikker du er en del av samt din profilinformasjon.",
+    "intro_part_1": "Dette er Hubben til GameTactic! Her finner du alle rom du er medlem av.",
     "intro_part2_1": "Klikk på",
     "intro_part2_2": "knappen for å fortsette!",
     "left_hand_corner": "Venstre hånd hjørne!"
   },
-  "authentication": {
+  "login": {
+    "terms_of_service": "Tjenestevilkår",
+    "forgot_password": "Glemt passord",
+    "insider_login": "Innsider pålogging",
+    "email": "E-post",
+    "password": "Passord",
     "sign_in": "Logg inn",
     "sign_out": "Logg av",
-    "sign_in_to_chat": "Logg inn for å chatte"
+    "register": "Registrer",
+    "sign_in_to_chat": "Logg inn for å chatte",
+    "username": "Brukernavn",
+    "confirm_password": "Bekreft passord",
+    "account_created": "Konto opprettet!"
   },
   "room": {
     "presenting": "Presenterer",
@@ -86,7 +98,12 @@
   "error": {
     "error": "Feil",
     "timed_out": "Tidsavbrudd",
-    "session_expired": "Økten har utløpt"
+    "session_expired": "Økten har utløpt",
+    "invalid_email": "Ugyldig e-postadresse",
+    "invalid_username": "Brukernavnet er allerede i bruk",
+    "unknown_error_occurred": "En ukjent feil har oppstått",
+    "internal_server_error": "Intern serverfeil",
+    "account_exists": "Kontoen eksisterer allerede"
   },
   "modal": {
     "edit_cover": "Endre forside",
@@ -99,7 +116,12 @@
     "must_be_at_least_x_characters": "Må bestå av minst {x} tegn",
     "must_be_maximum_x_characters": "Må bestå av maks {x} tegn",
     "confirm_room_deletion": "Er du sikker på at du vil slette dette rommet?",
-    "confirm_room_leave": "Er du sikker på at du vil forlate dette rommet?"
+    "confirm_tactic_deletion": "Er du sikker på at du vil slette denne taktikken?",
+    "confirm_room_leave": "Er du sikker på at du vil forlate dette rommet?",
+    "cannot_be_empty": "Kan ikke være tom",
+    "invalid_email_address": "Ugyldig e-postadresse",
+    "passwords_dont_match": "Passordene samsvarer ikke",
+    "invalid_username": "Ugyldig brukernavn"
   },
   "tool": {
     "select": "Velg",
