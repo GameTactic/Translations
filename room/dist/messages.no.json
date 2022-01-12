@@ -80,9 +80,9 @@
     "sign_out": "Logg av",
     "register": "Registrer",
     "sign_in_to_chat": "Logg inn for å chatte",
-    "username": "Username",
-    "confirm_password": "Confirm password",
-    "account_created": "Account created!"
+    "username": "Brukernavn",
+    "confirm_password": "Bekreft passord",
+    "account_created": "Konto opprettet!"
   },
   "room": {
     "presenting": "Presenterer",
@@ -99,11 +99,11 @@
     "error": "Feil",
     "timed_out": "Tidsavbrudd",
     "session_expired": "Økten har utløpt",
-    "invalid_email": "Invalid email",
-    "invalid_username": "Username already in use",
-    "unknown_error_occurred": "An unknown error occurred",
-    "internal_server_error": "Internal server error",
-    "account_exists": "Account already exists"
+    "invalid_email": "Ugyldig e-postadresse",
+    "invalid_username": "Brukernavnet er allerede i bruk",
+    "unknown_error_occurred": "En ukjent feil har oppstått",
+    "internal_server_error": "Intern serverfeil",
+    "account_exists": "Kontoen eksisterer allerede"
   },
   "modal": {
     "edit_cover": "Endre forside",
