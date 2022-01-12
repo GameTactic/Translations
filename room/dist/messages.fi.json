@@ -79,7 +79,9 @@
     "sign_in": "Sign in",
     "sign_out": "Sign out",
     "register": "Register",
-    "sign_in_to_chat": "Sign in to chat"
+    "sign_in_to_chat": "Sign in to chat",
+    "username": "Username",
+    "confirm_password": "Confirm password"
   },
   "room": {
     "presenting": "Presenting",
@@ -109,7 +111,10 @@
     "must_be_maximum_x_characters": "Must be maximum {x} characters",
     "confirm_room_deletion": "Are you sure you want to delete this room?",
     "confirm_tactic_deletion": "Are you sure you want to delete this tactic?",
-    "confirm_room_leave": "Are you sure you want to leave this room?"
+    "confirm_room_leave": "Are you sure you want to leave this room?",
+    "cannot_be_empty": "Cannot be empty",
+    "invalid_email_address": "Invalid email address",
+    "passwords_dont_match": "Passwords dont match"
   },
   "tool": {
     "select": "Select",
