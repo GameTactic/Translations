@@ -118,10 +118,10 @@
     "confirm_room_deletion": "Er du sikker på at du vil slette dette rommet?",
     "confirm_tactic_deletion": "Er du sikker på at du vil slette denne taktikken?",
     "confirm_room_leave": "Er du sikker på at du vil forlate dette rommet?",
-    "cannot_be_empty": "Cannot be empty",
-    "invalid_email_address": "Invalid email address",
-    "passwords_dont_match": "Passwords dont match",
-    "invalid_username": "Invalid username"
+    "cannot_be_empty": "Kan ikke være tom",
+    "invalid_email_address": "Ugyldig e-postadresse",
+    "passwords_dont_match": "Passordene samsvarer ikke",
+    "invalid_username": "Ugyldig brukernavn"
   },
   "tool": {
     "select": "Velg",
