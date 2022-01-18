@@ -82,7 +82,8 @@
     "sign_in_to_chat": "Logg inn for å chatte",
     "username": "Brukernavn",
     "confirm_password": "Bekreft passord",
-    "account_created": "Konto opprettet!"
+    "account_created": "Konto opprettet!",
+    "already_have_an_account": "Har du allerede en konto?"
   },
   "room": {
     "presenting": "Presenterer",

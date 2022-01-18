@@ -80,9 +80,10 @@
     "sign_out": "Se déconnecter",
     "register": "S'inscrire",
     "sign_in_to_chat": "Connectez-vous pour discuter",
-    "username": "Username",
-    "confirm_password": "Confirm password",
-    "account_created": "Account created!"
+    "username": "Nom d'utilisateur",
+    "confirm_password": "Confirmer le mot de passe",
+    "account_created": "Compte créé !",
+    "already_have_an_account": "Avez-vous déjà un compte?"
   },
   "room": {
     "presenting": "En présentation",
@@ -99,11 +100,11 @@
     "error": "Erreur",
     "timed_out": "Délai écoulé",
     "session_expired": "Votre session a expiré",
-    "invalid_email": "Invalid email",
-    "invalid_username": "Username already in use",
-    "unknown_error_occurred": "An unknown error occurred",
-    "internal_server_error": "Internal server error",
-    "account_exists": "Account already exists"
+    "invalid_email": "Email non valide",
+    "invalid_username": "Indentifiant déjà utilisé",
+    "unknown_error_occurred": "Une erreur inconnue s'est produite",
+    "internal_server_error": "Erreur interne du serveur",
+    "account_exists": "Ce compte existe déjà"
   },
   "modal": {
     "edit_cover": "Modifier la couverture",
@@ -118,10 +119,10 @@
     "confirm_room_deletion": "Voulez-vous vraiment supprimer cette salle ?",
     "confirm_tactic_deletion": "Voulez-vous vraiment supprimer cette tactique ?",
     "confirm_room_leave": "Voulez-vous vraiment quitter ce groupe ?",
-    "cannot_be_empty": "Cannot be empty",
-    "invalid_email_address": "Invalid email address",
-    "passwords_dont_match": "Passwords dont match",
-    "invalid_username": "Invalid username"
+    "cannot_be_empty": "Ne peut pas être vide",
+    "invalid_email_address": "Adresse email incorrecte",
+    "passwords_dont_match": "Les mots de passe ne correspondent pas",
+    "invalid_username": "Nom d'utilisateur invalide"
   },
   "tool": {
     "select": "Sélection",
