@@ -82,7 +82,8 @@
     "sign_in_to_chat": "Connectez-vous pour discuter",
     "username": "Nom d'utilisateur",
     "confirm_password": "Confirmer le mot de passe",
-    "account_created": "Compte créé !"
+    "account_created": "Compte créé !",
+    "already_have_an_account": "Already have an account?"
   },
   "room": {
     "presenting": "En présentation",
