@@ -83,7 +83,7 @@
     "username": "Brukernavn",
     "confirm_password": "Bekreft passord",
     "account_created": "Konto opprettet!",
-    "already_have_an_account": "Already have an account?"
+    "already_have_an_account": "Har du allerede en konto?"
   },
   "room": {
     "presenting": "Presenterer",
