@@ -82,7 +82,8 @@
     "sign_in_to_chat": "Inicia sessão para poderes conversar",
     "username": "Username",
     "confirm_password": "Confirm password",
-    "account_created": "Account created!"
+    "account_created": "Account created!",
+    "already_have_an_account": "Already have an account?"
   },
   "room": {
     "presenting": "Presenting",
