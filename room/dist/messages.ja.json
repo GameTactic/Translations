@@ -80,10 +80,10 @@
     "sign_out": "ログアウト",
     "register": "登録",
     "sign_in_to_chat": "ログインが必要",
-    "username": "Username",
-    "confirm_password": "Confirm password",
-    "account_created": "Account created!",
-    "already_have_an_account": "Already have an account?"
+    "username": "ユーザー名",
+    "confirm_password": "パスワードの確認",
+    "account_created": "アカウントが作成されました！",
+    "already_have_an_account": "アカウントを既にお持ちですか？"
   },
   "room": {
     "presenting": "プレゼンテーション中",
@@ -100,11 +100,11 @@
     "error": "エラー",
     "timed_out": "タイムアウト",
     "session_expired": "セッションの期限が切れました",
-    "invalid_email": "Invalid email",
-    "invalid_username": "Username already in use",
-    "unknown_error_occurred": "An unknown error occurred",
-    "internal_server_error": "Internal server error",
-    "account_exists": "Account already exists"
+    "invalid_email": "無効なメールアドレスです。",
+    "invalid_username": "既に使用されているユーザー名です",
+    "unknown_error_occurred": "不明なエラーが発生しました。",
+    "internal_server_error": "内部サーバーエラー",
+    "account_exists": "アカウントが既に存在します"
   },
   "modal": {
     "edit_cover": "カバーを編集",
@@ -119,10 +119,10 @@
     "confirm_room_deletion": "本当にこのルームを削除しますか？",
     "confirm_tactic_deletion": "本当にこの戦術を削除しますか？",
     "confirm_room_leave": "本当にこのルームから退出しますか？",
-    "cannot_be_empty": "Cannot be empty",
-    "invalid_email_address": "Invalid email address",
-    "passwords_dont_match": "Passwords dont match",
-    "invalid_username": "Invalid username"
+    "cannot_be_empty": "記入してください",
+    "invalid_email_address": "メールアドレスが正しくありません",
+    "passwords_dont_match": "パスワードが一致しません",
+    "invalid_username": "ユーザー名が正しくありません"
   },
   "tool": {
     "select": "選択",
