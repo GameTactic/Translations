@@ -104,7 +104,8 @@
     "invalid_username": "Indentifiant déjà utilisé",
     "unknown_error_occurred": "Une erreur inconnue s'est produite",
     "internal_server_error": "Erreur interne du serveur",
-    "account_exists": "Ce compte existe déjà"
+    "account_exists": "Ce compte existe déjà",
+    "invalid_credentials": "Invalid credentials"
   },
   "modal": {
     "edit_cover": "Modifier la couverture",
