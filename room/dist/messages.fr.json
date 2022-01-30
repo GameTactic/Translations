@@ -122,7 +122,7 @@
     "confirm_room_leave": "Voulez-vous vraiment quitter ce groupe ?",
     "cannot_be_empty": "Ne peut pas être vide",
     "invalid_email_address": "Adresse email incorrecte",
-    "passwords_dont_match": "Les mots de passe ne correspondent pas",
+    "passwords_dont_match": "Passwords don't match",
     "invalid_username": "Nom d'utilisateur invalide"
   },
   "tool": {
