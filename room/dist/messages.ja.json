@@ -104,7 +104,8 @@
     "invalid_username": "既に使用されているユーザー名です",
     "unknown_error_occurred": "不明なエラーが発生しました。",
     "internal_server_error": "内部サーバーエラー",
-    "account_exists": "アカウントが既に存在します"
+    "account_exists": "アカウントが既に存在します",
+    "invalid_credentials": "Invalid credentials"
   },
   "modal": {
     "edit_cover": "カバーを編集",
