@@ -9,7 +9,7 @@
     "update": "Mettre à jour",
     "edit": "Modifier",
     "message": "Message",
-    "language": "Language",
+    "language": "Langue",
     "tactics": "Tactiques",
     "tactic": "Tactique",
     "views": "Vues",
@@ -106,7 +106,7 @@
     "unknown_error_occurred": "Une erreur inconnue s'est produite",
     "internal_server_error": "Erreur interne du serveur",
     "account_exists": "Ce compte existe déjà",
-    "invalid_credentials": "Invalid credentials"
+    "invalid_credentials": "Identifiants invalides"
   },
   "modal": {
     "edit_cover": "Modifier la couverture",
@@ -123,7 +123,7 @@
     "confirm_room_leave": "Voulez-vous vraiment quitter ce groupe ?",
     "cannot_be_empty": "Ne peut pas être vide",
     "invalid_email_address": "Adresse email incorrecte",
-    "passwords_dont_match": "Passwords don't match",
+    "passwords_dont_match": "Les mots de passe ne correspondent pas",
     "invalid_username": "Nom d'utilisateur invalide"
   },
   "tool": {
