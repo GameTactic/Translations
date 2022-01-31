@@ -9,7 +9,7 @@
     "update": "Päivitä",
     "edit": "Muokkaa",
     "message": "Viesti",
-    "language": "Language",
+    "language": "Kieli",
     "tactics": "Taktiikat",
     "tactic": "Taktiikka",
     "views": "Näytä",
@@ -106,7 +106,7 @@
     "unknown_error_occurred": "Tapahtui tuntematon virhe",
     "internal_server_error": "Sisäinen palvelinvirhe",
     "account_exists": "Tili on jo olemassa",
-    "invalid_credentials": "Invalid credentials"
+    "invalid_credentials": "Virheelliset kirjautumistiedot"
   },
   "modal": {
     "edit_cover": "Muokkaa kantta",
@@ -123,7 +123,7 @@
     "confirm_room_leave": "Haluatko varmasti poistua huoneesta?",
     "cannot_be_empty": "Ei voi olla tyhjä",
     "invalid_email_address": "Virheellinen sähköpostiosoite",
-    "passwords_dont_match": "Passwords don't match",
+    "passwords_dont_match": "Salasanat eivät täsmää",
     "invalid_username": "Virheellinen käyttäjänimi"
   },
   "tool": {
