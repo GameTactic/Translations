@@ -9,7 +9,7 @@
     "update": "更新",
     "edit": "編集",
     "message": "メッセージ",
-    "language": "Language",
+    "language": "言語",
     "tactics": "一覧",
     "tactic": "タクティクス",
     "views": "フロア",
@@ -106,7 +106,7 @@
     "unknown_error_occurred": "不明なエラーが発生しました。",
     "internal_server_error": "内部サーバーエラー",
     "account_exists": "アカウントが既に存在します",
-    "invalid_credentials": "Invalid credentials"
+    "invalid_credentials": "無効なログイン情報"
   },
   "modal": {
     "edit_cover": "カバーを編集",
@@ -123,7 +123,7 @@
     "confirm_room_leave": "本当にこのルームから退出しますか？",
     "cannot_be_empty": "記入してください",
     "invalid_email_address": "メールアドレスが正しくありません",
-    "passwords_dont_match": "Passwords don't match",
+    "passwords_dont_match": "パスワードが一致しません",
     "invalid_username": "ユーザー名が正しくありません"
   },
   "tool": {
