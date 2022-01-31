@@ -67,8 +67,8 @@
     "room_updated": "更新日: {timestamp}",
     "the_hub": "ハブ",
     "intro_part_1": "こちらがGameTacticのハブです。あなたが所属しているすべての部屋があります。",
-    "intro_part2_1": "をクリックする",
-    "intro_part2_2": "ボタンを押して続けます",
+    "intro_part2_1": "左上の",
+    "intro_part2_2": "をクリックしてください！",
     "left_hand_corner": "左側"
   },
   "login": {
