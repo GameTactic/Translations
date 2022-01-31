@@ -9,6 +9,7 @@
     "update": "更新",
     "edit": "編集",
     "message": "メッセージ",
+    "language": "言語",
     "tactics": "一覧",
     "tactic": "タクティクス",
     "views": "フロア",
@@ -66,8 +67,8 @@
     "room_updated": "更新日: {timestamp}",
     "the_hub": "ハブ",
     "intro_part_1": "こちらがGameTacticのハブです。あなたが所属しているすべての部屋があります。",
-    "intro_part2_1": "をクリックする",
-    "intro_part2_2": "ボタンを押して続けます",
+    "intro_part2_1": "左上の",
+    "intro_part2_2": "をクリックしてください！",
     "left_hand_corner": "左側"
   },
   "login": {
@@ -104,7 +105,8 @@
     "invalid_username": "既に使用されているユーザー名です",
     "unknown_error_occurred": "不明なエラーが発生しました。",
     "internal_server_error": "内部サーバーエラー",
-    "account_exists": "アカウントが既に存在します"
+    "account_exists": "アカウントが既に存在します",
+    "invalid_credentials": "無効なログイン情報"
   },
   "modal": {
     "edit_cover": "カバーを編集",

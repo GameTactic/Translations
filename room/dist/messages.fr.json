@@ -9,6 +9,7 @@
     "update": "Mettre à jour",
     "edit": "Modifier",
     "message": "Message",
+    "language": "Langue",
     "tactics": "Tactiques",
     "tactic": "Tactique",
     "views": "Vues",
@@ -104,7 +105,8 @@
     "invalid_username": "Indentifiant déjà utilisé",
     "unknown_error_occurred": "Une erreur inconnue s'est produite",
     "internal_server_error": "Erreur interne du serveur",
-    "account_exists": "Ce compte existe déjà"
+    "account_exists": "Ce compte existe déjà",
+    "invalid_credentials": "Identifiants invalides"
   },
   "modal": {
     "edit_cover": "Modifier la couverture",

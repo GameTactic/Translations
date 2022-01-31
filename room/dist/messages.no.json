@@ -9,6 +9,7 @@
     "update": "Oppdater",
     "edit": "Rediger",
     "message": "Send melding",
+    "language": "Språk",
     "tactics": "Taktikker",
     "language": "Språk",
     "tactic": "Taktikk",
@@ -105,7 +106,8 @@
     "invalid_username": "Brukernavnet er allerede i bruk",
     "unknown_error_occurred": "En ukjent feil har oppstått",
     "internal_server_error": "Intern serverfeil",
-    "account_exists": "Kontoen eksisterer allerede"
+    "account_exists": "Kontoen eksisterer allerede",
+    "invalid_credentials": "Ugyldig påloggingsinformasjon"
   },
   "modal": {
     "edit_cover": "Endre forside",

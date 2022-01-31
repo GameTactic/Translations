@@ -9,6 +9,7 @@
     "update": "Atualizar",
     "edit": "Editar",
     "message": "Mensagem",
+    "language": "Language",
     "tactics": "Táticas",
     "tactic": "Tático",
     "views": "Visualizações",
@@ -104,7 +105,8 @@
     "invalid_username": "Username already in use",
     "unknown_error_occurred": "An unknown error occurred",
     "internal_server_error": "Internal server error",
-    "account_exists": "Account already exists"
+    "account_exists": "Account already exists",
+    "invalid_credentials": "Invalid credentials"
   },
   "modal": {
     "edit_cover": "Edit cover",
@@ -121,7 +123,7 @@
     "confirm_room_leave": "Are you sure you want to leave this room?",
     "cannot_be_empty": "Cannot be empty",
     "invalid_email_address": "Invalid email address",
-    "passwords_dont_match": "Passwords dont match",
+    "passwords_dont_match": "Passwords don't match",
     "invalid_username": "Invalid username"
   },
   "tool": {
