@@ -46,7 +46,7 @@
     "fit": "Fit",
     "center": "Centrar",
     "zoom": "Zoom",
-    "loading": "Cargando",
+    "loading": "Cargando...",
     "confirm": "Confirm",
     "ok": "Aceptar",
     "not_known": "No disponible",
@@ -83,7 +83,7 @@
     "sign_in_to_chat": "Sign in to chat",
     "username": "Nombre de usuario",
     "confirm_password": "Confirmar contraseña",
-    "account_created": "Account created!",
+    "account_created": "¡Cuenta creada con éxito!",
     "already_have_an_account": "Already have an account?"
   },
   "room": {
@@ -111,9 +111,9 @@
   "modal": {
     "edit_cover": "Edit cover",
     "select_game": "Select game",
-    "create_room": "Create room",
-    "create_tactic": "Create tactic",
-    "select_map": "Select map"
+    "create_room": "Nueva sala",
+    "create_tactic": "Nueva táctica",
+    "select_map": "Seleccionar mapa"
   },
   "validation": {
     "must_be_at_least_x_characters": "Must be at least {x} characters",
@@ -128,7 +128,7 @@
   },
   "tool": {
     "select": "Select",
-    "circle": "Circle",
+    "circle": "Círculo",
     "entity": "Entity",
     "eraser": "Eraser",
     "drag": "Drag",
