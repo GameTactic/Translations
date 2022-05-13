@@ -90,18 +90,18 @@
     "presenting": "Presentando",
     "present": "Presentar",
     "override": "Override",
-    "toggle_dark_mode": "Toggle dark mode",
-    "toggle_light_mode": "Toggle light mode",
-    "you_are_now_presenting": "You are now presenting",
-    "user_is_now_presenting": "{user} is now presenting",
+    "toggle_dark_mode": "Activar modo oscuro",
+    "toggle_light_mode": "Activar modo claro",
+    "you_are_now_presenting": "Ahora estás presentando",
+    "user_is_now_presenting": "{user} está ahora presentando",
     "all_others_have_readonly_permissions": "All others have read-only permissions",
     "you_now_have_readonly_permissions": "You now have read-only permissions"
   },
   "error": {
     "error": "Error",
-    "timed_out": "Timed out",
-    "session_expired": "Session expired",
-    "invalid_email": "Invalid email",
+    "timed_out": "Tiempo agotado",
+    "session_expired": "Sesión expirada",
+    "invalid_email": "Email inválido",
     "invalid_username": "Username already in use",
     "unknown_error_occurred": "An unknown error occurred",
     "internal_server_error": "Internal server error",
@@ -110,7 +110,7 @@
   },
   "modal": {
     "edit_cover": "Edit cover",
-    "select_game": "Select game",
+    "select_game": "Seleccionar juego",
     "create_room": "Nueva sala",
     "create_tactic": "Nueva táctica",
     "select_map": "Seleccionar mapa"
@@ -121,22 +121,22 @@
     "confirm_room_deletion": "Are you sure you want to delete this room?",
     "confirm_tactic_deletion": "Are you sure you want to delete this tactic?",
     "confirm_room_leave": "Are you sure you want to leave this room?",
-    "cannot_be_empty": "Cannot be empty",
-    "invalid_email_address": "Invalid email address",
-    "passwords_dont_match": "Passwords don't match",
-    "invalid_username": "Invalid username"
+    "cannot_be_empty": "No puede estar vacío",
+    "invalid_email_address": "Dirección de email inválida",
+    "passwords_dont_match": "Las contraseñas no coinciden",
+    "invalid_username": "Nombre de usuario inválido"
   },
   "tool": {
-    "select": "Select",
+    "select": "Seleccionar",
     "circle": "Círculo",
-    "entity": "Entity",
-    "eraser": "Eraser",
+    "entity": "Entidad",
+    "eraser": "Borrador",
     "drag": "Arrastrar",
-    "icon": "Icon",
+    "icon": "Icono",
     "line": "Línea",
-    "pencil": "Pencil",
+    "pencil": "Lápiz",
     "ping": "Ping",
     "sector": "Sector",
-    "text": "Text"
+    "text": "Texto"
   }
 }
