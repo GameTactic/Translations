@@ -94,8 +94,8 @@
     "toggle_light_mode": "Activar modo claro",
     "you_are_now_presenting": "Ahora estás presentando",
     "user_is_now_presenting": "{user} está ahora presentando",
-    "all_others_have_readonly_permissions": "All others have read-only permissions",
-    "you_now_have_readonly_permissions": "You now have read-only permissions"
+    "all_others_have_readonly_permissions": "Todos los demás tienen los permisos de solo lectura",
+    "you_now_have_readonly_permissions": "Ahora tienes los permisos de solo lectura"
   },
   "error": {
     "error": "Error",
@@ -109,7 +109,7 @@
     "invalid_credentials": "Credenciales inválidas"
   },
   "modal": {
-    "edit_cover": "Edit cover",
+    "edit_cover": "Editar portada",
     "select_game": "Seleccionar juego",
     "create_room": "Nueva sala",
     "create_tactic": "Nueva táctica",
