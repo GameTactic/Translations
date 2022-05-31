@@ -32,7 +32,7 @@
     "fill": "Wypełnij",
     "thickness": "Grubość",
     "border": "Krawędź",
-    "head_type": "Head type",
+    "head_type": "Typ nagłówka",
     "common": "Wspólne",
     "icons": "Ikony",
     "label": "Etykieta",
@@ -68,7 +68,7 @@
     "the_hub": "Centrum",
     "intro_part_1": "To jest centrum GameTactic! Tutaj znajdziesz wszystkie pokoje, w których bierzesz udział.",
     "intro_part2_1": "Kliknij",
-    "intro_part2_2": "button to continue!",
+    "intro_part2_2": "wciśnij przycisk, aby kontynuować!",
     "left_hand_corner": "Lewy narożnik!"
   },
   "login": {
@@ -87,8 +87,8 @@
     "already_have_an_account": "Masz już konto?"
   },
   "room": {
-    "presenting": "Presenting",
-    "present": "Present",
+    "presenting": "Prezentuje",
+    "present": "Prezentuj",
     "override": "Nadpisać",
     "toggle_dark_mode": "Włącz tryb ciemny",
     "toggle_light_mode": "Włącz tryb jasny",
@@ -101,16 +101,16 @@
     "error": "Błąd",
     "timed_out": "Utracono połączenie",
     "session_expired": "Sesja wygasła",
-    "invalid_email": "Nieprawidłowy email",
+    "invalid_email": "Nieprawidłowy e-mail",
     "invalid_username": "Nazwa użytkownika jest już w użyciu",
     "unknown_error_occurred": "Wystąpił nieznany błąd",
     "internal_server_error": "Wewnętrzny błąd serwera",
     "account_exists": "Konto już istnieje",
-    "invalid_credentials": "Invalid credentials"
+    "invalid_credentials": "Nieprawidłowe dane logowania"
   },
   "modal": {
-    "edit_cover": "Edit cover",
-    "select_game": "Select game",
+    "edit_cover": "Edytuj okładkę",
+    "select_game": "Wybierz grę",
     "create_room": "Stwórz pokój",
     "create_tactic": "Utwórz taktykę",
     "select_map": "Wybierz mapę"
