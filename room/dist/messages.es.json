@@ -1,6 +1,6 @@
 {
   "common": {
-    "create": "Nuevo",
+    "create": "Crear",
     "name": "Nombre",
     "submit": "Enviar",
     "cancel": "Cancelar",
@@ -17,10 +17,10 @@
     "chat": "Chat",
     "tool": "Herramienta",
     "team": "Equipo",
-    "members": "Usuarios",
+    "members": "Miembros",
     "no_members": "No hay miembros",
     "edit_room": "Editar sala",
-    "edit_tactic": "Editar Táctica",
+    "edit_tactic": "Editar táctica",
     "options": "Opciones",
     "tools": "Herramientas",
     "background_color": "Color del fondo",
@@ -46,10 +46,10 @@
     "fit": "Ajustar",
     "center": "Centrar",
     "zoom": "Zoom",
-    "loading": "Cargando...",
+    "loading": "Cargando",
     "confirm": "Confirmar",
-    "ok": "Aceptar",
-    "not_known": "No disponible",
+    "ok": "OK",
+    "not_known": "N/A",
     "or": "O"
   },
   "user": {
@@ -75,7 +75,7 @@
     "terms_of_service": "Términos de servicio",
     "forgot_password": "Contraseña olvidada",
     "insider_login": "Inicio de sesión",
-    "email": "Correo Electrónico",
+    "email": "Email",
     "password": "Contraseña",
     "sign_in": "Iniciar sesión",
     "sign_out": "Cerrar sesión",
@@ -83,7 +83,7 @@
     "sign_in_to_chat": "Iniciar sesión para chatear",
     "username": "Nombre de usuario",
     "confirm_password": "Confirmar contraseña",
-    "account_created": "¡Cuenta creada con éxito!",
+    "account_created": "¡Cuenta creada!",
     "already_have_an_account": "¿Ya tienes una cuenta?"
   },
   "room": {
@@ -103,7 +103,7 @@
     "session_expired": "Sesión expirada",
     "invalid_email": "Email inválido",
     "invalid_username": "Nombre de usuario ya en uso",
-    "unknown_error_occurred": "Un error desconocido ha ocurrido",
+    "unknown_error_occurred": "Un error desconocido ocurrió",
     "internal_server_error": "Error del servidor interno",
     "account_exists": "La cuenta ya existe",
     "invalid_credentials": "Credenciales inválidas"
@@ -112,7 +112,7 @@
     "edit_cover": "Editar portada",
     "select_game": "Seleccionar juego",
     "create_room": "Crear sala",
-    "create_tactic": "Nueva táctica",
+    "create_tactic": "Crear táctica",
     "select_map": "Seleccionar mapa"
   },
   "validation": {
